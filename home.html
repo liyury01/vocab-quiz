@@ -34,7 +34,7 @@
     }
 
     async function init() {
-      const res = await fetch('/words-manifest.json');
+      const res = await fetch('words-manifest.json');
       const files = await res.json();
       const container = document.getElementById('file-list');
 
