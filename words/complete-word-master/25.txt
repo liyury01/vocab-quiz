@@ -1,0 +1,31 @@
+# 포맷: 영어;한국어;en_tip(영→한);ko_tip(한→영)
+evolution;진화/발전/진전;포켓몬 진화가 영어로 evolution! 피카츄가 evolve → evolution;e-v-o-l-u-t-i-o-n. "이볼루션" 발음 그대로
+aesthetic;미학적인/미적인/미적특질/미학;인스타에서 "#에스테틱"이라고 쓰잖아! 예쁜 느낌 = aesthetic;a-e-s-t-h-e-t-i-c. "에스테틱" 발음 그대로
+merchant;상인;마인크래프트 마을 NPC "Merchant(상인)"! 그 캐릭터;m-e-r-c-h-a-n-t. "머천트" 발음
+privilege;특권/특혜/에게특권을주다;"프리"(특별) + "빌리지"(마을) = 특별 마을 사람만 누리는 특권;p-r-i-v-i-l-e-g-e. privi+lege, 끝 -lege 주의
+magnify;확대하다/과장하다;돋보기(magnifier)로 크게! 확대경으로 보면 magnify;m-a-g-n-i-f-y. mag+ni+fy
+exaggerate;과장하다/지나치게강조하다;과장 유튜버가 팔 X자로 벌려 "어거레이트!" — 항상 오버함;e-x-a-g-g-e-r-a-t-e. -gg- 두 개 주의!
+flourish;번성하다/성장하다/무성하다;꽃(flower)이 활짝 피듯 "플로리시~" 번성하다;fl-o-u-r-i-s-h. flour+ish
+remark;언급하다/언급/논평/주목/인지/주목하다/인지하다;SNS에 re(다시) + mark(표시) = 주목할 만해서 다시 언급!;r-e-m-a-r-k. re+mark
+intensity;강렬함/격렬함/강도세기;게임 설정에서 "인텐시티(intensity) MAX!" = 강도 최고;i-n-t-e-n-s-i-t-y. intense+ity
+severity;격렬/혹독/엄격/엄함;"씨버리티~" 할 정도로 혹독하고 심각한 상황;s-e-v-e-r-i-t-y. severe+ity
+turmoil;혼란/소란/소동;터지고(tur) 뒤엉킨 오일(moil)처럼 온통 혼란! 터모일;t-u-r-m-o-i-l. 7글자. "터모일" 발음
+adapt;적응하다/순응시키다;충전기 어댑터(adapter)! 콘센트에 맞게 딱 맞추듯 적응;a-d-a-p-t. adopt(입양)와 달리 a가 들어감
+adopt;채택하다/받아들이다/입양하다;"어, 옵션(opt, 선택)이다!" 골라서 받아들이다/입양;a-d-o-p-t. adapt와 달리 o! adopt=o로 기억
+animate;생명을주다/활기를띠게하다/만화영화로하다/생명이있는/활기있는;anime(애니)에 생명을 불어넣다! 애니메이션의 어원이 animate;a-n-i-m-a-t-e. animation에서 -ion만 빼기
+inspection;조사/점검/시찰;형사가 "인스펙션(inspection)!" 하며 조사 들어가는 장면;i-n-s-p-e-c-t-i-o-n. inspect+ion
+leak;누출/새는곳/누설/유출/새다/누설하다;게임 업데이트 전에 "리크됐다(leak)!" 정보가 새다;l-e-a-k. 4글자. "리크" 발음 그대로
+enlightenment;계몽/계몽운동/깨달음/이해;단어 안에 light(빛)이 숨어있어! 어둠에 빛을 비추다 = 계몽;en+light+en+ment. light 찾으면 끝!
+insight;통찰력/이해/간파;in(안) + sight(보기) = 속을 꿰뚫어 보는 능력. 인사이트!;i-n-s-i-g-h-t. in+sight. gh는 묵음!
+chamber;방/실;게임에서 "챔버룸(chamber room)" = 특별한 방. 챔버!;c-h-a-m-b-e-r. 7글자. "챔버" 발음 그대로
+despise;경멸하다/멸시하다/혐오하다;힙합에서 "디스(diss)하다" = 무시하고 경멸하다. de+spise;d-e-s-p-i-s-e. despite(~에도불구하고)와 헷갈리지 말기
+despite;~에도불구하고;"디스해도(despite) 난 포기 안 해!" = ~에도 불구하고;d-e-s-p-i-t-e. despise와 달리 -ite로 끝남
+reside;살다/거주하다/존재하다/있다;re(계속) + side(옆에) = 계속 옆에 있다 = 거기서 살다;r-e-s-i-d-e. re+side. resident(주민)랑 같은 단어
+resign;사직하다/사임하다/포기하다;re(되돌려) + sign(사인) = 사인을 돌려주다 = 사직;r-e-s-i-g-n. g는 묵음! "리자인"으로 발음
+bear;참다/견디다/지탱하다/(아이를)낳다/(열매를)맺다/(책임 등을)감당하다/떠맡다/(칭호·특징 등을)가지다/지니다;곰(bear)은 뭐든 묵묵히 참고 견딘다. 곰처럼 bear!;b-e-a-r. 딱 3글자! 곰도 bear, 참다도 bear
+be obliged to do;~해야하다/하는수없이~하다;어쩔 수 없이 해야만 하는 상황. "오블리지드" = 의무가 생겼다;be obliged to do 통째로. "오블리지드"
+miss out on;~을놓치다;FOMO(놓치는 게 두려운 것)! 기회를 miss해서 out되는 것;miss+out+on 세 단어. on 빠뜨리지 말기!
+be comprised of;~으로구성되다/이루어지다;컴프라이즈드(comprised) = 구성된. ~으로 이루어지다;comprised+of 세트. consist of와 같은 뜻
+get in the way of;~에방해가되다;게임할 때 팀원이 내 앞에 딱 막고 서있으면(in the way) 방해!;get in the way + of. 앞을 막는 이미지
+tear down;~을허물다/철거하다/파괴하다;tear는 "테어(찢다)"! 눈물 "티어"랑 달라. 찢어 내리다 = 철거;tear(테어)+down. 눈물이랑 발음 다름 주의!
+rob ~ of;~에게서 …을앗아가다;강도(rob)가 나에게서(of) 뺏어가다! "rob A of B";rob+사람+of+사물. r-o-b 짧게

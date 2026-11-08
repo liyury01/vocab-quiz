@@ -1,0 +1,26 @@
+complete;전체의/전부의/완전한/완성된; 끝마치다/완료하다/(서류 등을) 작성하다;com(완전히)+plete(채우다) = 완전히 채우다 = 완성하다/완전한! completion=완성이랑 같은 뿌리!;com+plete! com-plete → "플리트(plete=채우다)" 앞에 com. 딱 2음절. completion=완성이랑 같은 뿌리
+complement;보충물/보완하는 것; 보완하다/보충하다;com(함께)+plement(채우다) = 함께 채우다 = 보완/보충! compliment이랑 스펠링 주의!;com+plement! com-ple-ment → "플레먼트(plement=채우다)" 앞에 com. 딱 3음절. compliment이랑 스펠링 주의!
+implement;도구/연장/용구; (정책·계획 등을) 실행[이행]하다;im(안으로)+plement(채우다) = 안으로 채워 실행하다 = 도구/실행! implementation=실행이랑 같은 뿌리!;im+plement! im-ple-ment → "플레먼트(plement=채우다)" 앞에 im. 딱 3음절. implementation=실행이랑 같은 뿌리
+compliment;칭찬/찬사/(의례적인) 인사말; 칭찬[찬양]하다;com(함께)+pliment(채우다) = 좋은 것으로 채우다 = 칭찬! complement이랑 스펠링 주의!;com+pliment! com-pli-ment → "플리먼트(pliment=채우다)" 앞에 com. 딱 3음절. complement이랑 스펠링 주의!
+accomplish;(임무 등을) 이루다/성취하다/완성하다;ac(향해)+com(완전히)+plish(채우다) = 완전히 채워 이루다 = 성취하다! accomplishment=성취이랑 같은 뿌리!;ac+com+plish! ac-com-plish → "컴플리시(com+plish=완전히 채우다)" 앞에 ac. 딱 3음절. cc 두 개! accomplishment=성취이랑 같은 뿌리
+supply;공급(량)/보급품/필수품; (물건을) 공급하다;sup(아래서)+ply(채우다) = 아래서 채워 올리다 = 공급! supplement=보충이랑 같은 뿌리!;sup+ply! sup-ply → "플라이(ply=채우다)" 앞에 sup. 딱 2음절. pp 두 개! supplement=보충이랑 같은 뿌리
+plenty;많음/풍부함/충분함;plen(채우다)+ty = 가득 채운 것 = 풍부함! plentiful=풍부한이랑 같은 뿌리!;plen+ty! plen-ty → "플렌티(plen=채우다)" + ty. 딱 2음절. plentiful=풍부한이랑 같은 뿌리
+cultivate;경작하다/재배하다/(품성·능력 등을) 기르다/계발하다;cult(경작하다)+ivate = 경작하다 = 재배하다/기르다! culture이랑 같은 뿌리!;cult+ivate! cul-ti-vate → "컬티베이트(cult=경작하다)" + ivate. 딱 3음절. culture이랑 cult 같음
+culture;(집단·국가 등의) 문화/(미술·문학·음악 등의) 지적·예술적 활동/교양;cult(경작하다)+ure = 경작하고 기른 것 = 문화/교양! cultivate이랑 같은 뿌리!;cult+ure! cul-ture → "컬처(cult=경작하다)" + ure. 딱 2음절. cultivate이랑 cult 같음
+agriculture;농업/농사/농학;agri(밭)+cult(경작하다)+ure = 밭을 경작하는 것 = 농업! culture이랑 cult 공통!;agri+cult+ure! ag-ri-cul-ture → "애그리컬처(cult=경작하다)" 앞에 agri. 딱 4음절. culture이랑 cult 같음
+colony;식민지/(특정인·동식물의) 집단/부락/군집;colon(농부/정착민)+y = 정착민들의 곳 = 식민지/군집! colonial=식민지의이랑 같은 뿌리!;colon+y! col-o-ny → "콜로니(colon=정착민)" + y. 딱 3음절. colonial=식민지의이랑 같은 뿌리
+insult;모욕하다/창피를 주다; 모욲/무례(한 말·행동);in(위에서)+sult(뛰다) = 위에서 뛰어내리다 = 모욕하다! assault이랑 sult 공통!;in+sult! in-sult → "설트(sult=뛰다)" 앞에 in. 딱 2음절. assault이랑 sult 같음
+result;결과/결말; ~의 결과로서 일어나다/~에 기인하다/~의 결과를 낳다/~로 끝나다;re(다시)+sult(뛰다) = 다시 뛰어나오다 = 결과가 나오다! as a result=결과적으로!;re+sult! re-sult → "설트(sult=뛰다)" 앞에 re. 딱 2음절. as a result=결과적으로. insult이랑 sult 공통!
+assault;폭행(죄)/습격; 폭행하다/습격하다;as(향해)+sault(뛰다) = 향해 뛰어들다 = 습격하다! insult이랑 sult 공통!;as+sault! as-sault → "솔트(sault=뛰다)" 앞에 as. 딱 2음절. ss 두 개! insult이랑 sult 같음
+salient;두드러진/돌출한/가장 중요한;sali(뛰다)+ent = 뛰어나오는 = 두드러진/가장 중요한! assault이랑 sal 공통!;sali+ent! sa-li-ent → "세일리언트(sali=뛰다)" + ent. 딱 3음절. the most salient feature=가장 두드러진 특징
+suicide;자살;sui(자기)+cide(죽이다) = 자기를 죽이다 = 자살! pesticide이랑 cide 공통!;sui+cide! su-i-cide → "수이사이드(sui=자기, cide=죽이다)" → 딱 3음절. pesticide이랑 cide 같음
+pesticide;살충제/농약;pest(해충)+i+cide(죽이다) = 해충을 죽이다 = 살충제! suicide이랑 cide 공통!;pest+i+cide! pes-ti-cide → "페스티사이드(pest=해충)" + cide. 딱 3음절. suicide이랑 cide 같음
+decision;결정/결단력;de(완전히)+cis(자르다)+ion = 완전히 잘라 결정하다 = 결정! decide이랑 같은 뿌리!;de+cis+ion! de-ci-sion → "디시전(cis=자르다)" 앞에 de. 딱 3음절. decide이랑 같은 뿌리. precise이랑 cis 공통!
+precise;(수치·정보 등이) 정확한/정밀한;pre(앞에)+cise(자르다) = 앞에서 잘라 정확하게 = 정확한! precision=정밀이랑 같은 뿌리!;pre+cise! pre-cise → "사이즈(cise=자르다)" 앞에 pre. 딱 2음절. precision=정밀이랑 같은 뿌리. decision이랑 cis 공통!
+precede;~보다 앞서다/~에 선행하다/~보다 먼저 일어나다;pre(앞에)+cede(가다) = 앞에서 가다 = 앞서다! precedent=전례이랑 같은 뿌리!;pre+cede! pre-cede → "시드(cede=가다)" 앞에 pre. 딱 2음절. precedent=전례이랑 같은 뿌리
+exceed;(수·양·범위·권한 등을) 넘다/초과하다;ex(밖으로)+ceed(가다) = 밖으로 넘어가다 = 초과하다! excess=초과이랑 같은 뿌리!;ex+ceed! ex-ceed → "시드(ceed=가다)" 앞에 ex. 딱 2음절. ee 두 개! excess=초과이랑 같은 뿌리
+proceed;계속하다/진행하다/계속되다/진행되다/나아가다;pro(앞으로)+ceed(가다) = 앞으로 나아가다 = 진행하다! procedure=절차이랑 같은 뿌리!;pro+ceed! pro-ceed → "시드(ceed=가다)" 앞에 pro. 딱 2음절. ee 두 개! procedure=절차이랑 같은 뿌리
+succeed;(~에) 성공하다/성과를 거두다/뒤를 잇다/계승[상속]하다;suc(뒤에서)+ceed(가다) = 뒤에서 나아가다 = 뒤를 잇다/성공하다! success=성공이랑 같은 뿌리!;suc+ceed! suc-ceed → "시드(ceed=가다)" 앞에 suc. 딱 2음절. cc+ee 두 개씩! success=성공이랑 같은 뿌리
+predecessor;전임자;pre(앞에)+de(분리)+cess(가다)+or = 앞에서 분리되어 간 사람 = 전임자! precede이랑 pre+cess 공통!;pre+de+cess+or! pred-e-ces-sor → "프레더세서(cess=가다)" 앞에 pre+de. 딱 4음절. ss 두 개! precede이랑 같은 뿌리
+access;(장소·정보 등에의) 접근(성)/이용(성)/진입[접근] 방법; (정보 등을) 입수하다/(정보에) 접근하다/(장소에) 들어가다;ac(향해)+cess(가다) = 향해 가다 = 접근하다! accessible=접근 가능한이랑 같은 뿌리!;ac+cess! ac-cess → "세스(cess=가다)" 앞에 ac. 딱 2음절. cc+ss 두 개씩! accessible=접근 가능한이랑 같은 뿌리
+cease;그만두다/멈추다/끝나다;cease(멈추다) = 멈추다! ceasefire=휴전이랑 같은 뿌리!;c-e-a-s-e. "시즈(cease=멈추다)" → 딱 5글자. ea 조합. ceasefire=휴전. without cease=끊임없이

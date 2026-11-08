@@ -1,0 +1,30 @@
+commercial;상업의/광고;com+mercial(시장) = 시장에서 파는 것 = 상업의! TV 광고도 commercial!;mer+cial! com-mer-cial → "머셜(mercial=시장)" 앞에 com. TV 광고=commercial
+crime;범죄/범행;크라임! 범죄(crime) 영화 Crime 그대로!;c-r-i-m-e. "크라(cri)+임(me)" → 딱 5글자. criminal=범죄자
+manipulate;잘다루다/조작하다/조종하다;mani(손)+pulate = 손으로 다루다 = 조작! 마니퓰레이트!;mani+pulate! ma-nip-u-late → "매니(mani=손)" + pulate. 손으로 조종하는 느낌
+accelerate;빠르게하다/가속하다/촉진하다;ac+celer(빠른)+ate = 빠르게 만들다! cc 두 개 = 두 배 빠르다!;cc 두 개! ac-cel-er-ate → "셀러(celer=빠른)" 앞에 ac. cc 두 개 = 빠름빠름
+distract;흩뜨리다/산만하게하다/괴롭히다;dis(반대)+tract(당기다) = 반대로 당기다 = 흩뜨리다! attract 반대!;dis+tract! dis-tract → "트랙트(tract=당기다)" 앞에 dis. attract이랑 tract 같고 dis vs at
+creep;기다/포복하다/살금살금 움직이다;크리프! 살금살금 기어가다(creep). creepy=소름끼치는도 creep!;c-r-e-e-p. "크리(cre)+프(ep)" → ee 두 개! creepy랑 같은 뿌리
+automate;자동화하다/자동 조종하다;auto(스스로)+mate = 스스로 움직이다 = 자동화! 자동차도 auto!;auto+mate! au-to-mate → "오토(auto=스스로)" + mate. 자동차=automobile도 auto
+depress;우울하게 만들다/낙담하게 하다;de(아래)+press(누르다) = 아래로 눌러 우울하게! depression=우울증!;de+press! de-press → "프레스(press=누르다)" 앞에 de. depression=우울증
+attract;끌다/유인하다/매혹하다;at+tract(당기다) = 당겨 끌다 = 매혹! distract랑 tract 공통!;at+tract! at-tract → "트랙트(tract=당기다)" 앞에 at. distract이랑 tract 같고 at vs dis
+anatomy;구조/해부/분석/해부학;ana(분리)+tomy(자르다) = 잘라서 분리하다 = 해부!;ana+tomy! a-nat-o-my → "어낫(anat=자르다)" + omy. tomy=자르다 (appendectomy도!)
+groan;신음하다/불평하다;그로운! 앓는 소리(groan) ugh~ 그로운~;g-r-o-a-n. "그로(gro)+운(an)" → oa 조합. 딱 5글자
+leverage;지레의작용/지렛대사용/영향력;lever(지렛대)+age = 지렛대 효과 = 영향력! 레버리지!;lever+age! lev-er-age → "레버(lever=지렛대)" + age. 지렛대=lever
+plumber;배관공;플럼버! 파이프(plumb) 고치는 사람 = 배관공! b는 묵음!;plumb+er! plum-ber → "플럼(plumb=파이프)" + er. b 묵음 주의!
+sacred;성스러운/신성한;sacr(신성한)+ed = 신성하게 된 것! sacr은 sacrifice(희생)의 그 sacr!;sacr+ed! sa-cred → "세이크리(sacr=신성한)" + ed. sacrifice랑 sacr 같음
+temporal;현세의/세속적인/시간의;tempor(시간)+al = 시간과 관련된 = 현세의! temporary(임시)랑 tempor 공통!;tempor+al! tem-po-ral → "템포(tempor=시간)" + al. temporary랑 tempor 같음
+analysis;분석/분해;ana(분리)+lysis(풀다) = 풀어서 분리하다 = 분석! analyze의 명사형!;ana+lysis! a-nal-y-sis → "애널(anal=분리)" + ysis. analyze=분석하다의 명사
+personnel;전 직원/총 인원/인사과;personne(사람들)+l = 회사의 사람들 = 전 직원! personal이랑 헷갈리지 말기! 끝에 l!;per+son+nel! per-son-nel → "퍼슨(person=사람)" + nel. personal이랑 다름! 끝 l 하나 더
+personal;개인의/개인적인/사적인;person(사람)+al = 한 사람에 관한 = 개인의! personnel이랑 헷갈리지 말기!;per+son+al! per-son-al → "퍼슨(person=사람)" + al. personnel이랑 person 같고 al vs nel 차이
+embed;꽂아넣다/깊이 새겨두다;em(안으로)+bed(침대/박다) = 안으로 박아 넣다 = 꽂아넣다! embody랑 em 공통!;em+bed! em-bed → "베드(bed=박다)" 앞에 em. embody랑 em 같음
+embody;구현하다/구체화하다;em(안으로)+body(몸) = 몸 안으로 넣다 = 구현하다! embed랑 em 공통!;em+body! em-bod-y → "바디(body=몸)" 앞에 em. embed랑 em 같고 bed vs body
+slope;경사면/비탈;슬로프! 스키 슬로프(slope) = 경사면 그대로!;s-l-o-p-e. "슬로(slo)+프(pe)" → 딱 5글자. 스키 슬로프=slope
+ambiguous;애매한/모호한;ambi(양쪽)+guous = 양쪽 다 될 수 있는 = 모호한! ambitious랑 ambi 공통!;ambi+guous! am-big-u-ous → "엠비(ambi=양쪽)" + guous. ambitious랑 ambi 같고 guous vs tious
+ambitious;야망이있는/열망하는;ambit(야망)+ious = 야망이 가득한! ambiguous랑 ambi 공통!;ambit+ious! am-bi-tious → "엠비(ambi=양쪽)" + tious. ambiguous랑 ambi 같고 tious vs guous
+even;균등한/동일한/짝수의/평평한;이븐! 골프 이븐파(even par) = 딱 맞다 = 균등한! 짝수도 even!;e-v-e-n. "이(e)+븐(ven)" → 딱 4글자. 골프 이븐파=균등
+take on;맡다/책임지다/고용하다;take(받다)+on = 받아서 맡다 = 책임지다!;on 하나만! take [on] → "온(on=받아서)" 기억. 책임 take on
+go over;검토하다/조사하다;over(위에서)+go = 위에서 내려다보다 = 검토!;over 하나만! go [over] → "오버(over=위에서)" 기억. 서류를 위에서 훑다
+adhere to;고수하다/충실히 지키다;adhere(붙다)+to = ~에 붙어 떠나지 않다 = 고수!;adhere 하나만! [adhere] to → "어드히어(adhere=붙다)" 기억. 접착제처럼 붙어있다
+feel free to do;마음놓고 해도 좋다;free(자유로운) = 자유롭게 느끼며 해도 돼!;free 하나만! feel [free] to do → "프리(free=자유로운)" 기억
+refrain from;삼가다/피하다;refrain(억제하다)+from = ~로부터 자제하다 = 삼가다!;refrain 하나만! [refrain] from → "리프레인(refrain=자제하다)" 기억
+hold true;진실이다/유효하다/딱 들어맞다;hold(잡다)+true = 진실을 잡고 있다 = 유효하다!;true 하나만! hold [true] → "트루(true=진실)" 기억

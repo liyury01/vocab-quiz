@@ -1,0 +1,30 @@
+recharge;(배터리 등을) 충전하다/재충전하다;re(다시)+charge(충전) = 다시 충전하다 = 재충전! battery recharge처럼!;re+charge! re-charge → "차지(charge=충전)" 앞에 re. 딱 2음절
+reproduce;재생하다/재현하다/복사하다/복제하다/번식하다;re(다시)+produce(생산) = 다시 생산하다 = 재생/복제/번식! production이랑 같은 뿌리!;re+produce! re-pro-duce → "프로듀스(produce=생산)" 앞에 re. 딱 3음절
+reform;개혁하다/개선하다;re(다시)+form(형태) = 다시 형태를 만들다 = 개혁! reformation=개혁이랑 같은 뿌리!;re+form! re-form → "폼(form=형태)" 앞에 re. 딱 2음절. reformation=개혁
+revolution;혁명/변혁/공전/회전;revol(돌다)+ution = 돌아서 바꾸다 = 혁명/공전! revolve이랑 같은 뿌리!;revol+ution! rev-o-lu-tion → "레볼루션(revol=돌다)" + ution. 딱 4음절. revolve이랑 같은 뿌리
+remain;여전히 ~이다/남다;re(다시)+main(머물다) = 다시 머물다 = 남다! remainder=나머지이랑 같은 뿌리!;re+main! re-main → "메인(main=머물다)" 앞에 re. 딱 2음절. remainder=나머지
+abuse;남용하다/학대하다;ab(잘못)+use(쓰다) = 잘못 쓰다 = 남용/학대! misuse이랑 비슷!;ab+use! a-buse → "유즈(use=쓰다)" 앞에 ab. 딱 2음절. misuse이랑 비슷
+abnormal;이상한/비정상적인;ab(벗어난)+normal(정상) = 정상에서 벗어난 = 비정상! normal 반대!;ab+normal! ab-nor-mal → "노말(normal=정상)" 앞에 ab. 딱 3음절. normal 반대
+advocate;옹호하다/지지하다;ad(향해)+voc(목소리)+ate = 목소리를 향해 내다 = 옹호! advocacy=옹호이랑 같은 뿌리!;ad+voc+ate! ad-vo-cate → "보케이트(voc=목소리)" 앞에 ad. 딱 3음절. advocacy=옹호
+accompany;동반하다/동행하다/수반하다/반주하다;ac(향해)+company(동반) = 함께 동반하다 = 동행! companion이랑 비슷!;ac+company! ac-com-pa-ny → "컴퍼니(company=동반)" 앞에 ac. 딱 4음절. cc 두 개!
+accumulate;모으다/모이다/축적하다/축적되다;ac(향해)+cumul(쌓다)+ate = 쌓아 모으다 = 축적! accumulation=축적이랑 같은 뿌리!;ac+cumul+ate! ac-cu-mu-late → "큐뮬레이트(cumul=쌓다)" 앞에 ac. 딱 4음절. cc 두 개!
+accustomed;익숙한/익숙해진;ac+custom(관습)+ed = 관습이 된 = 익숙한! used to이랑 비슷!;ac+custom+ed! ac-cus-tomed → "커스텀(custom=관습)" 앞에 ac. 딱 3음절. cc 두 개! used to이랑 비슷
+prolong;연장하다;pro(앞으로)+long(길게) = 앞으로 길게 하다 = 연장! extend이랑 같은 뜻!;pro+long! pro-long → "롱(long=길게)" 앞에 pro. 딱 2음절. extend이랑 같은 뜻
+prophecy;예언(력);pro(앞에)+phec(말하다)+y = 앞일을 말하다 = 예언! prophet=예언자이랑 같은 뿌리!;pro+phecy! proph-e-cy → "프로페시(phec=말하다)" 앞에 pro. 딱 3음절. prophet=예언자이랑 같은 뿌리
+progress;진전/진보;pro(앞으로)+gress(걷다) = 앞으로 걷다 = 진보! progressive=진보적인이랑 같은 뿌리!;pro+gress! pro-gress → "그레스(gress=걷다)" 앞에 pro. 딱 2음절. ss 두 개! progressive=진보적인
+propose;(계획·생각을) 제안하다/청혼하다/의도하다;pro(앞에)+pose(놓다) = 앞에 놓다 = 제안/청혼! proposal=제안이랑 같은 뿌리!;pro+pose! pro-pose → "포즈(pose=놓다)" 앞에 pro. 딱 2음절. proposal=제안
+combat;전투/싸움;com(함께)+bat(치다) = 함께 치고받다 = 전투! fight이랑 비슷!;com+bat! com-bat → "배트(bat=치다)" 앞에 com. 딱 2음절. fight이랑 비슷
+compile;엮다/편집하다/편찬하다/(자료를) 수집하다;com(함께)+pile(쌓다) = 함께 쌓다 = 편집/수집! compilation=편집이랑 같은 뿌리!;com+pile! com-pile → "파일(pile=쌓다)" 앞에 com. 딱 2음절. compilation=편집
+compromise;타협/절충;com(함께)+promise(약속) = 함께 약속하다 = 타협! reach a compromise=타협에 도달하다!;com+promise! com-pro-mise → "프로미스(promise=약속)" 앞에 com. 딱 3음절
+condense;응결시키다/농축시키다/응결되다/요약하다;con(함께)+dense(조밀한) = 함께 조밀하게 = 농축/요약! condensation=응결이랑 같은 뿌리!;con+dense! con-dense → "덴스(dense=조밀한)" 앞에 con. 딱 2음절. condensation=응결
+conform;(관습 등에) 따르다/순응하다/일치하다;con(함께)+form(형태) = 형태에 맞추다 = 따르다/순응! nonconformist=비순응주의자!;con+form! con-form → "폼(form=형태)" 앞에 con. 딱 2음절. nonconformist=비순응주의자
+confront;직면하다/맞서다;con(함께)+front(앞) = 앞에서 마주하다 = 직면! confrontation=대결이랑 같은 뿌리!;con+front! con-front → "프론트(front=앞)" 앞에 con. 딱 2음절. confrontation=대결
+contagious;전염성의/전염되는;con(함께)+tag(접촉)+ious = 함께 접촉되는 = 전염성의! contagion=전염이랑 같은 뿌리!;con+tag+ious! con-ta-gious → "테이저스(tag=접촉)" 앞에 con. 딱 3음절. contagion=전염
+coincidence;(우연의) 일치/동시 발생;co(함께)+incid(일어나다)+ence = 함께 일어남 = 우연의 일치! coincide이랑 같은 뿌리!;co+incid+ence! co-in-ci-dence → "인시던스(incid=일어나다)" 앞에 co. 딱 4음절. coincide이랑 같은 뿌리
+geography;지리학/지형/지리;geo(땅)+graphy(쓰다) = 땅을 기록하다 = 지리학! geology이랑 geo 공통!;geo+graphy! ge-og-ra-phy → "어그러피(graphy=기록)" 앞에 geo. 딱 4음절. geology이랑 geo 공통
+geology;지질학/(어떤 지역의) 지질학적 특징;geo(땅)+logy(학문) = 땅의 학문 = 지질학! geography이랑 geo 공통!;geo+logy! ge-ol-o-gy → "올로지(logy=학문)" 앞에 geo. 딱 4음절. geography이랑 geo 공통
+geometry;기하학;geo(땅)+metry(측정) = 땅을 측정하다 = 기하학! geography이랑 geo 공통!;geo+metry! ge-om-e-try → "오메트리(metry=측정)" 앞에 geo. 딱 4음절. geography이랑 geo 공통
+contrast;대조/대비;con(함께)+trast(당기다) = 반대로 당기다 = 대조! in contrast to=~와 대조적으로!;con+trast! con-trast → "트라스트(trast=당기다)" 앞에 con. 딱 2음절. in contrast to=~와 대조적으로
+contrary;반대의/정반대인;contr(반대)+ary = 반대의! on the contrary=반대로!;contr+ary! con-tra-ry → "트레리(trary=반대)" 앞에 con. 딱 3음절. on the contrary=반대로
+counteract;(악영향에) 대응하다/(효력을) 중화하다;counter(반대)+act(행동) = 반대로 행동하다 = 대응/중화! counter이랑 같은 뿌리!;counter+act! coun-ter-act → "액트(act=행동)" 앞에 counter. 딱 3음절
+controversial;논란이 되는;controvers(반대로 향하다)+ial = 반대 의견이 있는 = 논란이 되는! controversy=논란이랑 같은 뿌리!;controvers+ial! con-tro-ver-sial → "버셜(vers=향하다)" 앞에 contro. 딱 4음절. controversy=논란

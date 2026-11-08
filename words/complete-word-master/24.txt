@@ -1,0 +1,31 @@
+# 포맷: 영어;한국어;en_tip(영→한);ko_tip(한→영)
+crop;농작물/수확량/자르다/수확하다;크롭탑(crop-top) — 잘라낸 옷처럼 자르다. 농부가 크롭탑 입고 수확하는 이미지;짧은 4글자 c-r-o-p. 크롭탑 연상하면 스펠링 자동
+harvest;수확/추수/수확물;harvest moon(수확의 달) — 달빛 아래 농부가 곡식을 거두는 그림;har + vest. 농부가 vest(조끼) 입고 수확하는 이미지로 스펠링 기억
+statistic;통계치/통계량;stat(상태·숫자) + istic → 숫자로 나타낸 상태 = 통계;statistics(복수)로 더 자주 씀. stat + istic, -istic 어미
+mechanical;기계의/기계로작동하는;mechanic(정비사) + al — 정비사(mechanic)가 다루는 것 = 기계의;mechanic(정비사) 알면 + al만 추가. mechanic 스펠링이 핵심
+mysterious;신비한/불가사의한/비밀의;mystery(미스터리) + ous — 미스터리한 = 신비한;mystery에서 y→i 바꾸고 + ous → mysterious. y→i 변화 주의
+equivalent;같은/상당하는;equal(같은) + value(가치) 합성 — 같은 가치를 지닌;equi(같은) + val(가치) + ent. equal의 사촌. -valent 어미
+inherit;상속받다/물려받다;in + heir(상속인) → 상속인이 되다 — heir를 안에 품은 단어;heir(상속인, h 묵음) 안에 in → inherit. h 묵음이라 "인헤릿"이 아닌 "인헤릿"
+transmission;전달/전염/송신/전송;자동차 트랜스미션(변속기) — trans(넘어) + mission(보냄) → 건너서 전달;trans + mission. 자동차 트랜스미션 그 단어. -ssion 이중자음 주의
+drastic;과감한/급격한/극단적인;한국어에서도 "드라스틱한 변화"로 이미 쓰임;드라스틱 그대로 받아쓰기. d-r-a-s-t-i-c 7글자
+gradual;점진적인/서서히일어나는;그라데이션(gradation) — 색이 서서히 변하듯 = 점진적인;grade(단계) 어근 + ual → gradual. 단계적 = 점진적 연결
+caterpillar;애벌레;캐터필러 트랙터 — 트랙터 무한궤도가 애벌레처럼 생겨서 그 이름이 붙음;cater + pillar 두 덩어리로 쪼개기. 가장 긴 단어 중 하나라 덩어리 암기 필수
+acoustic;음향의/청각의;어쿠스틱 기타(acoustic guitar) — 전기 없이 소리만으로 연주하는 = 음향의;어쿠스틱 기타 그대로. a-c-o-u-s-t-i-c, ou 조합 주의
+fetus;태아;f + etus → 아직 세상에 나오지 않은 존재. "피터스" 발음으로 통째로 기억;짧은 5글자 f-e-t-u-s. fetal(태아의)과 같은 어근으로도 기억
+reinforcement;보강/강화/보강재;re(다시) + enforce(강제·강화) → 다시 강화하다;enforce(강요) 알면 re + enforce + ment만 추가. -ment 어미. 긴 단어는 re/enforce/ment 세 덩어리
+altruist;이타주의자;alter(다른) 어근 — 나보다 다른(alter) 사람을 위하는 사람;altru + ist. altruism(이타주의)의 -ism을 -ist로 바꾸면 사람. alter 어근
+inevitability;불가피함/필연성;in(부정) + evit(피하다, avoid 어근) + ability → 피할 수 없음;inevitable(불가피한) + ity. inevitable 먼저 외우고 ity 추가. 긴 단어
+intake;섭취/흡입/인원수;in(안으로) + take(취하다) — 안으로 받아들이다 = 섭취;in + take 그냥 붙인 합성어. 직관적으로 스펠링 가능
+deplete;격감시키다/고갈시키다;de(아래로·제거) + plete(채워진) → 가득 찬 것을 비워내다;de + plete. replete의 반대. -plete 어근만 기억하면 de/re 구분
+replete;가득찬/충만한/포식을한;re(다시) + plete(채워진) → 다시 가득 채워진. deplete의 반대;re + plete. deplete(고갈) 반대. complete의 사촌 — 모두 -plete 어근
+marvel;놀라운일/경이;마블(Marvel) 히어로 — 경이롭고 놀라운 존재들의 세계;마블(Marvel) 그대로. m-a-r-v-e-l. marble과 v↔b 한 글자 차이 주의
+marble;대리석/구슬;마블링(marbling) — 대리석의 무늬 패턴이 마블링. marvel과 한 글자 차이 주의;mar + ble. marvel(경이)과 v↔b 차이. 대리석=marble, 경이=marvel
+improvise;즉석에서하다/즉흥연주를하다;im(not) + pro(미리) + vise(보다) → 미리 보지 않고 즉석에서;im + pro + vise 세 덩어리. -vise(보다) 어근. improvisation의 동사형
+impoverish;가난하게하다/떨어뜨리다/저하시키다;im + poor + ish → poor(가난한)을 동사로 만든 느낌;im + pover(poor 변형) + ish. poor가 pover로 변형된 것이 핵심
+prompt;즉석의/신속한/자극하다/불어넣다;AI 프롬프트(prompt) — 즉각 반응을 이끌어내는 명령;AI 프롬프트 그대로. p-r-o-m-p-t. mp 두 번 나오는 것 주의
+attribute to;때문이라여기다/덕분으로돌리다;tribute(바치다·공을 돌리다) → 공을 ~에게 돌리다;at + tribute + to. tribute(바치다)가 핵심. to 빠뜨리지 않기
+make room for;공간을만들다/자리를양보하다;room = 공간 — room을 만들다(make) = 자리를 내주다;make room(공간 만들다) + for. room이 핵심. 직관적 구조
+be accompanied by;동반하다/수반하다;accompany(동행하다) — 컴퍼니(company, 동료)와 같은 어근;ac + company + ied + by. company(동료) 어근. -pany 스펠링 주의
+in retrospect;돌이켜생각해보면;retro(과거) + spect(보다) — 과거를 거슬러 올라가 바라보면;retro(과거) + spect(보다). retrospect 한 단어로 묶어서. in retrospect 통째로
+take the place of;대신하다;place(자리) — 누군가의 자리(place)를 차지하다 = 대신하다;take / the place / of 세 덩어리. place(자리)가 핵심 단어
+rip away;떼내다/벗기다;rip — 찢는 소리가 그대로 단어가 된 의성어 느낌. 강하게 잡아떼다;rip(찢다) + away(멀리). rip은 짧고 강렬. ZIP처럼 생긴 단어

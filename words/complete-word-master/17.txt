@@ -1,0 +1,30 @@
+encounter;만남/조우/마주치다;en+counter(마주치다) = 마주침! 인카운터! 게임에서 적을 만나는 것!;en+counter! en-coun-ter → "카운터(counter=마주치다)" 앞에 en. 게임 인카운터=적 조우
+exceed;넘다/초과하다;ex(밖으로)+ceed(가다) = 밖으로 나가다 = 초과! transcend보다 구체적 숫자 초과!;ex+ceed! ex-ceed → "시드(ceed=가다)" 앞에 ex. transcend보다 한도를 넘는 느낌
+transcend;넘다/초월하다;trans(건너서)+scend(오르다) = 건너서 올라가다 = 초월! exceed보다 더 높은 차원!;trans+scend! tran-scend → "센드(scend=오르다)" 앞에 trans. exceed보다 더 정신적/차원적 초월
+mutation;돌연변이/변화;mutate(변하다)+ion = 변해버린 것 = 돌연변이! X-Men 뮤턴트도 mutation!;mutate에서 e→ion! mu-ta-tion → "뮤테이트(mutate=변하다)" 에서 e를 ion으로. X-Men 뮤턴트!
+ethnic;민족의;eth(민족)+nic = 민족과 관련된! 에스닉 패션도 ethnic!;eth+nic! eth-nic → "에쓰(eth=민족)" + nic. 딱 2음절. 에스닉 패션=민족의
+biodiversity;생물 다양성;bio(생명)+diversity(다양성) = 생명의 다양성 = 생물 다양성!;bio+diversity! bi-o-di-ver-si-ty → "바이오(bio=생명)" + diversity. bio+diverse+ity
+disposal;처리/처분/폐기;dis(반대)+pose(놓다)+al = 원래 자리에서 치우다 = 처리! dispose=처리하다!;dis+pos+al! dis-pos-al → "포즈(pose=놓다)" 앞에 dis + al. dispose=처리하다의 명사
+hatch;부화하다/알을깨다/부화;해치! 알을 해치(hatch) = 깨고 나오다 = 부화!;h-a-t-c-h. "해(ha)+치(tch)" → tch 조합. 딱 5글자. 알 해치=부화
+lure;꾀다/유혹하다/유혹/매력;루어! 낚시 루어(lure) = 물고기를 꾀는 것 = 유혹!;l-u-r-e. "루(lu)+어(re)" → 딱 4글자. 낚시 루어=유혹 도구
+temptation;유혹/마음을 끄는 것;tempt(유혹하다)+ation = 유혹하는 것! lure보다 더 강한 마음의 유혹!;tempt+ation! temp-ta-tion → "템프트(tempt=유혹)" + ation. lure보다 더 심리적 유혹
+valuation;평가/가치;value(가치)+ation = 가치를 매기는 것 = 평가!;value에서 e→ation! val-u-a-tion → "밸류(value=가치)" 에서 e를 ation으로
+enclosure;울타리를 친 장소/구내/동봉;en+close(닫다)+ure = 닫아서 둘러싼 것 = 울타리 안!;en+close+ure! en-clo-sure → "클로즈(close=닫다)" 앞에 en + ure. disclosure랑 close 같음
+anthropological;인류학의;anthropo(인간)+logical = 인간을 연구하는 = 인류학의!;anthropo+logical! an-thro-po-log-i-cal → "앤쓰로포(anthropo=인간)" + logical. anthropology=인류학
+descend;내려오다/하강하다;de(아래)+scend(오르다) = 아래로 향하다 = 하강! ascend 반대!;de+scend! de-scend → "센드(scend=오르다)" 앞에 de. ascend=올라가다 반대
+feminine;여성의/여자의;femin(여자)+ine = 여자와 관련된 = 여성의! female이랑 fem 공통!;femin+ine! fem-i-nine → "페미(femin=여자)" + ine. female, feminist랑 fem 같음
+plunge;뛰어들다/떨어지다/뛰어들기/낙하;플런지! 수영장에 퐁당(plunge) 뛰어들다!;p-l-u-n-g-e. "플런(plun)+지(ge)" → 딱 6글자. 다이빙처럼 퐁당!
+announce;발표하다/알리다;an+nounce(말하다) = 말하여 알리다 = 발표! pronounce랑 nounce 공통!;an+nounce! an-nounce → "나운스(nounce=말하다)" 앞에 an. pronounce랑 nounce 같음
+pronounce;발음하다/표명하다/선언하다;pro(앞으로)+nounce(말하다) = 앞으로 내어 말하다 = 발음! announce랑 nounce 공통!;pro+nounce! pro-nounce → "나운스(nounce=말하다)" 앞에 pro. announce랑 nounce 같고 an vs pro
+abstract;추상적인/이론적인/추상화/개요;abs(떨어진)+tract(당기다) = 현실에서 떼어낸 것 = 추상적! abstain이랑 abs 공통!;abs+tract! ab-stract → "스트랙트(tract=당기다)" 앞에 abs. abstain이랑 ab 같음
+abstain;삼가다/자제하다;abs(떨어진)+tain(잡다) = 잡지 않고 떨어져있다 = 삼가다! abstract이랑 abs 공통!;abs+tain! ab-stain → "스테인(tain=잡다)" 앞에 abs. abstract이랑 ab 같고 tract vs tain
+solemn;엄숙한/근엄한;솔렘! 장례식처럼 무겁고 엄숙한(solemn) 분위기!;sol-emn → "솔(sol)+름(emn)" → mn 묵음! "솔-럼" 발음. mn 끝 주의
+comprise;구성하다/포함하다;com(함께)+prise(잡다) = 함께 잡아 이루다 = 구성! compromise랑 compri 공통!;com+prise! com-prise → "프라이즈(prise=잡다)" 앞에 com. compromise랑 compri 같음
+compromise;타협/양보/절충;com(함께)+promise(약속) = 함께 약속 = 타협! comprise랑 compri 공통!;com+promise! com-pro-mise → "프로미스(promise=약속)" 앞에 com. comprise랑 compri 같고 se vs mise
+stable;안정된/견고한/마구간;스테이블! 마구간(stable)처럼 흔들리지 않는 = 안정된!;sta+ble! sta-ble → "스테이(sta=서다)" + ble. 마구간도 stable = 말이 안정적으로 있는 곳
+make one's (own) way;나아가다/자신의 길을 개척하다/출세하다;own way(자기 길) = 자신의 길을 만들다 = 개척!;way 하나만! make one's [way] → "웨이(way=길)" 기억
+hit upon;생각해내다;hit(치다)+upon(위에) = 위에서 딱 맞추다 = 생각해내다!;upon 하나만! hit [upon] → "어폰(upon=위에)" 기억. 아이디어를 딱 맞추다
+all in all;대체로;all in all(모든 것을 포함해서) = 다 합쳐 보면 = 대체로!;all 하나만! [all] in all → "올(all=모두)" 기억. 요약할 때 쓰는 표현
+far between;흔치않은/아주드문;far between(사이가 멀다) = 드문드문 = 아주 드문!;between 하나만! far [between] → "비트윈(between=사이)" 기억. few and far between=아주 드문
+run for;출마하다/입후보하다;run(달리다)+for = ~을 위해 달리다 = 출마!;for 하나만! run [for] → "포(for=위해)" 기억. 선거에 run for
+lay down;내려놓다/그만두다/사임하다;lay(눕히다)+down = 아래로 눕혀 내려놓다 = 그만두다!;down 하나만! lay [down] → "다운(down=아래로)" 기억. 짐을 내려놓듯 그만두다

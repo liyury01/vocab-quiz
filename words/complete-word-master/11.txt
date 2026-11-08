@@ -1,0 +1,30 @@
+thorough;빈틈없는/철저한;thor(관통)+ough = 끝까지 관통하는 = 철저한!;thor+ough! thor-ough → "소로(thor)" + ough. ough 묵음
+conventional;전통적인/관습적인/종래의;convention(관습)+al = 관습과 관련된!;convention 알면 +al만! con-ven-tion-al
+infrastructure;기반시설/하부조직;infra(아래)+structure(구조) = 아래의 구조 = 기반시설!;structure 앞에 infra! in-fra-struc-ture
+analogy;유사점/비슷함/유추;ana(같은)+logy(학문) = 같은 것을 연구하다 = 유추!;ana+logy! a-nal-o-gy → "애날(ana=같은)" + logy
+aggregate;합계/총액/모으다;ag+greg(모으다)+ate = 한곳으로 모으다 = 합계!;ag+gregate! ag-gre-gate → "그리게이트(gregate=모으다)" 앞에 ag. gg 두 개
+extrovert;외향적인 사람/외향성의/외향적인;extro(밖으로)+vert(돌리다) = 밖으로 향하는 = 외향적!;extro+vert! ex-tro-vert → "엑스트로(extro=밖으로)" + vert. introvert 반대
+introvert;내향적인 사람/내향성의/내향적인;intro(안으로)+vert(돌리다) = 안으로 향하는 = 내향적!;intro+vert! in-tro-vert → "인트로(intro=안으로)" + vert. extrovert 반대
+clinical;임상의/병상의;clinic(병원)+al = 병원과 관련된 = 임상의!;clinic 알면 +al만! clin-i-cal → "클리닉(clinic=병원)" + al
+tariff;관세/관세표/운임표/요금표;타리프! 관세(tariff) = 국경에서 내는 세금!;tar-iff → "타(tar)+리프(iff)" → ff 두 개! 딱 2음절
+diminution;감소/축소;diminish(줄다)+ution = 줄어드는 것 = 감소!;dimin+ution! dim-i-nu-tion → "디미(dimin=줄다)" + ution
+overvalue;과대평가하다/지나치게 중시하다;over(지나치게)+value(가치) = 가치를 지나치게 보다!;value 앞에 over! o-ver-val-ue → "밸류(value=가치)" 앞에 over
+overestimate;과대평가하다;over(지나치게)+estimate(추정) = 지나치게 추정하다!;estimate 앞에 over! o-ver-es-ti-mate → "에스티메이트(estimate=추정)" 앞에 over. overvalue랑 비슷한 뜻
+coincide;동시에 일어나다/일치하다;co(함께)+incide(일어나다) = 함께 일어나다 = 동시에!;co+incide! co-in-cide → "인사이드(incide=일어나다)" 앞에 co
+unveil;베일을 벗기다/덮개를 벗기다/공개하다/밝히다;un(반대)+veil(베일) = 베일을 벗기다 = 공개하다!;veil 앞에 un! un-veil → "베일(veil=가리개)" 앞에 un
+disclose;밝히다/털어놓다/드러내다;dis(반대)+close(닫다) = 닫힌 것을 열다 = 밝히다!;close 앞에 dis! dis-close → "클로즈(close=닫다)" 앞에 dis
+contradict;부정하다/반박하다/모순되다;contra(반대)+dict(말하다) = 반대로 말하다 = 반박!;contra+dict! con-tra-dict → "딕트(dict=말하다)" 앞에 contra
+diverse;다양한/가지각색의;di(다양한)+verse(방향) = 다양한 방향의 = 다양한!;di+verse! di-verse → "버스(verse=방향)" 앞에 di. reverse랑 끝이 같음
+reverse;반대로/뒤집다;re(다시)+verse(방향) = 방향을 다시 = 뒤집다!;re+verse! re-verse → "버스(verse=방향)" 앞에 re. diverse랑 끝이 같음
+defect;결함/결점/단점;de(아래)+fect(만들다) = 잘못 만들어진 것 = 결함!;de+fect! de-fect → "펙트(fect=만들다)" 앞에 de. infect랑 fect 같음
+infect;감염시키다/오염시키다;in(안으로)+fect(만들다) = 안으로 들어가 만들다 = 감염!;in+fect! in-fect → "펙트(fect=만들다)" 앞에 in. defect랑 fect 같음
+sabotage;파괴행위/사보타주/방해하다;사보타주! 파괴행위(sabotage) 그대로!;sab-o-tage → "사보(sabo)+타지(tage)" → 3음절
+quote;인용하다/시세를 매기다;쿼트! 인용하다(quote) = 남의 말을 따오다!;q-u-o-t-e. "쿼(quo)+트(te)" → qu는 kw 발음. 5글자
+quota;할당량/한도/몫;quot(몫)+a = 정해진 몫 = 할당량!;q-u-o-t-a. "쿼(quo)+타(ta)" → quote랑 e→a 차이. qu는 kw 발음
+sentence;문장/판결/선고하다;sent(보내다)+ence = 보내진 말 = 문장/판결!;sent+ence! sen-tence → "센트(sent=보내다)" + ence
+make up;구성하다/화장하다/지어내다;make up(위로 만들다) = 구성하다/꾸미다!;up 하나만! make [up] → "업(up=위로 만들다)" 기억
+get through;통과하다/해내다/합격하다;through(통과)+get = 통과하다 = 해내다!;through 하나만! get [through] → "스루(through=통과)" 기억
+a case in point;적절한 사례;case(사례)+point(요점) = 요점에 맞는 사례!;point 하나만! a case in [point] → "포인트(point=요점)" 기억
+cut down on;줄이다;cut down(아래로 자르다)+on = 줄이다!;down 하나만! cut [down] on → "다운(down=아래로)" 기억
+make a fool of;망신주다/바보로 만들다;fool(바보)+of = 바보로 만들다!;fool 하나만! make a [fool] of → "풀(fool=바보)" 기억
+in a nutshell;아주 간결하게/요약하자면;nutshell(호두껍데기) = 작은 껍데기 안에 = 요약하면!;nutshell 하나만! in a [nutshell] → "너트쉘(nutshell=호두껍데기)" 기억

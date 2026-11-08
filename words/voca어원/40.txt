@@ -1,0 +1,25 @@
+disaster;(뜻밖의) 재난/참사/큰 불행;dis(나쁜)+aster(별) = 나쁜 별 = 재난/참사! disastrous=참사적인이랑 같은 뿌리!;dis+aster! di-sas-ter → "디재스터(aster=별)" 앞에 dis. 딱 3음절. disastrous=참사적인이랑 같은 뿌리. astronaut이랑 aster 공통 뿌리!
+astronaut;우주 비행사;astro(별)+naut(항해자) = 별을 항해하는 사람 = 우주 비행사! astronomy이랑 astro 공통!;astro+naut! as-tro-naut → "애스트러넛(astro=별)" + naut. 딱 3음절. astronomy이랑 astro 같음
+astronomy;천문학;astro(별)+nomy(법칙) = 별의 법칙 = 천문학! astronomer=천문학자이랑 같은 뿌리!;astro+nomy! as-tron-o-my → "어스트라너미(astro=별)" + nomy. 딱 4음절. astronomer=천문학자이랑 같은 뿌리. astronaut이랑 astro 공통!
+astrology;점성학/점성술;astro(별)+logy(학문) = 별의 학문 = 점성학! astrological=점성술의이랑 같은 뿌리!;astro+logy! as-trol-o-gy → "어스트랄러지(astro=별)" + logy. 딱 4음절. astronomy이랑 astro 공통. astrological=점성술의이랑 같은 뿌리
+desire;욕구/욕망/소망; 바라다/원하다;de(완전히)+sire(별/바라다) = 완전히 바라다 = 욕망/소망! desirable=바람직한이랑 같은 뿌리!;de+sire! de-sire → "디자이어(sire=바라다)" 앞에 de. 딱 2음절. desirable=바람직한이랑 같은 뿌리. consider이랑 sid 공통 뿌리!
+consider;(곰곰이) 생각하다/숙고하다/(~을) 여기다;con(함께)+sider(별) = 별들을 함께 살피다 = 숙고하다! consideration=고려이랑 같은 뿌리!;con+sider! con-sid-er → "컨시더(sider=별)" 앞에 con. 딱 3음절. consideration=고려이랑 같은 뿌리. desire이랑 sid 공통 뿌리!
+surge;격동/쇄도/급등/급증; 격동하다/쇄도하다;surg(솟구치다)+e = 솟구치다 = 격동/쇄도! source이랑 같은 뿌리!;s-u-r-g-e. "서지(surg=솟구치다)" → 딱 5글자. surging=급증하는이랑 같은 뿌리. source이랑 sur 공통 뿌리!
+source;근원/원천/원인/출처;sour(솟아나다)+ce = 솟아나는 것 = 근원/원천! resource이랑 source 공통!;sour+ce! source → "소스(sour=솟아나다)" + ce. 딱 1음절. resource이랑 source 같음. surge이랑 sur 공통 뿌리!
+resource;자원/물자/자산/방책;re(다시)+source(원천) = 다시 솟아나는 것 = 자원/물자! resourceful=자원이 많은이랑 같은 뿌리!;re+source! re-source → "리소스(source=원천)" 앞에 re. 딱 2음절. resourceful=자원이 많은이랑 같은 뿌리. source이랑 source 공통!
+sense;(오감의) 감각/느낌/감정; 느끼다;sens(느끼다)+e = 느끼다 = 감각/느낌! sensible=분별 있는이랑 같은 뿌리!;s-e-n-s-e. "센스(sens=느끼다)" → 딱 5글자. sensible=분별 있는이랑 같은 뿌리. sensation이랑 sens 공통!
+nonsense;무의미한 말/터무니없는 생각/허튼소리;non(없는)+sense(감각) = 감각이 없는 말 = 허튼소리! nonsensical=터무니없는이랑 같은 뿌리!;non+sense! non-sense → "논센스(sense=감각)" 앞에 non. 딱 2음절. nonsensical=터무니없는이랑 같은 뿌리. sense이랑 sense 공통!
+sensation;감각/느낌/기분/물의를 일으킴;sens(느끼다)+ation = 느끼는 것 = 감각/느낌! sensational=감각적인이랑 같은 뿌리!;sens+ation! sen-sa-tion → "센세이션(sens=느끼다)" + ation. 딱 3음절. sensational=감각적인이랑 같은 뿌리. sense이랑 sens 공통!
+sentiment;감정/정서/의견/생각;senti(느끼다)+ment = 느끼는 것 = 감정/정서! sentimental=감성적인이랑 같은 뿌리!;senti+ment! sen-ti-ment → "센티먼트(senti=느끼다)" + ment. 딱 3음절. sentimental=감성적인이랑 같은 뿌리. sense이랑 sent 공통 뿌리!
+consent;승낙/허가/동의; 동의하다;con(함께)+sent(느끼다) = 함께 느끼다 = 동의하다! consensus=합의이랑 같은 뿌리!;con+sent! con-sent → "컨센트(sent=느끼다)" 앞에 con. 딱 2음절. consensus=합의이랑 같은 뿌리. sentiment이랑 sent 공통!
+resent;분개하다/화를 내다/억울해하다;re(다시)+sent(느끼다) = 다시 강하게 느끼다 = 분개하다! resentment=분개이랑 같은 뿌리!;re+sent! re-sent → "리젠트(sent=느끼다)" 앞에 re. 딱 2음절. resentment=분개이랑 같은 뿌리. consent이랑 sent 공통!
+scent;향기/냄새/향수; 냄새를 맡다;scent(향기/냄새) = 냄새 = 향기/향수! scented=향이 나는이랑 같은 뿌리!;s-c-e-n-t. "센트(scent=향기)" → 딱 5글자. scented=향이 나는이랑 같은 뿌리. sense이랑 s 공통 뿌리!
+discord;불일치/불화/불협화음;dis(분리)+cord(마음) = 마음이 분리되다 = 불일치/불화! discordant=불일치하는이랑 같은 뿌리!;dis+cord! dis-cord → "디스코드(cord=마음)" 앞에 dis. 딱 2음절. discordant=불일치하는이랑 같은 뿌리. accord이랑 cord 공통!
+accord;일치/협정/합의; 일치하다/부합하다;ac(향해)+cord(마음) = 마음이 향해 맞다 = 일치/합의! accordingly=따라서이랑 같은 뿌리!;ac+cord! ac-cord → "어코드(cord=마음)" 앞에 ac. 딱 2음절. cc 두 개! accordingly=따라서이랑 같은 뿌리. discord이랑 cord 공통!
+courage;용기/담력;corage(마음)+ous = 마음의 힘 = 용기! courageous=용감한이랑 같은 뿌리!;cour+age! cour-age → "커리지(cour=마음)" + age. 딱 2음절. courageous=용감한이랑 같은 뿌리. encourage이랑 courage 공통!
+encourage;용기를 북돋우다/격려하다/장려하다;en(안으로)+courage(용기) = 안으로 용기 넣다 = 격려하다! encouragement=격려이랑 같은 뿌리!;en+courage! en-cour-age → "인커리지(courage=용기)" 앞에 en. 딱 3음절. encouragement=격려이랑 같은 뿌리. courage이랑 courage 공통!
+core;핵심/중심부/중핵; 핵심적인;cor(심장/마음/핵심)+e = 중심의 것 = 핵심/중심부! corps이랑 같은 뿌리!;c-o-r-e. "코어(cor=심장/핵심)" → 딱 4글자. corps=군단이랑 같은 뿌리. courage이랑 cor 공통 뿌리!
+terminal;종점/종착역/터미널; 말기의/끝의;termin(끝)+al = 끝의 것 = 종점/말기의! terminate이랑 termin 공통!;termin+al! ter-mi-nal → "터미널(termin=끝)" + al. 딱 3음절. terminate이랑 termin 같음
+terminate;종결하다/끝내다/해고하다;termin(끝)+ate = 끝내다 = 종결하다/해고하다! termination=종료이랑 같은 뿌리!;termin+ate! ter-mi-nate → "터미네이트(termin=끝)" + ate. 딱 3음절. termination=종료이랑 같은 뿌리. terminal이랑 termin 공통!
+determine;결정짓다/좌우하다/알아내다/결심하다;de(완전히)+termin(끝)+e = 완전히 끝내다 = 결정하다! determination=결심이랑 같은 뿌리!;de+termin+e! de-ter-mine → "디터민(termin=끝)" 앞에 de. 딱 3음절. determination=결심이랑 같은 뿌리. terminate이랑 termin 공통!
+term;용어/말/조건/기간/임기;term(경계/끝) = 경계의 것 = 용어/기간/조건! terminal이랑 term 공통 뿌리!;t-e-r-m. "텀(term=경계/끝)" → 딱 4글자. terminal이랑 term 같음. in terms of=~의 관점에서

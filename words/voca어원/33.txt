@@ -1,0 +1,24 @@
+attribute;속성/특성/자질;at(향해)+tribut(주다)+e = 향해 주다 = ~의 덕분으로 돌리다/속성! tribute이랑 tribut 공통!;at+tribut+e! at-trib-ute → "어트리뷰트(tribut=주다)" 앞에 at. 딱 3음절. tt 두 개! tribute=공물이랑 같은 뿌리. contribute이랑 tribut 공통!
+contribute;기부하다/기여하다/기고하다;con(함께)+tribut(주다)+e = 함께 주다 = 기부하다/기여하다! contribution=기여이랑 같은 뿌리!;con+tribut+e! con-trib-ute → "컨트리뷰트(tribut=주다)" 앞에 con. 딱 3음절. contribution=기여이랑 같은 뿌리. attribute이랑 tribut 공통!
+distribute;분배하다/나누어 주다/배포하다;dis(떨어져)+tribut(주다)+e = 떨어져 주다 = 분배하다! distribution=분배이랑 같은 뿌리!;dis+tribut+e! dis-trib-ute → "디스트리뷰트(tribut=주다)" 앞에 dis. 딱 3음절. distribution=분배이랑 같은 뿌리. contribute이랑 tribut 공통!
+congratulate;축하하다;con(함께)+gratul(감사하다)+ate = 함께 감사하다 = 축하하다! congratulation=축하이랑 같은 뿌리!;con+gratul+ate! con-grat-u-late → "컨그래출레이트(gratul=감사하다)" 앞에 con. 딱 4음절. congratulations=축하합니다이랑 같은 뿌리
+gratify;기쁘게 하다/만족시키다;gratis(감사)+fy = 감사하게 만들다 = 기쁘게 하다! gratitude이랑 같은 뿌리!;gratis+fy! grat-i-fy → "그래티파이(grat=감사하다)" + ify. 딱 3음절. gratitude이랑 grat 공통
+gratitude;감사(의 마음)/사의;gratis(감사)+ude = 감사함 = 감사의 마음! grateful=감사한이랑 같은 뿌리!;gratis+ude! grat-i-tude → "그래티튜드(grat=감사하다)" + itude. 딱 3음절. grateful=감사한이랑 같은 뿌리. gratify이랑 grat 공통!
+grace;우아함/은총/품위; 품위 있게 꾸미다;graci(감사하다/은혜)+e = 감사함/은혜 = 우아함/은총! graceful=우아한이랑 같은 뿌리!;grac+e! grace → "그레이스(grac=은혜)" + e. 딱 1음절. graceful=우아한이랑 같은 뿌리. gratitude이랑 g 공통 뿌리!
+agree;동의하다/찬성하다/의견이 같다;a(향해)+gree(기쁘게 하다) = 향해 기쁘게 하다 = 동의하다! agreement=합의이랑 같은 뿌리!;a+gree! a-gree → "어그리(gree=기쁘게)" 앞에 a. 딱 2음절. agreement=합의이랑 같은 뿌리. grace이랑 gr 공통 뿌리!
+operate;작동하다/운영하다/수술하다;oper(일하다)+ate = 일하다/작동하다 = 운영하다/수술하다! operation=수술/운영이랑 같은 뿌리!;oper+ate! op-er-ate → "오퍼레이트(oper=일하다)" + ate. 딱 3음절. operation=수술/운영이랑 같은 뿌리. cooperate이랑 oper 공통!
+cooperate;협력하다/협동하다;co(함께)+oper(일하다)+ate = 함께 일하다 = 협력하다! cooperation=협력이랑 같은 뿌리!;co+oper+ate! co-op-er-ate → "코오퍼레이트(oper=일하다)" 앞에 co. 딱 4음절. cooperation=협력이랑 같은 뿌리. operate이랑 oper 공통!
+distinguish;구별하다/식별하다/두드러지게 하다;dis(분리)+tingu(빛나다)+ish = 분리해 빛나다 = 구별하다/두드러지다! distinguished=유명한이랑 같은 뿌리!;dis+tingu+ish! dis-tin-guish → "디스팅귀시(tingu=빛나다)" 앞에 dis. 딱 3음절. distinguished=유명한이랑 같은 뿌리. extinguish이랑 tingu 공통!
+extinguish;끄다/소화하다/소멸시키다;ex(완전히)+tingu(빛나다)+ish = 빛을 완전히 없애다 = 끄다/소멸! extinct이랑 같은 뿌리!;ex+tingu+ish! ex-tin-guish → "익스팅귀시(tingu=빛나다)" 앞에 ex. 딱 3음절. extinct이랑 extin 공통. distinguish이랑 tingu 공통!
+extinct;멸종한/사라진;ex(완전히)+tinct(빛나다) = 빛이 완전히 사라진 = 멸종한! extinction=멸종이랑 같은 뿌리!;ex+tinct! ex-tinct → "익스팅트(tinct=빛나다)" 앞에 ex. 딱 2음절. extinction=멸종이랑 같은 뿌리. extinguish이랑 ext 공통!
+distinct;별개의/뚜렷한/확실한;dis(분리)+tinct(빛나다) = 분리되어 빛나다 = 뚜렷한/별개의! distinction=구별이랑 같은 뿌리!;dis+tinct! dis-tinct → "디스팅트(tinct=빛나다)" 앞에 dis. 딱 2음절. distinction=구별이랑 같은 뿌리. extinct이랑 tinct 공통!
+instinct;본능/본성/직감;in(안에)+stinct(빛나다/찌르다) = 안에서 빛나는 것 = 본능! instinctive=본능적인이랑 같은 뿌리!;in+stinct! in-stinct → "인스팅트(stinct=안에서)" 앞에 in. 딱 2음절. instinctive=본능적인이랑 같은 뿌리. distinct이랑 stinct 공통!
+stimulate;자극하다/촉진하다/흥분시키다;stimul(찌르다)+ate = 찌르듯 자극하다 = 자극하다/촉진하다! stimulus=자극이랑 같은 뿌리!;stimul+ate! stim-u-late → "스티뮬레이트(stimul=찌르다)" + ate. 딱 3음절. stimulus=자극이랑 같은 뿌리. instinct이랑 sti 공통 뿌리!
+regard;여기다/간주하다/존중하다; 존중/배려/안부;re(다시)+gard(지키다/보다) = 다시 보다 = 여기다/존중하다! regardless=관계없이이랑 같은 뿌리!;re+gard! re-gard → "리가드(gard=보다)" 앞에 re. 딱 2음절. regardless=관계없이이랑 같은 뿌리. guard이랑 gard 공통!
+garment;의복/옷;gar(입히다)+ment = 입히는 것 = 의복/옷! garment factory=의류 공장! guard이랑 gar 공통 뿌리!;gar+ment! gar-ment → "가먼트(gar=입히다)" + ment. 딱 2음절. garment factory=의류 공장. regard이랑 gar 공통 뿌리!
+guard;경호원/경비원/교도관; 지키다/보호하다/감시하다;guard(지키다) = 지키는 사람 = 경호원/경비원! safeguard=보호이랑 같은 뿌리!;g-u-a-r-d. "가드(guard=지키다)" → 딱 5글자. safeguard=보호이랑 같은 뿌리. regard이랑 gard 공통!
+guarantee;보증/보장/담보; 보증하다/보장하다;guarant(지키다/보증)+ee = 지켜서 보증하다 = 보증/보장! guarantor=보증인이랑 같은 뿌리!;guarant+ee! guar-an-tee → "개런티(guarant=보증하다)" + ee. 딱 3음절. ee 두 개! guarantor=보증인이랑 같은 뿌리. guard이랑 guar 공통!
+float;물 위에 뜨다/떠돌다; 부유물;float(뜨다) = 뜨다 = 물 위에 뜨다! afloat=물에 뜬이랑 같은 뿌리!;f-l-o-a-t. "플로트(float=뜨다)" → 딱 5글자. afloat=물에 뜬이랑 같은 뿌리. flood이랑 fl 공통 뿌리!
+flood;홍수/대수; 물에 잠기다/넘치다;flood(홍수) = 물이 넘치는 것 = 홍수! flooded=침수된이랑 같은 뿌리!;f-l-o-o-d. "플러드(flood=홍수)" → 딱 5글자. oo 두 개! flooded=침수된이랑 같은 뿌리. flow이랑 fl 공통 뿌리!
+flow;흐름/흐르다; (물·공기·말 등이) 흐르다;flow(흐르다) = 흐르다 = 흐름/흐르다! overflow=넘치다이랑 같은 뿌리!;f-l-o-w. "플로우(flow=흐르다)" → 딱 4글자. overflow=넘치다이랑 같은 뿌리. flood이랑 fl 공통 뿌리!
+flee;도망치다/달아나다/피하다;flee(달아나다) = 달아나다 = 도망치다! flight이랑 같은 뿌리!;f-l-e-e. "플리(flee=달아나다)" → 딱 4글자. ee 두 개! flight=도망/비행이랑 같은 뿌리

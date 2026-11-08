@@ -1,0 +1,30 @@
+interaction;상호 작용;inter(서로)+action(행동) = 서로 행동하다!;inter+action! in-ter-ac-tion → "인터(inter=서로)" + action
+grateful;감사하는/고마워하는;grate(감사)+ful = 감사로 가득한!;grate 알면 +ful만! grate-ful → "그레이트(grate=감사)" + ful
+regulate;규제하다/통제하다;regul(규칙)+ate = 규칙으로 통제하다!;regul+ate! reg-u-late → "레귤(regul=규칙)" + ate
+administer;관리하다/집행하다;ad+minister(섬기다) = 섬기듯 관리하다!;minister 앞에 ad! ad-min-is-ter → "미니스터(minister)" 앞에 ad
+detrimental;해로운/불리한;detri(해치다)+mental = 정신적으로 해로운!;detri+mental! det-ri-men-tal → "데트리(detri=해치다)" + mental
+favorable;호의적인/찬성하는/유리한;favor(호의)+able = 호의를 가질 수 있는!;favor 알면 +able만! fa-vor-a-ble → "페이버(favor=호의)" + able
+occupy;차지하다/사용하다/점유하다;oc+cupy(잡다) = 꽉 잡아 차지하다!;oc+cupy! oc-cu-py → cc 두 개 주의. "오큐(occu)+파이(py)"
+subconscious;잠재의식;sub(아래)+conscious(의식) = 의식 아래에 있는 것!;conscious 앞에 sub! sub-con-scious → "컨셔스(conscious=의식)" 앞에 sub
+acquaintance;지인/아는 사람;acquaint(알다)+ance = 알고 있는 사람!;acquaint 알면 +ance만! ac-quain-tance → cqu 조합 주의
+colleague;동료/동업자;col(함께)+league(연맹) = 함께 일하는 사람!;col+league! col-league → "리그(league=연맹)" 앞에 col. ue로 끝남
+coexist;공존하다;co(함께)+exist(존재) = 함께 존재하다!;exist 앞에 co! co-ex-ist → "이그지스트(exist=존재)" 앞에 co
+seeding;묘목;seed(씨앗)+ing = 씨앗을 심는 것 = 묘목!;seed 알면 +ing만! seed-ing → "씨드(seed=씨앗)" + ing
+explode;터지다/폭발하다;ex(밖으로)+plode(터지다) = 밖으로 터지다!;ex+plode! ex-plode → "플로드(plode=터지다)" 앞에 ex
+stir;휘젓다/뒤섞다;스터! 커피를 스터(stir)하다 = 휘젓다!;s-t-i-r. 딱 4글자! "스티(sti)+어(r)" → 커피 스터
+irresistible;저항할수없는;ir(아닌)+resist(저항)+ible = 저항할 수 없는!;resist 감싸기! ir-re-sist-i-ble → "리지스트(resist=저항)" 앞에 ir 뒤에 ible
+deduce;추론하다/연역하다;de+duce(이끌다) = 이끌어 결론 내리다!;de+duce! de-duce → "듀스(duce=이끌다)" 앞에 de
+pollinator;꽃가루 매개자/수분 매개자;pollin(꽃가루)+ator = 꽃가루 나르는 것!;pollin+ator! pol-li-na-tor → "폴린(pollin=꽃가루)" + ator. 꿀벌!
+violation;위반/위배;violate(위반)+ion = 위반하는 행위!;violate에서 e→ion! vi-o-la-tion → "바이올레이트(violate)" 에서 e를 ion으로
+violence;폭력/격렬함;violen(강렬한)+ce = 강렬한 힘 = 폭력!;violent에서 t→ce! vi-o-lence → "바이올런트(violent)" 에서 t를 ce로
+ascend;오르다/상승하다;a+scend(오르다) = 위로 오르다!;scend 앞에 a! as-cend → "센드(scend=오르다)" 앞에 a. descend 반대
+assent;동의하다/찬성하다;as+sent(보내다) = 마음을 보내다 = 동의!;as+sent! as-sent → "센트(sent=보내다)" 앞에 as. ascend이랑 헷갈리지 말기
+underlie;~의 밑에 있다/~의 기저를 이루다;under(아래)+lie(있다) = 아래에 있다!;lie 앞에 under! un-der-lie → "라이(lie=있다)" 앞에 under
+underline;밑줄을 긋다/강조하다;under(아래)+line(선) = 아래에 선 긋다!;line 앞에 under! un-der-line → "라인(line=선)" 앞에 under. underlie랑 끝이 달라
+attribute;~의 탓으로 돌리다/있다고 생각하다/속성;attrib(돌리다)+ute = 원인을 ~에 돌리다!;attrib+ute! at-trib-ute → tt 두 개 주의. "어트리뷰트"
+take ~ into account;고려하다/참작하다;account(계산)에 넣다 = 계산에 포함하다!;account 하나만! take ~ into [account] → "어카운트(account=계산)" 기억
+at the expense of;의 비용의 대가로/~을 희생으로;expense(비용/희생) = 무언가를 희생하며!;expense 하나만! at the [expense] of → "익스펜스(expense=비용)" 기억
+keep up with;뒤쳐지지 않고 따라가다/계속 연락하고 지내다;up(위로)+with = 위로 따라가다 = 뒤쳐지지 않다!;up 하나만! keep [up] with → "업(up=위로)" 기억
+lag behind;~보다 뒤쳐지다;lag(처지다)+behind(뒤) = 뒤처지다!;lag+behind! "래그(lag=처지다)" + behind
+in vain;헛되이/허사가 되다;vain(헛된) = 헛되이. vanity(허영)랑 같은 뿌리!;vain 하나만! in [vain] → "베인(vain=헛된)" 기억. v-a-i-n
+do away with;폐지하다/버리다/처분하다;away(멀리)+with = 멀리 없애버리다!;away 하나만! do [away] with → "어웨이(away=멀리)" 기억

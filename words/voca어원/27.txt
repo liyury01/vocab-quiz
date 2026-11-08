@@ -1,0 +1,24 @@
+evolve;진화하다/진화시키다/발전하다/발전시키다;e(밖으로)+volve(돌다) = 밖으로 돌아나오다 = 진화/발전! evolution=진화이랑 같은 뿌리!;e+volve! e-volve → "볼브(volve=돌다)" 앞에 e. 딱 2음절. evolution=진화이랑 같은 뿌리. revolve이랑 volve 공통!
+revolve;(~을 축으로) 돌다/회전하다/돌리다/회전시키다/공전하다;re(다시)+volve(돌다) = 다시 돌다 = 회전하다/공전! revolution=혁명이랑 같은 뿌리!;re+volve! re-volve → "볼브(volve=돌다)" 앞에 re. 딱 2음절. revolution=혁명/공전이랑 같은 뿌리
+involve;포함하다/(필연적으로) 수반하다/관계[관련]시키다/(사건 등에) 말려들게 하다/참여시키다;in(안으로)+volve(돌다) = 안으로 감아들다 = 포함하다/말려들다! involvement=관여이랑 같은 뿌리!;in+volve! in-volve → "볼브(volve=돌다)" 앞에 in. 딱 2음절. involvement=관여이랑 같은 뿌리. revolve이랑 volve 공통!
+volume;음량/볼륨/양/부피/용적/책/권(卷);vol(굴리다)+ume = 굴러가는 것 = 볼륨/부피! revolve이랑 vol 공통!;vol+ume! vol-ume → "볼륨(vol=굴리다)" + ume. 딱 2음절. revolve이랑 vol 같음. turn up the volume=볼륨 올리다
+prefer;~을 더 좋아하다/차라리 ~을 택하다;pre(앞에)+fer(가져오다) = 앞에 가져오다 = 더 좋아하다! preference=선호이랑 같은 뿌리!;pre+fer! pre-fer → "퍼(fer=가져오다)" 앞에 pre. 딱 2음절. preference=선호이랑 같은 뿌리. refer이랑 fer 공통!
+refer;언급하다/~라고 부르다/참조하다/조회하다/(문제·사건 등을) 위탁하다/회부하다;re(다시)+fer(가져오다) = 다시 가져오다 = 언급하다/참조하다! reference=참고이랑 같은 뿌리!;re+fer! re-fer → "퍼(fer=가져오다)" 앞에 re. 딱 2음절. reference=참고이랑 같은 뿌리. prefer이랑 fer 공통!
+confer;의논하다/협의하다/수여하다/주다;con(함께)+fer(가져오다) = 함께 가져오다 = 협의하다/수여! conference=회의이랑 같은 뿌리!;con+fer! con-fer → "퍼(fer=가져오다)" 앞에 con. 딱 2음절. conference=회의이랑 같은 뿌리. prefer이랑 fer 공통!
+infer;추론하다/추정[추측]하다;in(안으로)+fer(가져오다) = 안으로 가져와 추측 = 추론하다! inference=추론이랑 같은 뿌리!;in+fer! in-fer → "퍼(fer=가져오다)" 앞에 in. 딱 2음절. inference=추론이랑 같은 뿌리. refer이랑 fer 공통!
+indifferent;(~에) 무관심한/사심이 없는/동정심이 없는;in(없는)+dif(분리)+fer(가져오다)+ent = 가져오지 않는 = 무관심한! indifference=무관심이랑 같은 뿌리!;in+dif+fer+ent! in-dif-fer-ent → "인디퍼런트(dif+fer=가져오다)" 앞에 in. 딱 4음절. ff 두 개! indifference=무관심이랑 같은 뿌리
+fertile;(땅이) 기름진/비옥한/많이 낳는/생식 능력이 있는;fer(낳다)+tile = 낳을 수 있는 = 비옥한/생식 능력이 있는! fertility=비옥함이랑 같은 뿌리!;fer+tile! fer-tile → "퍼틸(fer=낳다)" + tile. 딱 2음절. fertility=비옥함이랑 같은 뿌리
+vanish;사라지다/소멸하다;van(비다)+ish = 비어지다 = 사라지다! vain이랑 van 공통!;van+ish! van-ish → "배니시(van=비다)" + ish. 딱 2음절. vain이랑 van 같음. vanish into thin air=허공으로 사라지다
+vain;허영심이 강한/헛된/무익한;vain(비다) = 속이 빈 = 허영심/헛된! in vain=헛되이!;v-a-i-n. "베인(vain=비다)" → 딱 4글자. ai 조합. in vain=헛되이. vanish이랑 van 같음
+avoid;피하다/회피하다;a(떠나)+void(비다) = 비워 떠나다 = 피하다! avoidance=회피이랑 같은 뿌리!;a+void! a-void → "보이드(void=비다)" 앞에 a. 딱 2음절. avoidance=회피이랑 같은 뿌리. vain이랑 v 공통 뿌리!
+vacant;비어 있는/사람이 살지 않는/빈자리의/결원의;vac(비다)+ant = 빈 것 = 비어있는! vacancy=공석이랑 같은 뿌리!;vac+ant! va-cant → "베이컨트(vac=비다)" + ant. 딱 2음절. vacancy=공석이랑 같은 뿌리. void이랑 같은 뿌리!
+vacuum;진공/(자리·마음 등의) 공백/공허/진공 청소기;vacu(비다)+um = 완전히 빈 것 = 진공/공백! vacant이랑 vac 공통!;vacu+um! vac-u-um → "배큠(vacu=비다)" + um. 딱 3음절. uu 두 개! vacant이랑 vac 같음
+essence;본질/진수/정수/핵심/(식물 등에서 추출한) 원액;esse(있다)+nce = 있는 것 자체 = 본질! essential=본질적인이랑 같은 뿌리!;esse+nce! es-sence → "에센스(esse=있다)" + nce. 딱 2음절. ss 두 개! essential=본질적인이랑 같은 뿌리
+absent;결석[결근]한/없는/결여된/(표정이) 멍한/집중하지 않는; ~에 결석[결근]하다;ab(떠난)+sent(있다) = 떠나서 없는 = 결석한/없는! absence=결석이랑 같은 뿌리!;ab+sent! ab-sent → "센트(sent=있다)" 앞에 ab. 딱 2음절. absence=결석이랑 같은 뿌리. essence이랑 se 공통 뿌리!
+present;출석한/현재의; 주다/제출하다/나타내다/보여주다/(문제·기회 등이) 생기다/(정식으로) 소개하다; 선물/현재;pre(앞에)+sent(있다) = 앞에 있는 = 현재의/선물/제출! presentation=발표이랑 같은 뿌리!;pre+sent! pre-sent → "센트(sent=있다)" 앞에 pre. 딱 2음절. presentation=발표이랑 같은 뿌리. absent이랑 sent 공통!
+award;상/상금; (상 등을) 수여하다/주다;a(향해)+ward(지키다) = 향해 지켜주다 = 수여하다/상! reward이랑 같은 뿌리!;a+ward! a-ward → "워드(ward=지키다)" 앞에 a. 딱 2음절. reward이랑 ward 같음
+reward;보상(금)/보수/현상금; 보상하다/보답하다;re(다시)+ward(지키다) = 다시 지켜주다 = 보상하다! rewarding=보람 있는이랑 같은 뿌리!;re+ward! re-ward → "워드(ward=지키다)" 앞에 re. 딱 2음절. rewarding=보람 있는이랑 같은 뿌리. award이랑 ward 공통!
+aware;알고 있는/의식[인식]하는;a(향해)+ware(주의하다) = 향해 주의를 기울이다 = 알고 있는! awareness=인식이랑 같은 뿌리!;a+ware! a-ware → "웨어(ware=주의)" 앞에 a. 딱 2음절. awareness=인식이랑 같은 뿌리. warn이랑 war 공통!
+warn;경고하다/주의시키다;warn(주의하다) = 주의를 주다 = 경고하다! warning=경고이랑 같은 뿌리!;w-a-r-n. "워언(warn=주의)" → 딱 4글자. warning=경고이랑 같은 뿌리. aware이랑 war 같음
+artificial;인공의/모조의/(태도·행동 등이) 거짓된/꾸며진;arti(기술/솜씨)+ficial(만들다) = 기술로 만든 = 인공의! art이랑 같은 뿌리!;arti+ficial! ar-ti-fi-cial → "아티피셜(arti=기술)" + ficial. 딱 4음절. art이랑 같은 뿌리. artistic이랑 art 공통!
+artistic;예술[미술]의/예술적인;art(예술)+istic = 예술의 것 = 예술적인! art이랑 같은 뿌리!;art+istic! ar-tis-tic → "아티스틱(art=예술)" + istic. 딱 3음절. art이랑 같은 뿌리. artificial이랑 art 공통!

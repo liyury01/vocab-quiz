@@ -1,0 +1,24 @@
+mechanism;기계 장치/메커니즘/구조/절차/방법;mechan(기계)+ism = 기계의 것 = 기계 장치/구조! mechanical=기계적인이랑 같은 뿌리!;mechan+ism! mech-a-nism → "메커니즘(mechan=기계)" + ism. 딱 3음절. mechanical=기계적인이랑 같은 뿌리. mechanic이랑 mechan 공통!
+mechanic;기계공/수리공/정비공;mechan(기계)+ic = 기계 다루는 사람 = 기계공! mechanical=기계적인이랑 같은 뿌리!;mechan+ic! me-chan-ic → "머캐닉(mechan=기계)" + ic. 딱 3음절. mechanical=기계적인이랑 같은 뿌리. mechanism이랑 mechan 공통!
+machinery;기계류/기계 장치/시스템;machine(기계)+ry = 기계들의 총칭 = 기계류! mechanic이랑 같은 뿌리!;machine+ry! ma-chin-er-y → "머시너리(machine=기계)" + ry. 딱 4음절. mechanic이랑 mach 같음
+minor;작은/적은/덜 중요한; 미성년자/부전공; 부전공하다;min(작은)+or = 더 작은 것 = 작은/덜 중요한! minority=소수이랑 같은 뿌리!;min+or! mi-nor → "마이너(min=작은)" + or. 딱 2음절. minority=소수이랑 같은 뿌리. minimum이랑 min 공통!
+minimum;최소/최저; 최소의/최저의;minim(가장 작은)+um = 가장 작은 것 = 최소! maximum이랑 반대!;minim+um! min-i-mum → "미니멈(minim=가장 작은)" + um. 딱 3음절. maximum=최대이랑 반대. minor이랑 min 공통!
+minister;성직자/목사/장관; 돕다/봉사하다;minis(작게/봉사하다)+ter = 봉사하는 사람 = 목사/장관! ministry=부처/성직이랑 같은 뿌리!;minis+ter! min-is-ter → "미니스터(minis=봉사하다)" + ter. 딱 3음절. ministry=부처/성직이랑 같은 뿌리. minor이랑 min 공통 뿌리!
+administer;경영·운영하다/관리하다/집행하다;ad(향해)+minist(봉사하다)+er = 향해 봉사하다 = 관리하다! administration=행정이랑 같은 뿌리!;ad+minist+er! ad-min-is-ter → "어드미니스터(minist=봉사하다)" 앞에 ad. 딱 4음절. administration=행정이랑 같은 뿌리. minister이랑 minist 공통!
+diminish;감소하다/줄다/축소하다;di(아래)+min(작은)+ish = 더 작게 하다 = 감소하다! diminishing=줄어드는이랑 같은 뿌리!;di+min+ish! di-min-ish → "디미니시(min=작은)" 앞에 di. 딱 3음절. diminishing=줄어드는이랑 같은 뿌리. minor이랑 min 공통!
+eminent;저명한/존경받는/우수한;e(밖으로)+min(튀어나오다)+ent = 밖으로 튀어나오다 = 저명한/우수한! eminence=명성이랑 같은 뿌리!;e+min+ent! em-i-nent → "에미넌트(min=튀어나오다)" 앞에 e. 딱 3음절. eminence=명성이랑 같은 뿌리. prominent이랑 min 공통!
+imminent;임박한/곧 일어날 것 같은;im(위에)+min(튀어나오다)+ent = 위에서 튀어나오다 = 임박한! imminently=임박하게이랑 같은 뿌리!;im+min+ent! im-mi-nent → "이미넌트(min=튀어나오다)" 앞에 im. 딱 3음절. mm 두 개! imminently=임박하게이랑 같은 뿌리. eminent이랑 min 공통!
+prominent;유명한/중요한/눈에 띄는/튀어나온;pro(앞으로)+min(튀어나오다)+ent = 앞으로 튀어나오다 = 유명한/눈에 띄는! prominence=유명함이랑 같은 뿌리!;pro+min+ent! prom-i-nent → "프로미넌트(min=튀어나오다)" 앞에 pro. 딱 3음절. prominence=유명함이랑 같은 뿌리. eminent이랑 min 공통!
+domain;소유지/영토/영역/범위/도메인;dom(주인/집)+ain = 주인의 것 = 영토/영역! domestic이랑 dom 공통!;dom+ain! do-main → "도메인(dom=주인)" + ain. 딱 2음절. domestic이랑 dom 같음
+domestic;국내의/가정의/가정적인;dom(집)+estic = 집의 것 = 가정의/국내의! domesticate=길들이다이랑 같은 뿌리!;dom+estic! do-mes-tic → "도메스틱(dom=집)" + estic. 딱 3음절. domesticate=길들이다이랑 같은 뿌리. domain이랑 dom 공통!
+dominate;지배하다/다스리다/두드러지다;domin(주인)+ate = 주인이 되다 = 지배하다! domination=지배이랑 같은 뿌리!;domin+ate! dom-i-nate → "도미네이트(domin=주인)" + ate. 딱 3음절. domination=지배이랑 같은 뿌리. domain이랑 dom 공통!
+predominant;두드러진/현저한/지배적인/우세한;pre(먼저)+domin(주인)+ant = 먼저 지배하다 = 지배적인/우세한! predominance=우세이랑 같은 뿌리!;pre+domin+ant! pre-dom-i-nant → "프리도미넌트(domin=주인)" 앞에 pre. 딱 4음절. dominate이랑 domin 공통!
+melody;멜로디/선율/가락;mel(노래)+ody = 노래의 것 = 선율/멜로디! melodious=선율의이랑 같은 뿌리!;mel+ody! mel-o-dy → "멜러디(mel=노래)" + ody. 딱 3음절. melodious=선율의이랑 같은 뿌리
+tragedy;비극/비극적 사건;trago(염소)+edy = 염소 노래 = 비극! tragic=비극적인이랑 같은 뿌리!;trag+edy! trag-e-dy → "트래지디(trag=비극)" + edy. 딱 3음절. tragic=비극적인이랑 같은 뿌리
+penalty;형벌/처벌/벌금/페널티;pen(처벌하다)+alty = 처벌의 것 = 형벌/벌금! punish이랑 pen 공통 뿌리!;pen+alty! pen-al-ty → "페널티(pen=처벌하다)" + alty. 딱 3음절. punish이랑 pen 같음
+punish;벌하다/처벌하다;pun(처벌하다)+ish = 처벌하다 = 벌하다! punishment=처벌이랑 같은 뿌리!;pun+ish! pun-ish → "퍼니시(pun=처벌하다)" + ish. 딱 2음절. punishment=처벌이랑 같은 뿌리. penalty이랑 pen 공통 뿌리!
+compel;억지로 하게 하다/강요하다;com(함께)+pel(몰다) = 함께 몰다 = 강요하다! compulsion=강요이랑 같은 뿌리!;com+pel! com-pel → "컴펠(pel=몰다)" 앞에 com. 딱 2음절. compulsion=강요이랑 같은 뿌리. expel이랑 pel 공통!
+expel;추방하다/쫓아내다;ex(밖으로)+pel(몰다) = 밖으로 몰다 = 추방하다! expulsion=추방이랑 같은 뿌리!;ex+pel! ex-pel → "익스펠(pel=몰다)" 앞에 ex. 딱 2음절. expulsion=추방이랑 같은 뿌리. compel이랑 pel 공통!
+appeal;호소하다/간청하다/항소하다/마음을 끌다; 호소/매력/항소;ap(향해)+peal(몰다/끌다) = 향해 끌다 = 호소하다/매력! appealing=매력적인이랑 같은 뿌리!;ap+peal! ap-peal → "어필(peal=끌다)" 앞에 ap. 딱 2음절. pp 두 개! appealing=매력적인이랑 같은 뿌리. compel이랑 pel 공통 뿌리!
+polish;닦다/윤이 나게 하다/연마하다; 광택/윤;pol(닦다/갈다)+ish = 닦다/갈다 = 윤이 나게 하다/연마! polished=세련된이랑 같은 뿌리!;pol+ish! pol-ish → "폴리시(pol=닦다)" + ish. 딱 2음절. polished=세련된이랑 같은 뿌리
+impulse;충동/자극/추진력;im(안으로)+pulse(몰다/뛰다) = 안에서 몰아치다 = 충동/자극! impulsive=충동적인이랑 같은 뿌리!;im+pulse! im-pulse → "임펄스(pulse=몰다)" 앞에 im. 딱 2음절. impulsive=충동적인이랑 같은 뿌리. compel이랑 puls 공통 뿌리!

@@ -1,0 +1,25 @@
+dictate;(말한 것을) 받아쓰게 하다/구술하다; 명령하다/지시하다;dict(말하다/명령하다)+ate = 말하다 = 받아쓰게 하다/명령하다! dictation=받아쓰기이랑 같은 뿌리!;dict+ate! dic-tate → "딕테이트(dict=말하다)" + ate. 딱 2음절. dictation=받아쓰기이랑 같은 뿌리. contradict이랑 dict 공통!
+addiction;중독/탐닉/열중;ad(향해)+dict(말하다)+ion = 향해 집착하다 = 중독! addicted=중독된이랑 같은 뿌리!;ad+dict+ion! ad-dic-tion → "어딕션(dict=말하다)" 앞에 ad. 딱 3음절. dd 두 개! addicted=중독된이랑 같은 뿌리. dictate이랑 dict 공통!
+contradict;반박하다/~와 모순되다;contra(반대)+dict(말하다) = 반대로 말하다 = 반박하다! contradiction=모순이랑 같은 뿌리!;contra+dict! con-tra-dict → "콘트러딕트(dict=말하다)" 앞에 contra. 딱 3음절. contradiction=모순이랑 같은 뿌리
+dedicate;바치다/헌신하다/헌정하다;de(완전히)+dicate(말하다/선언하다) = 완전히 선언하다 = 바치다/헌신! dedication=헌신이랑 같은 뿌리!;de+dicate! ded-i-cate → "데디케이트(dicate=선언하다)" 앞에 de. 딱 3음절. dedication=헌신이랑 같은 뿌리. dictate이랑 dict 공통 뿌리!
+indicate;가리키다/지적하다/암시하다/나타내다;in(향해)+dicate(말하다/가리키다) = 향해 가리키다 = 지적하다/나타내다! indication=표시이랑 같은 뿌리!;in+dicate! in-di-cate → "인디케이트(dicate=가리키다)" 앞에 in. 딱 3음절. indication=표시이랑 같은 뿌리. dedicate이랑 dicate 공통!
+index;색인/목록/지표/지수; 색인에 올리다;in(향해)+dex(가리키다) = 향해 가리키는 것 = 색인/지표! indicate이랑 같은 뿌리!;in+dex! in-dex → "인덱스(dex=가리키다)" 앞에 in. 딱 2음절. indicate이랑 in+d 공통 뿌리!
+invade;침략하다/침입하다/침해하다;in(안으로)+vade(가다) = 안으로 가다 = 침략하다/침입! invasion=침략이랑 같은 뿌리!;in+vade! in-vade → "인베이드(vade=가다)" 앞에 in. 딱 2음절. invasion=침략이랑 같은 뿌리. pervade이랑 vade 공통!
+pervade;널리 퍼지다/만연하다;per(통해서)+vade(가다) = 통해서 가다 = 널리 퍼지다! pervasive=만연한이랑 같은 뿌리!;per+vade! per-vade → "퍼베이드(vade=가다)" 앞에 per. 딱 2음절. pervasive=만연한이랑 같은 뿌리. invade이랑 vade 공통!
+evade;회피하다/탈출하다/피하다;e(밖으로)+vade(가다) = 밖으로 가다 = 회피하다/탈출! evasion=회피이랑 같은 뿌리!;e+vade! e-vade → "이베이드(vade=가다)" 앞에 e. 딱 2음절. evasion=회피이랑 같은 뿌리. invade이랑 vade 공통!
+moderate;보통의/중간의/온건한; 누그러뜨리다/완화하다;moder(방법/양식/알맞은)+ate = 알맞은 정도 = 보통의/온건한! moderation=절제이랑 같은 뿌리!;moder+ate! mod-er-ate → "모더레이트(moder=알맞은)" + ate. 딱 3음절. moderation=절제이랑 같은 뿌리. modify이랑 mod 공통!
+modernize;현대화하다/근대화하다;modern(현대)+ize = 현대화하다 = 현대화! modern=현대의이랑 같은 뿌리!;modern+ize! mod-ern-ize → "모더나이즈(modern=현대)" + ize. 딱 3음절. modern=현대의이랑 같은 뿌리. moderate이랑 mod 공통!
+modest;겸손한/소박한/단정한;mod(알맞은)+est = 알맞은 것 = 겸손한/소박한! modesty=겸손이랑 같은 뿌리!;mod+est! mod-est → "모디스트(mod=알맞은)" + est. 딱 2음절. modesty=겸손이랑 같은 뿌리. moderate이랑 mod 공통!
+modify;변경하다/수정하다/수식하다;mod(방법/양식)+ify = 양식을 바꾸다 = 변경하다/수정하다! modification=수정이랑 같은 뿌리!;mod+ify! mod-i-fy → "모디파이(mod=방법)" + ify. 딱 3음절. modification=수정이랑 같은 뿌리. moderate이랑 mod 공통!
+accommodate;숙박시키다/수용하다/편의를 도모하다/적응하다;ac(향해)+com(함께)+mod(들어맞다)+ate = 함께 맞추다 = 숙박시키다/편의 도모! accommodation=숙박이랑 같은 뿌리!;ac+com+mod+ate! ac-com-mo-date → "어코머데이트(mod=맞다)" 앞에 ac+com. 딱 4음절. cc+mm! accommodation=숙박이랑 같은 뿌리
+commodity;상품/판매상품/필수품;com(함께)+mod(들어맞다)+ity = 함께 맞추어 쓰는 것 = 상품/필수품! accommodate이랑 mod 공통!;com+mod+ity! com-mod-i-ty → "커마디티(mod=들어맞다)" 앞에 com. 딱 4음절. mm 두 개! accommodate이랑 mod 공통
+mold;형/틀/곰팡이; 만들다/형성하다;mold(형/틀) = 형태를 만드는 것 = 형/틀! molder=틀을 만드는 사람이랑 같은 뿌리!;m-o-l-d. "몰드(mold=틀)" → 딱 4글자. moldy=곰팡이가 핀이랑 같은 뿌리. accommodate이랑 m 공통 뿌리!
+ordinary;보통의/평범한/통상적인;ordin(순서/명령)+ary = 순서 안에 있는 = 보통의/평범한! extraordinary=비범한이랑 반대!;ordin+ary! or-di-na-ry → "오디너리(ordin=순서)" + ary. 딱 4음절. extraordinary=비범한이랑 반대. subordinate이랑 ordin 공통!
+subordinate;하급의/하위의/부차적인; 부하직원;sub(아래)+ordin(순서)+ate = 순서 아래에 있는 = 하급의/부하! subordination=종속이랑 같은 뿌리!;sub+ordin+ate! sub-or-di-nate → "서보디넷(ordin=순서)" 앞에 sub. 딱 4음절. ordinary이랑 ordin 공통!
+coordinate;조직화하다/편성하다/조정하다;co(함께)+ordin(순서)+ate = 함께 순서를 맞추다 = 조정하다/편성하다! coordination=조정이랑 같은 뿌리!;co+ordin+ate! co-or-di-nate → "코오디네이트(ordin=순서)" 앞에 co. 딱 4음절. coordination=조정이랑 같은 뿌리. ordinary이랑 ordin 공통!
+accident;사고/재난/우연한 일;ac(향해)+cid(떨어지다)+ent = 향해 떨어지는 것 = 사고/우연한 일! accidental=우연한이랑 같은 뿌리!;ac+cid+ent! ac-ci-dent → "액시던트(cid=떨어지다)" 앞에 ac. 딱 3음절. accidental=우연한이랑 같은 뿌리. incident이랑 cid 공통!
+incident;사건/사고/분쟁;in(위로)+cid(떨어지다)+ent = 위에서 떨어지는 것 = 사건! incidental=부수적인이랑 같은 뿌리!;in+cid+ent! in-ci-dent → "인시던트(cid=떨어지다)" 앞에 in. 딱 3음절. incidental=부수적인이랑 같은 뿌리. accident이랑 cid 공통!
+coincidence;우연/일치;co(함께)+in+cid(떨어지다)+ence = 함께 떨어지다 = 우연의 일치! coincide=일치하다이랑 같은 뿌리!;co+in+cid+ence! co-in-ci-dence → "코인시던스(cid=떨어지다)" 앞에 co+in. 딱 4음절. coincide=일치하다이랑 같은 뿌리. accident이랑 cid 공통!
+casual;느긋한/무관심한/격식을 차리지 않는/우연한;cas(떨어지다/우연)+ual = 우연한/갑자기 = 느긋한/격식없는! casualty=사상자이랑 같은 뿌리!;cas+ual! cas-u-al → "캐주얼(cas=우연/떨어지다)" + ual. 딱 3음절. casualty=사상자이랑 같은 뿌리. accident이랑 cas 공통 뿌리!
+occasion;때/경우/특별한 행사; 야기하다;oc(향해)+cas(떨어지다)+ion = 향해 떨어지는 것 = 경우/행사! occasionally=가끔이랑 같은 뿌리!;oc+cas+ion! oc-ca-sion → "어케이전(cas=떨어지다)" 앞에 oc. 딱 3음절. cc 두 개! occasionally=가끔이랑 같은 뿌리. casual이랑 cas 공통!
+decay;썩다/부식하다/쇠퇴하다; 부패/부식/쇠퇴;de(아래로)+cay(떨어지다) = 아래로 떨어지다 = 썩다/쇠퇴하다! decadence=쇠퇴이랑 같은 뿌리!;de+cay! de-cay → "디케이(cay=떨어지다)" 앞에 de. 딱 2음절. decadence=쇠퇴이랑 같은 뿌리. casual이랑 ca 공통 뿌리!

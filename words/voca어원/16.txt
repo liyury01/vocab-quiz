@@ -1,0 +1,25 @@
+create;창조하다/창작하다/만들어내다;cre(만들다)+ate = 무언가를 만들어내다 = 창조! recreate/increase이랑 cre 공통!;cre+ate! cre-ate → "크리(cre=만들다)" + ate. recreate/increase이랑 cre 공통
+recreate;다시 만들어내다/재현하다/기분을 전환시키다;re(다시)+create(창조) = 다시 창조하다 = 재현/기분전환!;re+create! rec-re-ate → "크리에이트(create=창조)" 앞에 re. create이랑 같은 뿌리
+increase;(수량,정도 등이) 증가하다/늘다/증가시키다/늘리다;in(안으로)+crease(자라다) = 안으로 자라다 = 증가! decrease 반대!;in+crease! in-crease → "크리스(crease=자라다)" 앞에 in. decrease 반대
+decrease;(수량,정도 등이) 감소하다/줄다/감소시키다/줄이다;de(아래로)+crease(자라다) = 아래로 줄어들다 = 감소! increase 반대!;de+crease! de-crease → "크리스(crease=자라다)" 앞에 de. increase 반대
+concrete;구체적인/확실한/콘크리트로 만든;con(함께)+crete(만들다) = 함께 단단히 굳혀 만든 = 구체적인/콘크리트!;con+crete! con-crete → "크리트(crete=만들다)" 앞에 con. abstract 반대
+recruit;(조직,군대 등에 사람을) 채용하다/모집하다;re(다시)+cruit(자라다) = 다시 키워내다 = 채용/모집!;re+cruit! re-cruit → "크루트(cruit=자라다)" 앞에 re. 딱 2음절. recruitment=채용
+advent;도래/출현/등장;ad(향해)+vent(오다) = 향해 오다 = 도래! event/invent이랑 vent 공통!;ad+vent! ad-vent → "벤트(vent=오다)" 앞에 ad. adventure이랑 같은 뿌리
+adventure;모험(심)/색다른 경험;ad(향해)+vent(오다)+ure = 향해 나아가다 = 모험! venture이랑 vent 공통!;ad+venture! ad-ven-ture → "벤처(venture=모험)" 앞에 ad. venture이랑 같은 뿌리
+venture;(위험이 따르는) 사업/벤처 사업;vent(오다)+ure = 위험을 향해 가다 = 모험/벤처! adventure이랑 vent 공통!;ven+ture! ven-ture → "벤(ven=오다)" + ture. 딱 2음절. adventure이랑 vent 같음
+convention;집회/모임/협정/협약/관습/인습;con(함께)+vent(오다)+ion = 함께 모여오다 = 집회/협정/관습!;con+vent+ion! con-ven-tion → "벤트(vent=오다)" 앞에 con + ion. event/invent이랑 vent 공통
+event;(중요한) 사건/(공연 등의) 행사/이벤트/(경기) 종목;e(밖으로)+vent(오다) = 밖으로 나타나다 = 사건/행사! prevent이랑 vent 공통!;e+vent! e-vent → "벤트(vent=오다)" 앞에 e. prevent이랑 vent 같음
+invent;발명하다/고안하다/(이야기,변명 등을) 조작하다/꾸며내다;in(안으로)+vent(오다) = 안으로 끌어들이다 = 발명! invention=발명품도 invent!;in+vent! in-vent → "벤트(vent=오다)" 앞에 in. invention=발명품. prevent이랑 vent 같음
+prevent;막다/예방하다/방해하다;pre(앞에)+vent(오다) = 앞에 와서 막다 = 예방! event이랑 vent 공통!;pre+vent! pre-vent → "벤트(vent=오다)" 앞에 pre. prevention=예방. event이랑 vent 같음
+intervention;사이에 듦/조정/중재/개입/간섭;inter(사이)+vent(오다)+ion = 사이에 들어오다 = 개입!;inter+vent+ion! in-ter-ven-tion → "벤트(vent=오다)" 사이에 inter + ion. prevent이랑 vent 공통
+avenue;대로/길/(성취를 위한) 수단/방법;a+ven(오다)+ue = 오가는 길 = 대로/방법!;a+venue! av-e-nue → "베뉴(venue=오는곳)" 앞에 a. 딱 3음절. explore every avenue=모든 방법 모색
+convenient;편리한/사용하기 쉬운/(장소가) 가까운;con(함께)+ven(오다)+ient = 함께 와서 편하다 = 편리한! inconvenient 반대!;con+ven+ient! con-ve-nient → "벤(ven=오다)" 앞에 con + ient. inconvenient 반대
+souvenir;기념품/기념 선물;sou+ven(기억/오다)+ir = 기억이 되돌아오다 = 기념품!;souven+ir! sou-ve-nir → "수브니(souven=기억)" + ir. 딱 3음절. 여행 기념품
+medium;(전달 등의) 매체/수단/매개(물);medi(중간)+um = 중간에 있는 것 = 매체! medieval/mediate이랑 medi 공통!;medi+um! me-di-um → "미디(medi=중간)" + um. 딱 3음절. social media이랑 medi 같음
+medieval;중세의/중세풍의;medi(중간)+eval(시대) = 중간 시대 = 중세! medium이랑 medi 공통!;medi+eval! me-di-e-val → "미디(medi=중간)" + eval. medium이랑 medi 같음. 중세=AD 500~1500
+mediate;조정하다/중재하다/화해시키다;medi(중간)+ate = 중간에서 조율하다 = 중재! medium이랑 medi 공통!;medi+ate! me-di-ate → "미디(medi=중간)" + ate. medium이랑 medi 같음. mediation=중재
+immediate;즉시의/즉각의/시급한/당면한;im(없는)+medi(중간)+ate = 중간이 없이 = 즉시의! delay 없이!;im+medi+ate! im-me-di-ate → "미디(medi=중간)" 앞에 im. immediately=즉시. mm 두 개!
+intermediate;중간의/중간 단계의/중급의;inter(사이)+medi(중간)+ate = 사이 중간 = 중간의! beginner/advanced 사이!;inter+medi+ate! in-ter-me-di-ate → "미디(medi=중간)" 앞에 inter + ate. medium이랑 medi 같음
+mean;의미하다/의도하다;mean = 의미하다! meaning=의미도 mean! meanwhile이랑 공통!;m-e-a-n. "민(mean)" → 딱 4글자. meaning=의미. meanwhile이랑 mean 같음
+meanwhile;그동안에/그 사이에/한편으로는;mean(중간)+while(동안) = 그 사이 동안 = 한편!;mean+while! mean-while → "화일(while=동안)" 앞에 mean. 딱 2음절. in the meantime도 같은 뜻
+midst;중앙/한가운데;mid(중간)+st = 중간 속 = 한가운데! in the midst of=~중에!;mid+st! m-i-d-s-t → "미드(mid=중간)" + st. 딱 5글자. in the midst of=~의 한가운데에

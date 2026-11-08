@@ -1,0 +1,25 @@
+passage;통로/통행/한 구절/경과;pass(지나가다)+age = 지나가는 것 = 통로/통행/구절! passenger이랑 pass 공통!;pass+age! pas-sage → "패시지(pass=지나가다)" + age. 딱 2음절. ss 두 개! passenger이랑 pass 같음
+passenger;승객/여객;pass(지나가다)+enger = 지나가는 사람 = 승객! passerby이랑 pass 공통!;pass+enger! pas-sen-ger → "패신저(pass=지나가다)" + enger. 딱 3음절. ss 두 개! passerby이랑 pass 같음
+passerby;통행인/지나가는 사람;passer(지나가는 사람)+by = 옆으로 지나가는 사람 = 통행인! passage이랑 pass 공통!;passer+by! pass-er-by → "패서바이(passer=지나가는 사람)" + by. 딱 3음절. ss 두 개! passage이랑 pass 같음
+pastime;오락/놀이/심심풀이;pass(지나가다)+time(시간) = 시간을 지나보내는 것 = 오락/심심풀이! passenger이랑 pass 공통!;pass+time! pas-time → "패스타임(pass=지나가다)" + time. 딱 2음절. ss 두 개! passenger이랑 pass 같음
+surpass;능가하다/낫다;sur(위에)+pass(지나가다) = 위를 지나가다 = 능가하다! unsurpassed=무적의이랑 같은 뿌리!;sur+pass! sur-pass → "서패스(pass=지나가다)" 앞에 sur. 딱 2음절. ss 두 개! unsurpassed=무적의이랑 같은 뿌리. passage이랑 pass 공통!
+bypass;우회하다/회피하다; 우회로;by(옆으로)+pass(지나가다) = 옆으로 지나가다 = 우회하다! bypass surgery=우회 수술!;by+pass! by-pass → "바이패스(pass=지나가다)" 앞에 by. 딱 2음절. ss 두 개! bypass surgery=우회 수술. surpass이랑 pass 공통!
+pace;속도/페이스/걸음/보폭; 속도로 걷다;pace(걸음/속도) = 걸음의 속도 = 속도/보폭! pacemaker=페이스메이커이랑 같은 뿌리!;p-a-c-e. "페이스(pace=걸음)" → 딱 4글자. pacemaker=페이스메이커이랑 같은 뿌리. pedal이랑 p 공통 뿌리!
+pedal;발판/페달; 페달을 밟다;ped(발)+al = 발의 것 = 발판/페달! pedestrian이랑 ped 공통!;ped+al! ped-al → "페달(ped=발)" + al. 딱 2음절. pedestrian이랑 ped 같음
+expedition;탐험/원정/답사/원정대;ex(밖으로)+ped(발)+ition = 밖으로 발을 내딛다 = 탐험/원정! expedite=신속히 처리하다이랑 같은 뿌리!;ex+ped+ition! ex-pe-di-tion → "익스퍼디션(ped=발)" 앞에 ex. 딱 4음절. expedite=신속히이랑 같은 뿌리. pedal이랑 ped 공통!
+pedestrian;보행자;ped(발)+estrian = 발로 가는 사람 = 보행자! expedition이랑 ped 공통!;ped+estrian! pe-des-tri-an → "퍼데스트리언(ped=발)" + estrian. 딱 4음절. expedition이랑 ped 같음
+use;사용하다/쓰다; 사용/용도;use(사용하다) = 사용하다! useful=유용한이랑 같은 뿌리!;u-s-e. "유즈(use=사용)" → 딱 3글자. useful=유용한이랑 같은 뿌리. abuse이랑 use 공통!
+abuse;학대하다/남용하다; 학대/남용;ab(잘못)+use(사용하다) = 잘못 사용하다 = 남용하다/학대! abusive=학대적인이랑 같은 뿌리!;ab+use! a-buse → "어뷰즈(use=사용하다)" 앞에 ab. 딱 2음절. abusive=학대적인이랑 같은 뿌리. use이랑 use 공통!
+utilize;활용하다/이용하다;util(사용)+ize = 사용하다 = 활용하다/이용하다! utility=유용성이랑 같은 뿌리!;util+ize! u-til-ize → "유틸라이즈(util=사용하다)" + ize. 딱 3음절. utility=유용성이랑 같은 뿌리. use이랑 ut 공통 뿌리!
+utensil;도구/기구/용기;uten(사용하다)+sil = 사용하는 것 = 도구/기구! kitchen utensils=주방 도구!;uten+sil! u-ten-sil → "유텐슬(uten=사용하다)" + sil. 딱 3음절. kitchen utensils=주방 도구. utilize이랑 ut 공통 뿌리!
+just;올바른/공평한/적절한; 바로/방금/단지;just(올바른/정의) = 올바른 것 = 올바른/공평한! justice=정의이랑 같은 뿌리!;j-u-s-t. "저스트(just=올바른)" → 딱 4글자. justice=정의이랑 같은 뿌리. justify이랑 just 공통!
+justify;정당화하다/옳다고 하다;just(올바른)+ify = 올바르게 하다 = 정당화하다! justification=정당화이랑 같은 뿌리!;just+ify! jus-ti-fy → "저스티파이(just=올바른)" + ify. 딱 3음절. justification=정당화이랑 같은 뿌리. just이랑 just 공통!
+judge;판사/심사위원; 판단하다/판결하다;jud(올바른/판결)+ge = 판결하는 사람 = 판사/판결하다! judgment=판단이랑 같은 뿌리!;jud+ge! judge → "저지(jud=올바른)" + ge. 딱 1음절. judgment=판단이랑 같은 뿌리. just이랑 ju 공통 뿌리!
+prejudice;편견/선입견; 편견을 갖게 하다/해치다;pre(먼저)+jud(판결)+ice = 먼저 판결하다 = 편견/선입견! prejudiced=편견을 가진이랑 같은 뿌리!;pre+jud+ice! prej-u-dice → "프레주디스(jud=판결하다)" 앞에 pre. 딱 3음절. judgment이랑 jud 공통!
+injure;상처 입히다/다치게 하다/훼손하다;in(않는)+jur(올바른)+e = 올바르지 않게 하다 = 상처 입히다! injury=부상이랑 같은 뿌리!;in+jur+e! in-jure → "인저(jur=올바른)" 앞에 in. 딱 2음절. injury=부상이랑 같은 뿌리. just이랑 ju 공통 뿌리!
+experience;경험; 경험하다/체험하다;ex(밖으로)+peri(시도하다)+ence = 밖으로 시도하다 = 경험! experienced=경험 많은이랑 같은 뿌리!;ex+peri+ence! ex-pe-ri-ence → "익스피어리언스(peri=시도하다)" 앞에 ex. 딱 4음절. experiment이랑 peri 공통!
+experiment;실험/시도; 실험하다;ex(밖으로)+peri(시도하다)+ment = 밖으로 시도하는 것 = 실험! experimental=실험적인이랑 같은 뿌리!;ex+peri+ment! ex-per-i-ment → "익스페리먼트(peri=시도하다)" 앞에 ex. 딱 4음절. experimental=실험적인이랑 같은 뿌리. experience이랑 peri 공통!
+expert;전문가/숙련가; 전문가의/능숙한;ex(밖으로)+pert(시도하다) = 완전히 시도해 본 사람 = 전문가! expertise=전문 지식이랑 같은 뿌리!;ex+pert! ex-pert → "익스퍼트(pert=시도하다)" 앞에 ex. 딱 2음절. expertise=전문 지식이랑 같은 뿌리. experience이랑 ex+per 공통!
+peril;위험/모험;per(통과하다/시도하다)+il = 위험한 것 = 위험/모험! perilous=위험한이랑 같은 뿌리!;per+il! per-il → "페릴(per=시도하다)" + il. 딱 2음절. perilous=위험한이랑 같은 뿌리. experience이랑 peri 공통 뿌리!
+social;사회적인/사교상의;soci(동반자)+al = 동반자의 것 = 사회적인! society=사회이랑 같은 뿌리!;soci+al! so-cial → "소셜(soci=동반자)" + al. 딱 2음절. society=사회이랑 같은 뿌리. associate이랑 soci 공통!
+associate;관련시키다/연상하다/어울리다; 동료/친구;as(향해)+soci(동반자)+ate = 향해 동반자가 되다 = 관련시키다/동료! association=협회이랑 같은 뿌리!;as+soci+ate! as-so-ci-ate → "어소시에이트(soci=동반자)" 앞에 as. 딱 4음절. ss 두 개! association=협회이랑 같은 뿌리. social이랑 soci 공통!

@@ -1,0 +1,30 @@
+illustrate;설명하다/예증하다/삽화를 쓰다;illust+rate = 그림(illust)으로 보여주다 = 설명! illustration=삽화!;illus+trate! il-lus-trate → "일러스(illus=그림)" + trate. ll 두 개! illustration=삽화
+overwhelm;압도하다/제압하다;over(넘어서)+whelm(뒤덮다) = 넘어서 뒤덮다 = 압도!;over+whelm! o-ver-whelm → "웰름(whelm=뒤덮다)" 앞에 over
+carpenter;목수/목수일을 하다;carpen(나무)+ter = 나무 다루는 사람 = 목수!;carpen+ter! car-pen-ter → "카펜(carpen=나무)" + ter. 카펜터=목수
+exclaim;소리치다/외치다;ex(밖으로)+claim(말하다) = 밖으로 외쳐 말하다 = 소리치다!;ex+claim! ex-claim → "클레임(claim=말하다)" 앞에 ex. 느낌표(!)가 exclamation mark!
+cognition;인식/지식;cogni(알다)+tion = 알아차리는 것 = 인식! cognitive=인지의도 cogni!;cogni+tion! cog-ni-tion → "코그니(cogni=알다)" + tion. cognitive=인지의
+disregard;무시/무관심/무시하다;dis(반대)+regard(존중) = 존중하지 않다 = 무시!;dis+regard! dis-re-gard → "리가드(regard=존중)" 앞에 dis
+dissolve;녹다/용해시키다/해산하다;dis(흩어지다)+solve(풀다) = 풀어서 흩어지다 = 녹다! solidify 반대!;dis+solve! dis-solve → "솔브(solve=풀다)" 앞에 dis. solidify 반대
+solidify;굳어지다/응고시키다/단결시키다;solid(단단한)+ify = 단단하게 만들다 = 굳히다! dissolve 반대!;solid+ify! sol-id-i-fy → "솔리드(solid=단단한)" + ify. dissolve 반대
+approximation;근사/비슷한 것;approx(가까운)+imation = 가까이 다가간 것 = 근사값!;approx+imation! ap-prox-i-ma-tion → "어프록스(approx=가까운)" + imation. approximately=약/대략
+verse;운문/절/정통하다;버스! 노래 1절(verse) = 한 절! be well-versed=정통하다도 verse!;v-e-r-s-e. "버(ver)+스(se)" → 딱 5글자. 노래 verse=1절
+endow;기부하다/부여하다/주다;en+dow(주다) = 아래로 주다 = 부여! endowment=기부금!;en+dow! en-dow → "다우(dow=주다)" 앞에 en. endowment=기부금/재단
+accountable;책임이 있는/설명할수있는;account(설명하다)+able = 설명할 수 있는 = 책임있는!;account+able! ac-count-a-ble → "어카운트(account=설명)" + able. hold accountable=책임지게 하다
+predominant;뛰어난/우세한/주된;pre(먼저)+dominant(지배하는) = 먼저 지배하는 = 우세한! subordinate 반대!;pre+dominant! pre-dom-i-nant → "도미넌트(dominant=지배)" 앞에 pre. subordinate 반대
+subordinate;하위의/종속하는/부차적인/부하;sub(아래)+ordinate(순서) = 아래 순서 = 부하! predominant 반대!;sub+ordinate! sub-or-di-nate → "오디네이트(ordinate=순서)" 앞에 sub. predominant 반대
+acknowledge;인정하다/승인하다;ac+knowledge(지식) = 지식으로 알아주다 = 인정! know만 기억해도 절반!;ac+knowledge! ac-knowl-edge → "놀리지(knowledge=지식)" 앞에 ac. k 묵음!
+empower;할수있게하다/권한을주다;em(안으로)+power(힘) = 힘을 안으로 넣어주다 = 권한 부여!;em+power! em-pow-er → "파워(power=힘)" 앞에 em
+explosion;폭발/폭발적증가;ex(밖으로)+plos(터지다)+ion = 밖으로 터지다 = 폭발! eruption보다 인공적 폭발!;ex+plos+ion! ex-plo-sion → "플로전(plosion=터지다)" 앞에 ex. eruption이랑 비교
+expansion;팽창/확대;ex(밖으로)+pans(펼치다)+ion = 밖으로 펼치다 = 팽창! explosion이랑 expan vs explo 차이!;ex+pans+ion! ex-pan-sion → "팬션(pansion=펼치다)" 앞에 ex. explosion이랑 ex 같고 pan vs plo
+eruption;폭발/분화/분출;e+rupt(터지다)+ion = 터져 나오다 = 분출! 화산 eruption = 분화!;e+rupt+ion! e-rup-tion → "럽트(rupt=터지다)" 앞에 e. 화산=volcanic eruption
+erosion;부식/침식;e+ros(갉다)+ion = 갉아서 닳아 없어지다 = 침식! eruption이랑 er 같고 os vs up!;e+ros+ion! e-ro-sion → "로전(rosion=갉다)" 앞에 e. eruption이랑 er 같고 osion vs uption
+hollow;속이빈/움푹꺼진/공허한/무의미한/구멍;할로우! 호박 할로윈 속을 파낸 것처럼 = 속이 빈!;hol+low! hol-low → "홀(hol=구멍)" + low. ll 두 개! 할로윈 호박=hollow
+elegant;우아한/품위있는;elegan(고귀한)+t = 고귀하게 잘 차려진 = 우아한! eloquent이랑 ele 공통!;elegan+t! el-e-gant → "엘리건(elegan=고귀한)" + t. eloquent이랑 ele 같고 gant vs quent
+eloquent;능변의/웅변의/표현이풍부한;elo+quent(말하는) = 말을 잘하는 = 웅변의! elegant이랑 ele 공통!;elo+quent! el-o-quent → "퀀트(quent=말하는)" 앞에 elo. elegant이랑 ele 같고 quent vs gant
+principal;주요한/선두의/원금의/교장/주연;princip(으뜸)+al = 으뜸이 되는 = 주요한! 학교 교장도 principal!;princip+al! prin-ci-pal → "프린십(princip=으뜸)" + al. principle이랑 princip 같고 al vs le
+stand for;상징하다/옹호하다;stand(서다)+for = ~을 위해 서다 = 상징하다/옹호!;for 하나만! stand [for] → "포(for=위해)" 기억. USA stands for = USA는 ~을 상징
+hold back;저지하다/비밀로하다;hold(잡다)+back = 뒤로 잡아당기다 = 저지!;back 하나만! hold [back] → "백(back=뒤로)" 기억. 뒤로 잡아두다=저지
+approve of;승인하다/찬성하다;approve(찬성)+of = ~을 찬성하다!;approve 하나만! [approve] of → "어프루브(approve=찬성)" 기억. disapprove of 반대
+find oneself in;신세가 되다;find oneself(자신을 발견) = 어떤 상황에 놓인 자신을 발견하다!;oneself 하나만! find [oneself] in → "원셀프(oneself=자신)" 기억. 어느새 ~한 상황이 되다
+search for;찾다/추구하다;search(탐색)+for = ~을 위해 탐색하다 = 찾다!;for 하나만! search [for] → "포(for=위해)" 기억. look for랑 같은 뜻
+let off;내뿜다/발사하다/터뜨리다;let(허락)+off = 밖으로 내보내다 = 내뿜다!;off 하나만! let [off] → "오프(off=밖으로)" 기억. 불꽃을 let off=터뜨리다

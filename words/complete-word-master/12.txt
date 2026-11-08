@@ -1,0 +1,30 @@
+surround;둘러싸다/에워싸다;sur(위에)+round(둥글게) = 둥글게 감싸다 = 둘러싸다!;sur+round! sur-round → "라운드(round=둥글게)" 앞에 sur
+discipline;규율/훈련/절제력;disciple(제자)+ine = 제자처럼 훈련된 상태 = 규율!;disciple+ine! dis-ci-pline → "디사이플(disciple=제자)" + ine
+flatter;아첨하다/치켜세우다;flat(평평한)+ter = 평평하게 깔아 맞추다 = 아첨!;flat+ter! flat-ter → "플랫(flat=평평한)" + ter. tt 두 개
+degrade;품위를 떨어뜨리다/저하시키다;de(아래)+grade(등급) = 등급을 아래로 = 저하!;grade 앞에 de! de-grade → "그레이드(grade=등급)" 앞에 de
+portray;그리다/묘사하다/나타내다;port(나르다)+ray(빛) = 빛을 담아 그리다 = 묘사!;port+ray! por-tray → "포트(port=나르다)" + ray. depict랑 비슷한 뜻
+depict;그리다/묘사하다;de+pict(그림) = 그림으로 표현하다 = 묘사!;de+pict! de-pict → "픽트(pict=그림)" 앞에 de. portray랑 비슷한 뜻
+awkward;어색한/서투른;awk(거꾸로)+ward(방향) = 반대 방향으로 = 어색한!;awk+ward! awk-ward → "오크(awk=거꾸로)" + ward. kw 조합
+allocate;배당하다/할당하다/배치하다;al+locate(위치) = 위치를 정해주다 = 배치하다!;locate 앞에 al! al-lo-cate → "로케이트(locate=위치)" 앞에 al. ll 두 개
+commodity;상품/물품/필수품;com(함께)+modity = 함께 쓰는 것 = 상품!;com+modity! com-mod-i-ty → "모디티(modity)" 앞에 com
+coherent;일관성있는/논리정연한;co(함께)+her(붙다)+ent = 함께 붙어있는 = 일관성있는!;co+herent! co-her-ent → "히런트(herent=붙다)" 앞에 co
+biomass;생물량;bio(생명)+mass(질량) = 생명의 질량 = 생물량!;bio+mass! "바이오(bio=생명)" + mass(질량)
+literate;박식한/읽고쓸수있는;liter(문자)+ate = 문자를 다루는 = 읽고 쓸 수 있는!;liter+ate! lit-er-ate → "리터(liter=문자)" + ate
+disapprove;못마땅해하다/비난하다/찬성하지 않다;dis(반대)+approve(찬성) = 찬성의 반대 = 못마땅해하다!;approve 앞에 dis! dis-ap-prove → "어프루브(approve=찬성)" 앞에 dis
+patriotic;애국적인/애국의;patri(조국)+otic = 조국을 사랑하는 = 애국적인!;patri+otic! pa-tri-ot-ic → "패트리(patri=조국)" + otic
+explicit;명시적인/명백한/솔직한;ex(밖으로)+plicit(접다) = 밖으로 펼쳐 보이는 = 명백한!;ex+plicit! ex-plic-it → "플리싯(plicit=접다)" 앞에 ex. implicit 반대
+implicit;함축적인/내재하는;im(안으로)+plicit(접다) = 안으로 접혀있는 = 함축적인!;im+plicit! im-plic-it → "플리싯(plicit=접다)" 앞에 im. explicit 반대
+articulate;분명히 표현하다/또렷이 발음되다/명확히 표현된;articu(마디)+late = 마디마디 분명히 = 명확히 표현하다!;articu+late! ar-tic-u-late → "아티큘(articu=마디)" + late
+involve;포함하다/관련시키다/참여시키다;in(안으로)+volve(굴리다) = 안으로 굴려 포함하다!;in+volve! in-volve → "볼브(volve=굴리다)" 앞에 in. evolve revolve랑 volve 같음
+evolve;발달하다/진화하다;e(밖으로)+volve(굴리다) = 밖으로 굴러나오다 = 진화!;e+volve! e-volve → "볼브(volve=굴리다)" 앞에 e. involve revolve랑 volve 같음
+revolve;회전하다/순환하다/전개하다;re(다시)+volve(굴리다) = 다시 굴리다 = 회전!;re+volve! re-volve → "볼브(volve=굴리다)" 앞에 re. involve evolve랑 volve 같음
+unanimous;만장일치의/이의가 없는;un(하나)+animus(마음) = 하나의 마음 = 만장일치!;u-nan-i-mous → "어내니(unani=하나의마음)" + mous. anonymous랑 끝이 같음
+anonymous;익명의/작자 불명의;an(없는)+onymous(이름) = 이름이 없는 = 익명의!;a-non-y-mous → "어나니(anony=이름없는)" + mous. unanimous랑 끝이 같음
+autonomous;자치의/자주적인/자율적인;auto(스스로)+nomous(법) = 스스로 법을 만드는 = 자율적!;au-ton-o-mous → "오토(auto=스스로)" + nomous. mous 3형제
+wind;구불구불하다/감기다/바람/숨;윈드/와인드! 바람(wind)이기도 하고 감기다(wind)이기도 해!;w-i-n-d. 딱 4글자! 바람=윈드 감기다=와인드 발음 주의
+drop off;내려놓다/감소하다/잠이들다;drop(떨어지다)+off = 아래로 떨어지다 = 내려놓다!;off 하나만! drop [off] → "오프(off=아래로)" 기억
+give away;기부하다/나눠주다/양보하다;give(주다)+away(멀리) = 멀리 줘버리다 = 기부!;away 하나만! give [away] → "어웨이(away=멀리)" 기억
+think outside the box;틀에서 벗어나 생각하다;outside the box(상자 밖) = 틀 밖에서 생각하다!;box 하나만! think outside the [box] → "박스(box=틀)" 기억
+distinguish~from;구별하다;dis(따로)+tinguish(찌르다) = 따로 찔러 구별하다!;dis+tinguish! dis-tin-guish → "팅귀시(tinguish=찌르다)" 앞에 dis
+more often than not;자주/대개;often(자주)+not = 아닌 것보다 더 자주 = 대개!;often 하나만! more [often] than not → "오픈(often=자주)" 기억
+in a vacuum;외부와 단절된 상태에서;vacuum(진공) = 진공처럼 외부와 단절!;vacuum 하나만! in a [vacuum] → "배큠(vacuum=진공)" 기억

@@ -1,0 +1,30 @@
+capture;붙잡다/체포하다;cap(잡다)+ture = 잡아채다 = 붙잡다!;cap+ture! cap-ture → "캡(cap=잡다)" + ture
+liberate;자유롭게 하다/해방하다;liber(자유)+ate = 자유롭게 하다!;liber+ate! lib-er-ate → "리버(liber=자유)" + ate
+infant;유아/소아/유치원생;in(아닌)+fant(말하다) = 말 못 하는 아이 = 유아!;in+fant! in-fant → "팬트(fant=말하다)" 앞에 in. 딱 2음절
+sustain;지탱하게 하다/지속하다;sus(아래)+tain(잡다) = 아래에서 잡아 지탱하다!;sus+tain! sus-tain → "테인(tain=잡다)" 앞에 sus
+portion;일부/부분/몫;port(나누다)+ion = 나눈 것 = 일부/몫!;port+ion! por-tion → "포트(port=나누다)" + ion
+fierce;사나운/잔인한;피어스! 사납게 피어싱처럼 날카롭고 사나운!;f-i-e-r-c-e. "피어(fier)+스(ce)" → ie 조합. 6글자
+brutal;잔혹한/무자비한;brute(짐승)+al = 짐승 같은 = 잔혹한!;brute에서 e→al! bru-tal → "브루트(brute=짐승)" 에서 e를 al로
+assimilation;동화(작용)/융합/흡수;assimilate(동화)+ion = 동화되는 것!;assimilate에서 e→ion! as-sim-i-la-tion → ss 두 개 주의
+validate;입증하다/승인하다/유효하게 하다;valid(유효한)+ate = 유효하게 만들다!;valid 알면 +ate만! val-i-date → "밸리드(valid=유효)" + ate
+conquer;정복하다/이기다;con(완전히)+quer = 완전히 이기다 = 정복!;con+quer! con-quer → "컨(con)+퀴어(quer)" → qu는 k 발음
+enable;가능하게 하다/할수있게하다;en(만들다)+able(가능한) = 가능하게 만들다!;able 앞에 en! en-able → "에이블(able=가능)" 앞에 en
+forbid;금지하다/어렵게 하다;for(반대)+bid(명령) = 명령을 반대로 = 금지!;for+bid! for-bid → "비드(bid=명령)" 앞에 for
+starve;굶주리다/굶어 죽다;스타브! 굶주리다(starve) 그대로!;s-t-a-r-v-e. "스타(star)+브(ve)" → 6글자
+cram;밀어넣다/채워넣다;크램! 시험 전날 cram 공부 = 욱여넣다!;c-r-a-m. 딱 4글자! "크(cr)+램(am)"
+nourish;기르다/영양분을 주다;nour(영양)+ish = 영양분을 주다!;nour+ish! nour-ish → "나우(nour=영양)" + ish
+televise;TV로 방송하다/방영하다;tele(멀리)+vise(보다) = 멀리 보내다 = 방송!;television에서 ion→e! tel-e-vise → "텔레비전" 에서 ion을 e로
+resent;분개하다/원망하다;re(다시)+sent(느끼다) = 다시 느끼는 불쾌함 = 분개!;re+sent! re-sent → "센트(sent=느끼다)" 앞에 re
+withdraw;움추리다/철수하다/물러나다;with(뒤로)+draw(끌다) = 뒤로 끌어당기다 = 철수!;draw 앞에 with! with-draw → "드로우(draw=끌다)" 앞에 with
+withstand;견디다/버티다/저항하다;with(맞서)+stand(서다) = 맞서 서다 = 버티다!;stand 앞에 with! with-stand → "스탠드(stand=서다)" 앞에 with. withdraw랑 with 같음
+withhold;억제하다/숨기다;with(뒤로)+hold(잡다) = 뒤로 잡아 억제하다!;hold 앞에 with! with-hold → "홀드(hold=잡다)" 앞에 with. with 3형제
+mute;무언의/말없는/소리를 줄이다;뮤트! 폰 뮤트(mute) = 소리를 끄다 = 무언의!;m-u-t-e. 딱 4글자! "뮤(mu)+트(te)" → mutual이랑 mu 같음
+mutual;서로의/상호간의;mutu(서로)+al = 서로 관련된!;mutu+al! mu-tu-al → "뮤추(mutu=서로)" + al. mute랑 mu 같음
+mutate;돌연변이하다/변형되다;mut(변하다)+ate = 변하다 = 돌연변이!;mut+ate! mu-tate → "뮤(mut=변하다)" + ate. mute mutual이랑 mu 같음
+credit;신용/명예/명성;크레딧! 영화 크레딧(credit) = 명예/공로!;cred-it → "크레(cred)+딧(it)" → 딱 2음절
+account for;차지하다/설명하다;account(계산/설명)+for = ~에 대해 설명하다/차지하다!;account 하나만! [account] for → "어카운트(account=설명)" + for
+come into play;작동하기 시작하다;play(작동)+into = 작동하기 시작하다!;play 하나만! come into [play] → "플레이(play=작동)" 기억
+(the) chances are (that);아마~일것이다/가능성이 높다;chances(가능성)+are = 가능성이 있다!;chances 하나만! [chances] are that → "챈시스(chances=가능성)" 기억
+come into contact with;접촉하다;contact(접촉)+with = ~와 접촉하다!;contact 하나만! come into [contact] with → "컨택트(contact=접촉)" 기억
+give rise to;낳다/생기게 하다;rise(일어나다)+to = ~을 일어나게 하다 = 생기게 하다!;rise 하나만! give [rise] to → "라이즈(rise=일어나다)" 기억
+end up ~ing;결국~하게 되다;end(끝)+up = 결국 끝에 가서 ~하다!;end+up! "엔드(end=끝)" + up → 결국 끝에 가서

@@ -1,0 +1,30 @@
+factory;공장;팩토리! 공장(factory) = 물건을 만드는 곳 그대로!;fact+ory! fac-to-ry → "팩트(fact=만들다)" + ory. manufacture랑 비슷한 뜻
+fairly;꽤/상당히;페어리! fair(공평한)+ly = 공평하게 = 꽤/상당히!;fair+ly! fair-ly → "페어(fair=공평한)" + ly. fairly good=꽤 좋은
+engage in;종사하다/참여하다;en+gage(참여) = 안으로 들어가 참여하다 = 종사!;in 하나만! engage [in] → "인(in=안으로)" 기억. be engaged in=~에 종사하다
+inefficient;비효율적인;in(아닌)+efficient(효율적인) = 효율적이지 않은 = 비효율적!;in+efficient! in-ef-fi-cient → "이피션트(efficient=효율적)" 앞에 in. efficient 반대
+textile;직물/옷감;text(짜다)+ile = 짜여진 것 = 직물! texture랑 text 공통!;text+ile! tex-tile → "텍스(text=짜다)" + ile. texture랑 text 같음. 0702단원 texture이랑 연결
+competitive;경쟁력있는;compete(경쟁)+itive = 경쟁하는 성질 = 경쟁력있는!;compete에서 e→itive! com-pet-i-tive → "컴피트(compete=경쟁)" 에서 e를 itive로. competition=경쟁
+majority;대다수/다수;major(큰/주된)+ity = 더 큰 쪽 = 다수! minority 반대!;major+ity! ma-jor-i-ty → "메이저(major=큰)" + ity. minority 반대
+caterer;음식공급자;cater(음식 공급)+er = 음식을 공급하는 사람!;cater+er! ca-ter-er → "케이터(cater=음식공급)" + er. catering=출장 요리 서비스
+mass-produce;대량생산하다;mass(대량)+produce(생산) = 대량으로 생산하다!;mass+produce! "매스(mass=대량)" + produce(생산). assembly line이랑 짝꿍
+thrive;번성하다/번창하다;쓰라이브! 잘 자라고(thrive) 번성하다!;t-h-r-i-v-e. "쓰라이(thri)+브(ve)" → 딱 6글자. thrive=번성. thriving city=번창하는 도시
+prior to;~전에;prior(앞선)+to = 앞선 것에 = ~전에! before랑 같은 뜻!;prior 하나만! [prior] to → "프라이어(prior=앞선)" 기억. prior to the meeting=회의 전에
+advantage;장점;ad+vantage(이익) = 이익을 향해 = 장점! disadvantage 반대!;ad+vantage! ad-van-tage → "밴티지(vantage=이익)" 앞에 ad. disadvantage 반대
+sew;바느질하다;쏘우! 바느질(sew) = 실로 꿰매다! 발음 주의: s-ew = "쏘"!;s-e-w. "쏘(sew)" → ew=오 발음! 딱 3글자. sewing machine=재봉틀
+disadvantage;단점;dis(반대)+advantage(장점) = 장점의 반대 = 단점! advantage 반대!;dis+advantage! dis-ad-van-tage → "어드밴티지(advantage=장점)" 앞에 dis. advantage 반대
+brick;벽돌;브릭! 레고 브릭(brick) = 벽돌처럼 쌓는 것!;b-r-i-c-k. "브릭(brick)" → 딱 5글자. brick wall=벽돌 벽. 레고=brick
+be known as;~로 알려져있다;known(알려진)+as = ~로서 알려져있다!;known 하나만! be [known] as → "노운(known=알려진)" 기억. k 묵음!
+nail;못;네일! 손톱(nail)도 못(nail)도 둘 다 nail! 뾰족한 것!;n-a-i-l. "네(na)+일(il)" → ai 조합. 딱 4글자. nail=못/손톱 두 가지!
+provide;제공하다;pro(앞으로)+vide(보다/주다) = 앞으로 내어주다 = 제공! provider=제공자도 provide!;pro+vide! pro-vide → "바이드(vide=주다)" 앞에 pro. provider=제공자
+necessity;필수품;necess(필요한)+ity = 필요한 것 = 필수품! necessary=필요한도 necess!;necess+ity! ne-ces-si-ty → "네세스(necess=필요한)" + ity. necessary=필요한
+provider;제공자;provide(제공하다)+r = 제공하는 사람 = 제공자! provide랑 같은 뿌리!;provide+r! pro-vid-er → "프로바이드(provide=제공)" + r. provide이랑 같은 뿌리
+standard;기준/표준;스탠다드! 표준(standard) = 기준이 되는 것!;stan+dard! stan-dard → "스탠(stan=세우다)" + dard. standard of living=생활 수준
+operate;실행하다;oper(일하다)+ate = 일하게 하다 = 실행/운영! operation=수술/작전도 operate!;oper+ate! op-er-ate → "오퍼(oper=일하다)" + ate. operation=수술/작전
+manufacture;제조하다/생산하다;manu(손)+facture(만들다) = 손으로 만들다 = 제조! manufacturer=제조사도 manu!;manu+facture! man-u-fac-ture → "매뉴(manu=손)" + facture. manufacturer=제조업체
+buyer;구매자;buy(사다)+er = 사는 사람 = 구매자! seller 반대!;buy+er! buy-er → "바이(buy=사다)" + er. seller 반대
+assembly line;(대량생산의) 조립라인;assemble(조립)+y line = 조립하는 줄 = 조립라인!;assembly 하나만! [assembly] line → "어셈블리(assembly=조립)" 기억. mass-produce이랑 짝꿍
+seller;판매자;sell(팔다)+er = 파는 사람 = 판매자! buyer 반대!;sell+er! sell-er → "셀(sell=팔다)" + er. ll 두 개! buyer 반대
+specialize in;~을 전문으로 하다;special(특별한)+ize = 특별하게 하다 = 전문으로! 21단원에도 나온 표현!;in 하나만! specialize [in] → "인(in=안에서)" 기억. 21단원에도 나온 표현
+industry;산업;인더스트리! 산업(industry) = 특정 분야의 생산활동!;in+dustry! in-dus-try → "인더스(indus=산업)" + try. industrial=산업의
+task;일/과업;태스크! 과업(task) = 해야 할 일! 멀티태스킹도 task!;t-a-s-k. "태(ta)+스크(sk)" → 딱 4글자. multitasking=여러 일 동시에
+cottage;오두막;코티지! 코티지 치즈(cottage cheese) = 오두막에서 만든 소박한 치즈!;cot+tage! cot-tage → "코트(cot=작은집)" + tage. tt 두 개! cottage cheese=오두막 치즈

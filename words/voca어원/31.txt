@@ -1,0 +1,25 @@
+capital;수도/중심지/대문자/자본(금)/중요한;capit(머리)+al = 머리의 것 = 수도/자본! chief이랑 capit 공통 뿌리!;capit+al! cap-i-tal → "캐피털(capit=머리)" + al. 딱 3음절. chief이랑 같은 뿌리. capital city=수도
+chief;우두머리/장(長)/주요한;chef(머리/우두머리) = 가장 위의 사람 = 우두머리! chef=요리사도 chef(우두머리)이랑 같은 뿌리!;c-h-i-e-f. "치프(chief=우두머리)" → 딱 5글자. ie 조합. chef=주방장이랑 같은 뿌리. capital이랑 cap 공통 뿌리!
+achieve;이루다/성취하다/달성하다;a(향해)+chieve(머리로 가다) = 머리로 향해 가다 = 달성하다! achievement=성취이랑 같은 뿌리!;a+chieve! a-chieve → "어치브(chieve=머리로 가다)" 앞에 a. 딱 2음절. achievement=성취이랑 같은 뿌리. capital이랑 cap 공통 뿌리!
+assume;가정하다/추측하다/떠맡다/가장하다;as(향해)+sume(취하다) = 향해 취하다 = 떠맡다/가정하다! assumption=가정이랑 같은 뿌리!;as+sume! as-sume → "쑤움(sume=취하다)" 앞에 as. 딱 2음절. ss 두 개! assumption=가정이랑 같은 뿌리. consume이랑 sume 공통!
+consume;소비하다/쓰다/먹다/마시다;con(완전히)+sume(취하다) = 완전히 취하다 = 소비하다! consumer=소비자이랑 같은 뿌리!;con+sume! con-sume → "쑤움(sume=취하다)" 앞에 con. 딱 2음절. consumer=소비자이랑 같은 뿌리. assume이랑 sume 공통!
+presume;가정하다/추측하다;pre(먼저)+sume(취하다) = 먼저 취하다 = 가정하다/추측하다! presumption=추정이랑 같은 뿌리!;pre+sume! pre-sume → "쑤움(sume=취하다)" 앞에 pre. 딱 2음절. presumption=추정이랑 같은 뿌리. assume이랑 sume 공통!
+resume;다시 시작하다/재개하다/되찾다;re(다시)+sume(취하다) = 다시 취하다 = 재개하다! resumption=재개이랑 같은 뿌리!;re+sume! re-sume → "레주메(sume=취하다)" 앞에 re. 딱 2음절. resumption=재개이랑 같은 뿌리. assume이랑 sume 공통!
+equal;같은/평등한;equ(같은)+al = 같은 것 = 같은/평등한! inequality=불평등이랑 반대!;equ+al! e-qual → "이퀄(equ=같은)" + al. 딱 2음절. inequality=불평등이랑 반대. equivalent이랑 equ 공통!
+equivalent;동등한/대등한/상당하는;equi(같은)+val(가치)+ent = 같은 가치의 = 동등한/상당하는! equal이랑 같은 뿌리!;equi+val+ent! e-quiv-a-lent → "이퀴벌런트(equi=같은)" + valent. 딱 4음절. equal이랑 equ 같음
+adequate;충분한/적당한/괜찮은;ad(향해)+equ(같은)+ate = 향해 같아지다 = 충분한/적당한! inadequate=부족한이랑 반대!;ad+equ+ate! ad-e-quate → "애디퀄(equ=같은)" 앞에 ad. 딱 3음절. inadequate=부족한이랑 반대. equal이랑 equ 공통!
+identify;확인하다/동일시하다;ident(동일한)+ify = 동일하게 하다 = 확인하다/동일시하다! identity=정체성이랑 같은 뿌리!;ident+ify! i-den-ti-fy → "아이덴티파이(ident=동일한)" + ify. 딱 4음절. identity=정체성이랑 같은 뿌리
+solve;풀다/해결하다;solv(풀다)+e = 풀다 = 해결하다! solution=해결책이랑 같은 뿌리!;s-o-l-v-e. "솔브(solv=풀다)" → 딱 5글자. solution=해결책이랑 같은 뿌리. resolve이랑 solve 공통!
+resolve;해결하다/결정하다/결심하다;re(다시)+solve(풀다) = 다시 풀다 = 해결하다/결심하다! resolution=결심이랑 같은 뿌리!;re+solve! re-solve → "솔브(solve=풀다)" 앞에 re. 딱 2음절. resolution=결심이랑 같은 뿌리. dissolve이랑 solve 공통!
+dissolve;녹이다/녹다/종료하다/해산시키다;dis(분리)+solve(풀다) = 분리해 풀다 = 녹이다/해산! dissolution=해산이랑 같은 뿌리!;dis+solve! dis-solve → "솔브(solve=풀다)" 앞에 dis. 딱 2음절. dissolution=해산이랑 같은 뿌리. resolve이랑 solve 공통!
+negative;부정적인/반대하는/음성의;neg(부정)+ative = 부정하는 = 부정적인! positiveيانانانan반대!;neg+ative! neg-a-tive → "네거티브(neg=부정)" + ative. 딱 3음절. positive=긍정적인이랑 반대
+deny;부인하다/부정하다/거절하다;de(완전히)+ny(부정하다) = 완전히 부정하다 = 부인하다! denial=부인이랑 같은 뿌리!;d-e-n-y. "디나이(deny)" → 딱 4글자. denial=부인이랑 같은 뿌리. negative이랑 neg 공통 뿌리!
+neutral;중립의/중간의;neutr(어느 쪽도 아닌)+al = 어느 쪽도 아닌 = 중립의! neutrality=중립이랑 같은 뿌리!;neutr+al! neu-tral → "뉴트럴(neutr=중립)" + al. 딱 2음절. neutrality=중립이랑 같은 뿌리
+logic;논리(학)/논법;log(말/논리)+ic = 논리의 것 = 논리학! logical이랑 같은 뿌리!;log+ic! log-ic → "로직(log=논리)" + ic. 딱 2음절. logical=논리적인이랑 같은 뿌리. analogy이랑 log 공통!
+analogy;유사점/비유/추론;ana(위에)+logy(말하다) = 비교해서 말하다 = 유사점/비유! analogous=유사한이랑 같은 뿌리!;ana+logy! a-nal-o-gy → "어낼러지(logy=말하다)" 앞에 ana. 딱 4음절. analogous=유사한이랑 같은 뿌리. logic이랑 log 공통!
+apology;사과/사죄;apo(떨어져)+logy(말하다) = 떨어져 말하다 = 사과! apologize=사과하다이랑 같은 뿌리!;apo+logy! a-pol-o-gy → "어팔러지(logy=말하다)" 앞에 apo. 딱 4음절. apologize=사과하다이랑 같은 뿌리. logic이랑 log 공통!
+catalogue;목록/일람표/카탈로그;cata(아래로)+logue(말/목록) = 아래로 나열한 것 = 목록! catalog이랑 같은 뜻!;cata+logue! cat-a-logue → "캐털로그(cata=아래로)" + logue. 딱 3음절. catalog=카탈로그이랑 같은 단어. logic이랑 log 공통 뿌리!
+ecology;생태학/생태계;eco(집/환경)+logy(학문) = 환경의 학문 = 생태학! ecological=생태적인이랑 같은 뿌리!;eco+logy! e-col-o-gy → "이콜러지(eco=집/환경)" + logy. 딱 4음절. ecological=생태적인이랑 같은 뿌리. logic이랑 logy 공통!
+psychology;심리학/심리 상태;psycho(마음)+logy(학문) = 마음의 학문 = 심리학! psychological=심리적인이랑 같은 뿌리!;psycho+logy! psy-chol-o-gy → "사이콜러지(psycho=마음)" + logy. 딱 4음절. psychological=심리적인이랑 같은 뿌리. ecology이랑 logy 공통!
+memory;기억(력)/추억/메모리;memor(기억)+y = 기억 = 기억력/추억! memorize=암기하다이랑 같은 뿌리!;memor+y! mem-o-ry → "메모리(memor=기억)" + y. 딱 3음절. memorize=암기하다이랑 같은 뿌리. remember이랑 mem 공통!
+remember;기억하다/상기하다;re(다시)+member(기억하다) = 다시 기억하다 = 기억하다! memory이랑 같은 뿌리!;re+member! re-mem-ber → "리멤버(memb=기억하다)" 앞에 re. 딱 3음절. memory이랑 mem 같음

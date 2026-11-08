@@ -1,0 +1,26 @@
+structure;구조/조직/체계/건축물/구조물; 구성하다/조직화하다;struct(쌓다)+ure = 쌓아 만든 것 = 구조/건축물! construct이랑 struct 공통!;struct+ure! struc-ture → "스트럭처(struct=쌓다)" + ure. 딱 2음절. construct이랑 struct 같음
+infrastructure;사회 기반 시설;infra(아래)+structure(구조) = 아래에 깔린 구조 = 기반 시설! structure이랑 같은 뿌리!;infra+structure! in-fra-struc-ture → "스트럭처(structure=구조)" 앞에 infra. 딱 4음절. structure이랑 같은 뿌리
+construct;건설하다/세우다/(문장·글 등을) 만들다/구성하다; 건축물/구조물/(복잡한) 생각;con(함께)+struct(쌓다) = 함께 쌓다 = 건설/구성! construction=건설이랑 같은 뿌리!;con+struct! con-struct → "스트럭트(struct=쌓다)" 앞에 con. 딱 2음절. construction=건설이랑 같은 뿌리
+instruct;(지시하라고) 지시하다/가르치다/교육하다;in(안으로)+struct(쌓다) = 안으로 쌓아주다 = 가르치다/지시! instruction=지시/설명이랑 같은 뿌리!;in+struct! in-struct → "스트럭트(struct=쌓다)" 앞에 in. 딱 2음절. instruction=지시/설명이랑 같은 뿌리
+instrument;기구/도구/악기;instru(쌓아 만들다)+ment = 쌓아 만든 것 = 도구/악기! instrumental=도움이 되는이랑 같은 뿌리!;instru+ment! in-stru-ment → "인스트루먼트(instru=쌓아 만들다)" + ment. 딱 3음절. instrumental=도움이 되는
+industry;산업/공업/제조업/근면;in(안으로)+dustr(쌓다)+y = 안으로 열심히 쌓다 = 산업/근면! industrial이랑 같은 뿌리!;industr+y! in-dus-try → "인더스트리(industr=쌓다)" + y. 딱 3음절. industrial이랑 같은 뿌리
+destroy;파괴하다/손상시키다/(삶·계획 등을) 망치다;de(완전히)+stroy(쌓다) = 완전히 쌓은 것을 허물다 = 파괴! destruction=파괴이랑 같은 뿌리!;de+stroy! de-stroy → "스트로이(stroy=쌓다)" 앞에 de. 딱 2음절. destruction=파괴이랑 같은 뿌리
+vary;(크기·모양 등이) 다르다/달라지다/다르게 하다/차이를 주다;var(다른)+y = 다르다 = 다양하다! various이랑 같은 뿌리!;var+y! va-ry → "베리(var=다른)" + y. 딱 2음절. various/variable이랑 var 같음. variety=다양성이랑 같은 뿌리
+various;다양한/가지각색의;var(다른)+ious = 다른 것들의 = 다양한! variety=다양성이랑 같은 뿌리!;var+ious! var-i-ous → "베리어스(var=다른)" + ious. 딱 3음절. variety=다양성이랑 같은 뿌리
+variable;변동이 심한/변덕스러운/바뀔 수 있는; 변수;var(다른)+iable = 다르게 될 수 있는 = 변동이 심한/변수! vary이랑 같은 뿌리!;var+iable! var-i-a-ble → "베리어블(var=다른)" + iable. 딱 4음절. vary이랑 같은 뿌리
+variation;(양·정도의) 차이/변화(량·율)/변형/변주(곡);var(다른)+iation = 다름의 상태 = 변화/차이! vary이랑 같은 뿌리!;var+iation! var-i-a-tion → "베리에이션(var=다른)" + iation. 딱 4음절. vary이랑 같은 뿌리
+similar;비슷한/유사한;simil(같은)+ar = 같은 것의 = 비슷한! similarity=유사성이랑 같은 뿌리!;simil+ar! sim-i-lar → "시밀러(simil=같은)" + ar. 딱 3음절. similarity=유사성이랑 같은 뿌리
+resemble;~을 닮다/유사하다;re+sembl(같은)+e = 다시 같아 보이다 = 닮다! resemblance=유사이랑 같은 뿌리!;re+sembl+e! re-sem-ble → "셈블(sembl=같은)" 앞에 re. 딱 3음절. resemblance=유사/닮음이랑 같은 뿌리
+assemble;모으다/모이다/조립하다;as(향해)+sembl(같은)+e = 같은 곳에 모으다 = 조립/집합! assembly=의회/조립이랑 같은 뿌리!;as+sembl+e! as-sem-ble → "셈블(sembl=같은)" 앞에 as. 딱 3음절. ss 두 개! assembly=의회/조립이랑 같은 뿌리
+seemingly;겉보기에는/표면상은;seem(보이다)+ing+ly = 보이는 대로 = 겉보기에는! seem이랑 같은 뿌리!;seem+ing+ly! seem-ing-ly → "시밍리(seem=보이다)" + ingly. 딱 3음절. ee 두 개! seem이랑 같은 뿌리
+simulation;흉내/모의실험/시뮬레이션;simul(같게)+ation = 같게 만들기 = 모의실험! simulate=모의하다이랑 같은 뿌리!;simul+ation! sim-u-la-tion → "시뮬레이션(simul=같게)" + ation. 딱 4음절. simulate=모의하다이랑 같은 뿌리
+simultaneously;동시에/일제히;simultane(같은 때)+ously = 같은 때에 = 동시에! simultaneous=동시의이랑 같은 뿌리!;simultane+ously! si-mul-ta-ne-ous-ly → "시멀테이니어슬리(simultane=같은 때)" + ously. 딱 6음절. simultaneous=동시의이랑 같은 뿌리
+prime;가장 중요한/최상의; 전성기;prim(최초/최고)+e = 최초의/최고의 = 가장 중요한! primary이랑 같은 뿌리!;prim+e! prime → "프라임(prim=최초/최고)" + e. 딱 1음절. primary이랑 같은 뿌리. prime time=황금 시간대
+primary;제1의/주요한/최초의/처음의/초기의/초등의/초급의;prim(최초/최고)+ary = 최초의/주요한 = 제1의! prime이랑 같은 뿌리!;prim+ary! pri-ma-ry → "프라이머리(prim=최초)" + ary. 딱 3음절. prime이랑 같은 뿌리
+primitive;원시(시대)의/원시적인;prim(최초)+itive = 최초의 것 = 원시적인! prime이랑 같은 뿌리!;prim+itive! prim-i-tive → "프리미티브(prim=최초)" + itive. 딱 3음절. prime이랑 같은 뿌리
+principal;주요한/으뜸가는; 교장/학장/(단체의) 우두머리/장;prin(최초/으뜸)+cipal = 으뜸이 되는 것 = 주요한/교장! principle이랑 헷갈림 주의!;prin+cipal! prin-ci-pal → "프린시팔(prin=으뜸)" + cipal. 딱 3음절. principle이랑 스펠링 주의!
+principle;원리/원칙/신념/주의/방침;prin(최초/으뜸)+ciple = 으뜸이 되는 것 = 원리/원칙! principal이랑 헷갈림 주의!;prin+ciple! prin-ci-ple → "프린시플(prin=으뜸)" + ciple. 딱 3음절. principal이랑 스펠링 주의!
+prior;먼저의/이전의/~에 우선하는/(~보다) 중요한;prior(먼저) = 먼저 있는 것 = 이전의/우선의! priority=우선순위이랑 같은 뿌리!;pri+or! pri-or → "프라이어(prior=먼저)" → 딱 2음절. priority=우선순위이랑 같은 뿌리
+option;선택(권)/선택지/선택의 자유/(학교의) 선택 과목/(제품 따위의) 옵션;opt(선택하다)+ion = 선택한 것 = 선택지/옵션! optional=선택적인이랑 같은 뿌리!;opt+ion! op-tion → "옵션(opt=선택하다)" + ion. 딱 2음절. optional=선택적인이랑 같은 뿌리
+adopt;입양하다/양자로 삼다/(의견·방법·계획 등을) 채택하다/취하다;ad(향해)+opt(선택하다) = 향해 선택하다 = 입양/채택! adoption=입양/채택이랑 같은 뿌리!;ad+opt! a-dopt → "옵트(opt=선택하다)" 앞에 ad. 딱 2음절. adoption=입양/채택이랑 같은 뿌리
+opinion;의견/생각/견해;opin(생각하다)+ion = 생각하는 것 = 의견! opine=의견을 말하다이랑 같은 뿌리!;opin+ion! o-pin-ion → "오피니언(opin=생각하다)" + ion. 딱 3음절. in my opinion=내 생각에는

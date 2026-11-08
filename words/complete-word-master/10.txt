@@ -1,0 +1,30 @@
+struggle;애쓰다/분투하다/노력;strug(힘쓰다)+gle = 힘써 싸우다 = 분투!;strug+gle! strug-gle → "스트러그(strug=힘쓰다)" + gle. strive랑 비슷한 뜻
+strive;노력하다/애쓰다;스트라이브! 힘껏 분투하다(strive)!;s-t-r-i-v-e. "스트라이(stri)+브(ve)" → 6글자. struggle이랑 비슷한 뜻
+tangible;분명히 실재하는/만질수 있는;tang(만지다)+ible = 만질 수 있는 = 실재하는!;tang+ible! tan-gi-ble → "탱(tang=만지다)" + ible
+dimensional;차수의/차원의;dimension(차원)+al = 차원과 관련된!;dimension 알면 +al만! di-men-sion-al → "디멘션(dimension=차원)" + al
+weed;잡초/수초;위드! 잡초(weed) = 솎아내야 할 것!;w-e-e-d. "위(we)+드(ed)" → ee 두 개! 딱 1음절. greed랑 끝이 같음
+bounce;튀다/튀게하다/튀어오르다;바운스! 공이 bounce = 튀어오르다!;boun-ce → "바운(boun)+스(ce)" → 딱 2음절
+browse;둘러보다/훑어보다;브라우즈! 인터넷 브라우저(browser)의 동사 = 둘러보다!;brow-se → "브라우(brow)+즈(se)" → browser에서 r 빼기
+alternative;대체의/대안의;alter(바꾸다)+native = 바꿀 수 있는 = 대안의!;alter+native! al-ter-na-tive → "얼터(alter=바꾸다)" + native
+ingredient;재료/성분;ingred(들어가다)+ient = 안에 들어가는 것 = 재료!;ingred+ient! in-gre-di-ent → "인그레디(ingred=들어가다)" + ient
+greed;탐욕/식탐;그리드! 탐욕(greed) = 더 갖고 싶은 욕심!;g-r-e-e-d. "그리(gre)+드(ed)" → ee 두 개! weed랑 끝이 같음
+tribal;부족의/종족의;tribe(부족)+al = 부족과 관련된!;tribe에서 e→al! tri-bal → "트라이브(tribe=부족)" 에서 e를 al로
+haul;끌다/운반하다;홀! 무겁게 끌어당기다(haul) = 운반하다!;h-a-u-l. "호(ha)+울(ul)" → au 조합. 딱 4글자
+vertical;수직의/세로의;vert(돌리다)+ical = 위아래로 돌린 방향 = 수직!;vert+ical! ver-ti-cal → "버트(vert=돌리다)" + ical. horizontal 반대
+horizontal;수평의/가로의;horizon(지평선)+tal = 지평선처럼 수평인!;horizon 알면 +tal만! hor-i-zon-tal → "호라이즌(horizon=지평선)" + tal. vertical 반대
+presuppose;예상하다/미리 추정하다;pre(미리)+suppose(가정하다) = 미리 가정하다 = 예상!;suppose 앞에 pre! pre-sup-pose → "서포즈(suppose=가정)" 앞에 pre
+extraction;뽑아냄/추출;extract(뽑아내다)+ion = 뽑아내는 것 = 추출!;extract 알면 +ion만! ex-trac-tion → "익스트랙트(extract=뽑아내다)" 에서 t를 ion으로
+consume;소비하다/낭비하다;con(완전히)+sume(가져가다) = 완전히 가져가다 = 소비!;sume 앞에 con! con-sume → "슘(sume=가져가다)" 앞에 con. resume이랑 sume 같음
+resume;재개하다/다시 시작하다;re(다시)+sume(가져가다) = 다시 시작하다 = 재개!;sume 앞에 re! re-sume → "슘(sume=가져가다)" 앞에 re. consume이랑 sume 같음
+consent;동의/승낙;con(함께)+sent(보내다) = 함께 보내다 = 동의!;con+sent! con-sent → "센트(sent=보내다)" 앞에 con. content랑 con 같음
+content;함량/용량/내용/목차;con(안에)+tent(담다) = 안에 담긴 것 = 내용!;con+tent! con-tent → "텐트(tent=담다)" 앞에 con. consent랑 con 같음
+roam;돌아다니다/배회하다;로밍(roaming)의 동사 roam = 돌아다니다!;r-o-a-m. "로(ro)+엄(am)" → oa 조합. roaming에서 ing 빼기
+confident;자신감있는/확신하는;con+fid(믿다)+ent = 믿음이 있는 = 자신감 있는!;con+fident! con-fi-dent → "피던트(fident=믿다)" 앞에 con. confidential이랑 confide 같음
+confidential;비밀의/은밀한;confide(믿고 말하다)+ntial = 믿고 말하는 = 비밀의!;confide 알면 +ntial만! con-fi-den-tial → confident에서 t를 tial로
+preserve;지키다/보호하다;pre(미리)+serve(섬기다) = 미리 섬기며 지키다 = 보호!;serve 앞에 pre! pre-serve → "서브(serve=섬기다)" 앞에 pre
+turn out;드러나다/밝혀지다;out(밖으로) 나오다 = 드러나다!;out 하나만! turn [out] → "아웃(out=밖으로)" 기억
+far from;~이라기보다는/결코~이 아닌;far(멀리)+from = ~로부터 멀리 = 결코 아닌!;far 하나만! [far] from → "파(far=멀리)" 기억. by no means랑 같은 뜻
+by no means;결코 ~이 아닌;no means(방법이 없다) = 결코 아닌!;means 하나만! by no [means] → "민스(means=방법)" 기억. far from이랑 같은 뜻
+convert ~ into;바꾸다/전환하다;con(완전히)+vert(돌리다)+into = 완전히 돌려 바꾸다!;vert 앞에 con! con-vert into → "버트(vert=돌리다)" 앞에 con
+lie in;~에 있다/놓여있다;lie(있다)+in = ~안에 있다 = ~에 놓여있다!;lie+in! "라이(lie=있다)" + in
+hit the mark;예상이 들어맞다/적중하다;mark(표적)+hit = 표적을 맞히다 = 적중!;mark 하나만! hit the [mark] → "마크(mark=표적)" 기억

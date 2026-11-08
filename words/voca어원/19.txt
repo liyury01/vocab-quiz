@@ -1,0 +1,23 @@
+sign;징후/조짐/신호/표시/표지판; 서명하다/신호를 보내다;sign(표시하다) = 표시하다/서명하다 = 징후! significant이랑 같은 뿌리!;sign! s-i-g-n → "사인(sign=표시)" 딱 4글자. significant이랑 같은 뿌리. signal이랑 sig 공통!
+signal;신호; 신호를 보내다/암시하다;sign(표시)+al = 표시하는 것 = 신호! sign이랑 같은 뿌리!;sign+al! sig-nal → "시그널(sign=표시)" + al. 딱 2음절. sign이랑 같은 뿌리
+significant;중대한/중요한/상당한/현저한/의미심장한;sign(표시)+ific(만들다)+ant = 표시를 만드는 = 의미있는/중요한! insignificant=사소한이랑 반대!;sign+ific+ant! sig-nif-i-cant → "시그니피컨트(sign=표시)" + ificant. 딱 4음절. insignificant=사소한이랑 반대
+assign;임명[선임]하다/할당하다/부여하다;as(향해)+sign(표시) = 향해 표시하다 = 할당! assignment=과제이랑 같은 뿌리!;as+sign! as-sign → "사인(sign=표시)" 앞에 as. 딱 2음절. ss 두 개! assignment=과제/할당
+design;설계[고안]하다/디자인하다; 디자인/설계(도)/도안/계획;de(아래)+sign(표시) = 아래에 표시하다 = 설계/디자인! designer=디자이너이랑 같은 뿌리!;de+sign! de-sign → "사인(sign=표시)" 앞에 de. 딱 2음절. designer=디자이너이랑 같은 뿌리
+designate;지정[지명]하다/표시하다/나타내다; 지정[지명]된;design(표시하다)+ate = 표시하여 지정하다 = 지정하다! design이랑 같은 뿌리!;design+ate! des-ig-nate → "디자이네이트(design=표시)" + ate. 딱 3음절. design이랑 같은 뿌리
+resign;사임[사직]하다/포기하고 받아들이다;re(뒤로)+sign(표시) = 뒤로 표시를 돌리다 = 사직! resignation=사직이랑 같은 뿌리!;re+sign! re-sign → "사인(sign=표시)" 앞에 re. 딱 2음절. resignation=사직/체념이랑 같은 뿌리
+seal;(편지를) 봉하다/밀폐[밀봉]하다/확정하다; 인장/도장/봉인/바다표범/물개;sigil(도장)→seal = 도장으로 봉인하다 = 봉인! sign이랑 먼 친척! 도장(seal)은 서명(sign)의 친척!;s-e-a-l. "씰(seal)" → 딱 4글자. ea 조합. sealed=봉인된. 고무 씰(seal)처럼 꽉 막음!
+correct;옳은/올바른/적당한; 바로잡다/정정하다;cor(완전히)+rect(곧은) = 완전히 곧게 하다 = 바로잡다/올바른! incorrect=틀린 반대!;cor+rect! cor-rect → "렉트(rect=곧은)" 앞에 cor. 딱 2음절. rr 두 개! incorrect=틀린이랑 반대
+direct;직접의/직접적인/직행의; 돌리다/감독하다/지시하다/길을 가르쳐주다;di(분리)+rect(곧게) = 곧게 나누다 = 직접/지시! direction=방향이랑 같은 뿌리!;di+rect! di-rect → "렉트(rect=곧은)" 앞에 di. 딱 2음절. direction=방향이랑 같은 뿌리
+erect;똑바로 선; (똑바로) 세우다/(건물 등을) 짓다;e(밖으로)+rect(곧은) = 밖으로 곧게 하다 = 세우다! erection=건립이랑 같은 뿌리!;e+rect! e-rect → "렉트(rect=곧은)" 앞에 e. 딱 2음절. correct/direct이랑 rect 공통!
+rectangular;직사각형의/직각의;rect(곧은)+angular(각도의) = 곧은 각도의 = 직사각형의! rectangle=직사각형이랑 같은 뿌리!;rect+angular! rec-tan-gu-lar → "렉탱귤러(rect=곧은)" + angular. 딱 4음절. rectangle=직사각형이랑 같은 뿌리
+region;지역/지방/지대/(신체의) 부분;reg(다스리다)+ion = 다스리는 곳 = 지역/지방! regional=지역의이랑 같은 뿌리!;reg+ion! re-gion → "리전(reg=다스리다)" + ion. 딱 2음절. regional=지역의이랑 같은 뿌리
+regular;규칙적인/정기적인/보통의/표준적인;reg(규칙)+ular = 규칙에 맞는 = 규칙적인! irregular=불규칙한이랑 반대!;reg+ular! reg-u-lar → "레귤러(reg=규칙)" + ular. 딱 3음절. irregular=불규칙한이랑 반대
+regulate;(법률·규칙으로) 규제[통제]하다/규정하다/(속도·온도 등을) 조정[조절]하다;reg(규칙)+ulate = 규칙에 맞게 하다 = 규제하다! regulation=규정이랑 같은 뿌리!;reg+ulate! reg-u-late → "레귤레이트(reg=규칙)" + ulate. 딱 3음절. regulation=규정이랑 같은 뿌리
+royal;왕의/왕실의/왕립의;reg(왕)→roy(왕)+al = 왕의 것 = 왕의! regal이랑 reg 공통 뿌리!;roy+al! roy-al → "로열(roy=왕)" + al. 딱 2음절. loyal과 발음 비슷! regal이랑 같은 뿌리
+rule;규칙/원칙/통치/지배; 통치[지배]하다/결정[판결]하다;reg(다스리다)→rule = 다스리는 것 = 규칙/통치! ruler=자/통치자이랑 같은 뿌리!;r-u-l-e. "룰(rule)" → 딱 4글자. ruler=자/통치자이랑 같은 뿌리. regular이랑 reg 공통!
+form;형태/모양/형식/양식/종류/유형; 형성하다/형성되다;form(형태) = 형태/형식! reform이랑 같은 뿌리! inform이랑 form 공통!;f-o-r-m. "폼(form=형태)" → 딱 4글자. reform/inform이랑 form 공통. formation=형성이랑 같은 뿌리
+inform;알리다/통지하다;in(안으로)+form(형태) = 형태를 안으로 넣다 = 알리다! information=정보이랑 같은 뿌리!;in+form! in-form → "폼(form=형태)" 앞에 in. 딱 2음절. information=정보이랑 같은 뿌리
+reform;개혁하다/개선하다/개혁되다/개선되다; 개혁/개선;re(다시)+form(형태) = 다시 형태를 만들다 = 개혁! reformation=개혁이랑 같은 뿌리!;re+form! re-form → "폼(form=형태)" 앞에 re. 딱 2음절. reformation=개혁이랑 같은 뿌리. voca수능 16과에도 나옴!
+formula;방식/방법/공식/식;form(형태)+ula = 형태의 작은 것 = 공식/방식! formal이랑 form 공통!;form+ula! for-mu-la → "포뮬러(form=형태)" + ula. 딱 3음절. formal이랑 form 같음
+technique;(전문) 기술/기법/테크닉/기교/솜씨;techni(기술)+que = 기술적인 것 = 기법! technology이랑 tech 공통!;techni+que! tech-nique → "테크닉(techni=기술)" + que. 딱 2음절. technology이랑 tech 같음
+technology;과학 기술;techno(기술)+logy(학문) = 기술의 학문 = 과학기술! technique이랑 tech 공통!;techno+logy! tech-nol-o-gy → "테크놀로지(techno=기술)" + logy. 딱 4음절. technique이랑 tech 같음

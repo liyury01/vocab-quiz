@@ -1,0 +1,30 @@
+emerge;나오다/나타나다/드러나다;e+merge(합치다)=합쳐 나오다!;머지(merge) 앞에 e! e-merge
+extensive;넓은/광대한;extend(뻗다)+ive = 쭉 뻗어 넓은!;extend에서 d→sive! ex-ten-sive
+comprehensive;포괄적인/종합적인/이해력이 있는;com+prehend(잡다)=다 잡아 포괄!;comprehend에서 d→sive! com-pre-hen-sive
+marine;바다의/해양의/선박의;마린! 해병대(Marine) = 바다 군대!;mar-ine → 해병대처럼 "마린" 그대로!
+pesticide;살충제/농약;pest(해충)+cide(죽이다) = 해충을 죽이다!;페스트(pest=해충) + cide(죽이다)
+launch;개시하다/출시하다/발사하다;런치! 로켓 발사(launch)처럼 시작!;l-a-u-n-c-h. "런(laun)+치(ch)" → 6글자
+salient;두드러진/현저한/핵심적인;sail(항해)+ent = 항해처럼 눈에 띄게!;sa-li-ent → "세일(sail)" + ient
+unprecedented;전례 없는/새로운/신기한;un+precedent(선례)+ed = 선례가 없는!;precedent 앞에 un! un-prec-e-dent-ed
+extraordinary;비범한/비상한/보통이 아닌;extra(추가)+ordinary(평범) = 평범함을 넘어선!;ordinary(평범) 앞에 extra!
+shovel;삽/삽으로 파다;쇼벨! 삽(shovel) 소리처럼 "쇼-벨"!;s-h-o-v-e-l. "쇼(sho)+벨(vel)" → 6글자
+renowned;저명한/유명한;re+nown(명성)+ed = 명성이 알려진!;renown 알면 +ed만! re-nown-ed
+profession;직업/전문직;pro(전문가)+fess+ion = 전문가의 일!;profess 알면 +ion만! pro-fes-sion
+rotation;회전/자전/순환;rotate(회전)+ion = 빙글빙글 도는 것!;rotate에서 e→ion! ro-ta-tion
+backfire;역효과를 낳다;back(뒤)+fire(불) = 불이 뒤로 튀다!;백(back=뒤) + 파이어(fire=불)
+intermediate;중급의/중간의;inter(사이)+mediate = 사이에 있는!;인터(inter) + mediate → in-ter-me-di-ate
+stun;기절시키다/깜짝놀라게하다;스턴! 게임에서 스턴(stun) = 기절!;s-t-u-n. 딱 4글자! "스(s)+턴(tun)"
+persistence;고집/끈기/지속/영속;persist(지속)+ence = 끝까지 버티는 것!;persist 알면 +ence만! per-sis-tence
+miser;구두쇠/자린고비;미저! 돈 안 쓰는 사람. misery랑 달라!;m-i-s-e-r. 5글자! "미(mi)+저(ser)" → misery에서 y 빼기
+misery;비참함/궁핍/불행;영화 "미저리(Misery)" = 비참한 상황!;miser 알면 +y만! "미저(miser)" + y
+condense;응축하다/압축하다;con+dense(빽빽한) = 빽빽하게 모으다!;dense(빽빽) 앞에 con! con-dense
+condemn;비난하다/선고하다;con+demn(해치다) = 완전히 단죄하다!;con-demn → "뎀(demn)" 앞에 con. 마지막 n 묵음
+textile;직물/섬유;text(짜다)+ile = 실로 짜서 만든 것!;tex-tile → "텍스(tex)" + tile. textual이랑 뿌리 같음
+textual;본문의/원문의;text(본문)+ual = 본문과 관련된!;text 알면 +ual만! tex-tu-al
+bound;경계/한계/뛰다/튀어오르다;바운드! 공이 바운드(bound)하다 = 튀어오르다!;b-o-u-n-d. "바(b)+운드(ound)" → 5글자
+amount to;~에 이르다/~과 마찬가지다;amount(양)이 ~에 이르다!;amount 하나만! [amount] to → "어마운트(=양)가 ~에 이르다"
+strive for;~을 위해 노력하다;strive(분투)+for = ~을 위해 분투하다!;스트라이브(strive=분투) + for
+in respect of;~에 관해서는;respect(존중/관련)의 점에서!;respect 하나만! in [respect] of → "리스펙트(respect=관련)" 기억
+with regard to;~과 관련하여/~에 관해서는;regard(관련)와 함께 = ~에 관해!;regard 하나만! with [regard] to → "리가드(regard=관련)" 기억
+blow up;폭파하다/터뜨리다;blow(불다)+up = 바람으로 부풀려 터뜨리다!;블로우(blow=불다) + up
+ward off;물리치다/피하다;ward(지키다)+off = 멀리 지켜내다!;워드(ward=지키다) + off

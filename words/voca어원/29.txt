@@ -1,0 +1,23 @@
+notable;주목할 만한/탁월한;not(알다)+able = 알 수 있는 = 주목할 만한! notice이랑 not 공통!;not+able! no-ta-ble → "노터블(not=알다)" + able. 딱 3음절. notice이랑 not 같음. notably=특히이랑 같은 뿌리
+notice;주목/주의/게시(물)/공고/안내(판)/통지(서)/통보; 알아차리다/주목하다;not(알다)+ice = 알다 = 알아차리다/공지! notification=알림이랑 같은 뿌리!;not+ice! no-tice → "노티스(not=알다)" + ice. 딱 2음절. notification=알림이랑 같은 뿌리
+notify;알리다/통보하다;not(알다)+ify = 알게 하다 = 알리다! notification=알림이랑 같은 뿌리!;not+ify! no-ti-fy → "노티파이(not=알다)" + ify. 딱 3음절. notification=알림이랑 같은 뿌리. notice이랑 not 공통!
+notion;관념/개념/생각;not(알다)+ion = 알고 있는 것 = 관념/개념! notice이랑 not 공통!;not+ion! no-tion → "노션(not=알다)" + ion. 딱 2음절. notice이랑 not 같음
+career;(오래 해온 전문적) 직업/경력/커리어; 직업적인;car(달리다)+eer = 달려온 길 = 경력/직업! carriage이랑 car 공통!;car+eer! ca-reer → "커리어(car=달리다)" + eer. 딱 2음절. ee 두 개! carriage이랑 car 같음
+carpenter;목수;carpen(수레/만들다)+ter = 나무를 만드는 사람 = 목수! carriage이랑 car 공통 뿌리!;carpen+ter! car-pen-ter → "카펜터(carpen=만들다)" + ter. 딱 3음절. carriage이랑 car 같음
+carriage;마차/운반/(기차의) 객차;carri(나르다)+age = 나르는 것 = 마차/운반! carrier이랑 같은 뿌리!;carri+age! car-riage → "캐리지(carri=나르다)" + age. 딱 2음절. rr 두 개! carrier이랑 carri 같음
+carrier;운송[수송] 회사/운반인/운반[수송]기/(의학) (전염병) 보균자/매개체;carri(나르다)+er = 나르는 것/사람 = 운반인/매개체! carriage이랑 같은 뿌리!;carri+er! car-ri-er → "캐리어(carri=나르다)" + er. 딱 3음절. rr 두 개! carriage이랑 carri 같음
+charge;요금을 청구하다/고발[기소]하다/비난하다/책임을 지우다/채우다/충전하다; 요금/비용/고발/기소/비난/책임/담당;charg(나르다/짐)+e = 짐을 지우다 = 청구하다/책임! discharge이랑 같은 뿌리!;charg+e! charge → "차지(charg=짐)" + e. 딱 1음절. discharge이랑 charge 공통!
+discharge;해임하다/(병원·감옥·군대 등에서) 내보내다/(액체·가스 등을) 방출하다/(의무 등을) 이행하다; 해임/퇴원/석방/제대/방출/배출(물)/(책임) 이행;dis(분리)+charge(짐) = 짐에서 분리하다 = 해임/방출! charge이랑 같은 뿌리!;dis+charge! dis-charge → "차지(charge=짐)" 앞에 dis. 딱 2음절. charge이랑 charge 공통
+agent;대리인[점]/대행사/중개인/에이전트/정부 요원/매개(물)/요인;ag(행동하다)+ent = 행동하는 사람 = 대리인/요원! agency=대행사이랑 같은 뿌리!;ag+ent! a-gent → "에이전트(ag=행동하다)" + ent. 딱 2음절. agency=대행사이랑 같은 뿌리
+agenda;의제/안건/협의 사항;ag(행동하다)+enda = 행동해야 할 것들 = 의제/안건! agent이랑 ag 공통!;ag+enda! a-gen-da → "어젠다(ag=행동하다)" + enda. 딱 3음절. agent이랑 ag 같음
+active;활동적인/적극적인;act(행동하다)+ive = 행동하는 = 활동적인! activity=활동이랑 같은 뿌리!;act+ive! ac-tive → "액티브(act=행동하다)" + ive. 딱 2음절. activity=활동이랑 같은 뿌리. agent이랑 ac 공통 뿌리!
+actual;실제의/정확한/진짜의;actu(행동하다)+al = 실제로 행해지는 = 실제의! actually=실제로이랑 같은 뿌리!;actu+al! ac-tu-al → "액추얼(actu=행동하다)" + al. 딱 3음절. actually=실제로이랑 같은 뿌리. active이랑 act 공통!
+exact;정확한/틀림없는/정밀한;ex(완전히)+act(행동하다) = 완전히 행해진 = 정확한! exactly=정확히이랑 같은 뿌리!;ex+act! ex-act → "이그잭트(act=행동하다)" 앞에 ex. 딱 2음절. exactly=정확히이랑 같은 뿌리. active이랑 act 공통!
+react;(사건·행동·자극·화학 작용 등에) 반응하다/(음식·약 등에) (거부) 반응을 나타내다/반작용하다;re(다시)+act(행동하다) = 다시 행동하다 = 반응하다! reaction=반응이랑 같은 뿌리!;re+act! re-act → "액트(act=행동하다)" 앞에 re. 딱 2음절. reaction=반응이랑 같은 뿌리. exact이랑 act 공통!
+ambiguous;(애매)모호한/분명하지 않은;ambi(두 가지)+guous(이끌다) = 두 방향으로 이끌다 = 모호한! ambiguity=모호함이랑 같은 뿌리!;ambi+guous! am-big-u-ous → "앰비귀어스(ambi=두 가지)" + guous. 딱 4음절. ambiguity=모호함이랑 같은 뿌리
+navigate;길을 찾다/항해[비행]하다/(어려운 상황 등을) 잘 다루다;navi(배)+gate(이끌다) = 배를 이끌다 = 항해하다/길을 찾다! navigation=항법이랑 같은 뿌리!;navi+gate! nav-i-gate → "내비게이트(navi=배)" + gate. 딱 3음절. navigation=항법이랑 같은 뿌리
+intact;온전한/손상되지 않은;in(없는)+tact(접촉하다) = 접촉이 없는 = 온전한/손상되지 않은! contact이랑 tact 공통!;in+tact! in-tact → "택트(tact=접촉하다)" 앞에 in. 딱 2음절. contact이랑 tact 같음
+contact;접촉/연락/교섭/인맥/연줄; ~와 연락하다;con(함께)+tact(접촉하다) = 함께 접촉하다 = 연락/접촉! tactile=촉각의이랑 같은 뿌리!;con+tact! con-tact → "택트(tact=접촉하다)" 앞에 con. 딱 2음절. tactile=촉각의이랑 같은 뿌리. intact이랑 tact 공통!
+integrate;(부분·요소 등을) 통합하다(into/with)/인종 차별을 철폐하다;integr(완전한)+ate = 완전하게 하다 = 통합하다! integration=통합이랑 같은 뿌리!;integr+ate! in-te-grate → "인테그레이트(integr=완전한)" + ate. 딱 3음절. integration=통합이랑 같은 뿌리. integral이랑 integr 공통!
+attain;달성하다/(특정 연령·수량·수준 등에) 도달하다;at(향해)+tain(잡다) = 향해 잡다 = 달성하다! attainment=달성이랑 같은 뿌리!;at+tain! at-tain → "테인(tain=잡다)" 앞에 at. 딱 2음절. tt 두 개! attainment=달성이랑 같은 뿌리
+entire;전체의/완전한;en(안에)+tire(잡다) = 안에 모두 잡다 = 전체의/완전한! entirely=완전히이랑 같은 뿌리!;en+tire! en-tire → "타이어(tire=잡다)" 앞에 en. 딱 2음절. entirely=완전히이랑 같은 뿌리. attain이랑 t 공통 뿌리!

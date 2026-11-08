@@ -1,0 +1,30 @@
+rely;의존하다/신뢰하다;re(다시)+ly(묶다) = 다시 묶이다 = 의존하다!;r-e-l-y. 딱 4글자! "리(re)+라이(ly)" → rely on 형태로 쓰임
+critic;비평가/평론가;crit(판단)+ic = 판단하는 사람 = 비평가!;crit+ic! crit-ic → "크리트(crit=판단)" + ic. critical이랑 뿌리 같음
+vivid;생생한/선명한/밝은;비비드! 생생하고(vivid) 선명한 색깔!;viv-id → "비브(viv)+이드(id)" → v 두 개! 딱 2음절
+pale;창백한/활기없는/희미한;페일! 창백하게(pale) 하얗게 질리다!;p-a-l-e. "페(pa)+일(le)" → 딱 4글자. vivid 반대
+resilience;회복/탄성/탄력;resil(튀어오르다)+ience = 튀어올라 회복하다!;resil+ience! re-sil-ience → "리질(resil=튀어오르다)" + ience
+astronomer;천문학자;astro(별)+nomer = 별을 연구하는 사람!;astro+nomer! as-tron-o-mer → "아스트로(astro=별)" + nomer
+basin;웅덩이/분지/대야;베이신! 세면대(basin) = 대야. 분지도 basin!;ba-sin → "베이(ba)+신(sin)" → 딱 2음절
+famine;기근/기아/심한 부족;fam(굶주림)+ine = 굶주린 상태 = 기근!;fam+ine! fam-ine → "팸(fam=굶주림)" + ine. 5글자
+superficial;외관상의/표면상의;super(위)+ficial(면) = 위의 면 = 표면상의!;super+ficial! su-per-fi-cial → "수퍼(super=위)" + ficial. profound 반대
+profound;깊은/심오한/엄청난;pro(앞으로)+found(찾다) = 깊이 파고들어 찾다 = 심오한!;pro+found! pro-found → "파운드(found=찾다)" 앞에 pro. superficial 반대
+functionality;기능성/실용성;function(기능)+ality = 기능적인 성질!;function 알면 +ality만! func-tion-al-i-ty
+swell;부풀리다/팽창하다;스웰! 부풀어오르다(swell) = 팽창하다!;s-w-e-l-l. "스웰(swe)+l" → ll 두 개! 딱 1음절
+advocate;지지자/옹호자/지지하다;ad+voc(목소리)+ate = 목소리를 내어 지지하다!;ad+voc+ate! ad-vo-cate → "보케(voc=목소리)" 앞에 ad
+opponent;대항자/반대자/반대하는;op(반대)+ponent(놓다) = 반대편에 놓인 사람 = 대항자!;op+ponent! op-po-nent → "포넌트(ponent=놓다)" 앞에 op. pp 두 개
+revive;소생하다/활기를 되찾다/부활시키다;re(다시)+vive(살다) = 다시 살아나다 = 소생!;re+vive! re-vive → "바이브(vive=살다)" 앞에 re
+triumph;승리/대성공;트라이엄프! 승리(triumph) 그대로. ph는 f 발음!;tri-umph → "트라이(tri)+엄프(umph)" → ph는 f 발음
+edible;먹을수 있는/식용의;ed(먹다)+ible = 먹을 수 있는!;ed+ible! ed-i-ble → "에드(ed=먹다)" + ible. 3음절
+perspective;시각/관점;per(통해)+spect(보다)+ive = 통해서 보는 방식 = 관점!;spect 앞에 per! per-spec-tive → "스펙트(spect=보다)" 앞에 per
+respective;각자의/각각의;respect(존중)+ive = 각자를 존중하는 = 각각의!;respect 알면 +ive만! re-spec-tive → perspective랑 spect 같음
+prospective;장래의/미래의;pro(앞으로)+spect(보다)+ive = 앞을 보는 = 장래의!;pro+spective! pros-pec-tive → "프로(pro=앞)" + spective. perspective respective prospective 셋 다 spect
+dissent;이의/반대/불찬성;dis(반대)+sent(보내다) = 반대를 보내다 = 이의!;dis+sent! dis-sent → "센트(sent=보내다)" 앞에 dis. descent랑 ss vs sc 차이
+decent;괜찮은/쓸만한/예의바른;de+cent(100) = 100점 기준에 괜찮은!;de-cent → "디(de)+센트(cent)" → descent랑 c 뒤가 달라
+descent;하강/내리막;de(아래)+scent(가다) = 아래로 가다 = 하강!;de+scent! de-scent → "센트(scent=가다)" 앞에 de. decent은 c만, descent은 sc
+due;~로 인한/~때문인/적당한;듀! "due to" = ~때문에. 마감 기한도 due!;d-u-e. 딱 3글자! "듀(due)" → due to 형태로 쓰임
+in terms of;~측면에서/~관해서;terms(용어/측면) = 그 측면에서!;terms 하나만! in [terms] of → "텀스(terms=측면)" 기억
+down the road;앞으로/언젠가는;road(길) 아래로 = 길을 따라가면 = 앞으로!;road 하나만! down the [road] → "로드(road=길)" 기억
+dispose of;없애다/처리하다;dis(떨어져)+pose(놓다)+of = 떨어뜨려 놓다 = 처리!;dis+pose+of! dis-pose → "포즈(pose=놓다)" 앞에 dis
+catch up with;따라잡다/체포하다;catch(잡다)+up = 위로 따라잡다!;up 하나만! catch [up] with → "업(up=위로)" 기억
+let alone;말할것도 없이/고사하고;let(놔두다)+alone(혼자) = 혼자 놔두다 = 말할것도 없이!;alone 하나만! let [alone] → "얼론(alone=혼자)" 기억
+enroll in;등록하다;en(안으로)+roll(목록) = 목록에 올리다 = 등록!;roll 앞에 en! en-roll → "롤(roll=목록)" 앞에 en. ll 두 개

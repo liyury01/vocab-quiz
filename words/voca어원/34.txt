@@ -1,0 +1,23 @@
+collect;수집하다/모으다/거둬들이다;col(함께)+lect(선택하다/모으다) = 함께 모으다 = 수집하다! collection=수집이랑 같은 뿌리!;col+lect! col-lect → "컬렉트(lect=모으다)" 앞에 col. 딱 2음절. ll 두 개! collection=수집이랑 같은 뿌리. elect이랑 lect 공통!
+recollect;생각해내다/회상하다;re(다시)+col(함께)+lect(모으다) = 다시 함께 모으다 = 회상하다! recollection=회상이랑 같은 뿌리!;re+col+lect! rec-ol-lect → "레컬렉트(lect=모으다)" 앞에 re+col. 딱 3음절. ll 두 개! recollection=회상이랑 같은 뿌리
+elect;선거하다/선출하다/선택하다;e(밖으로)+lect(선택하다) = 밖으로 선택하다 = 선출하다! election=선거이랑 같은 뿌리!;e+lect! e-lect → "일렉트(lect=선택하다)" 앞에 e. 딱 2음절. election=선거이랑 같은 뿌리. collect이랑 lect 공통!
+neglect;소홀히 하다/방치하다/무시하다; 소홀히 함/방치/무시;neg(않는)+lect(선택하다) = 선택하지 않다 = 소홀히 하다! negligent=소홀한이랑 같은 뿌리!;neg+lect! neg-lect → "니글렉트(lect=선택하다)" 앞에 neg. 딱 2음절. negligent=소홀한이랑 같은 뿌리. elect이랑 lect 공통!
+intellect;지성/지력/지식인;intel(안에서)+lect(선택하다/읽다) = 안에서 읽다 = 지성! intellectual=지적인이랑 같은 뿌리!;intel+lect! in-tel-lect → "인텔렉트(lect=읽다/선택하다)" 앞에 intel. 딱 3음절. ll 두 개! intellectual=지적인이랑 같은 뿌리
+elegant;우아한/고상한;e(밖으로)+leg(선택하다)+ant = 선택받은 것 = 우아한! elegance=우아함이랑 같은 뿌리!;e+leg+ant! el-e-gant → "엘리건트(leg=선택하다)" + ant. 딱 3음절. elegance=우아함이랑 같은 뿌리. elect이랑 el 공통 뿌리!
+claim;주장하다/요구하다; 주장/요구/권리;claim(소리 지르다/요구하다) = 소리 질러 요구하다 = 주장하다! proclaim이랑 같은 뿌리!;c-l-a-i-m. "클레임(claim=소리 지르다)" → 딱 5글자. proclaim이랑 claim 공통
+proclaim;선언하다/공표하다/표명하다;pro(앞에)+claim(소리 지르다) = 앞에서 소리 지르다 = 선언하다! proclamation=선언이랑 같은 뿌리!;pro+claim! pro-claim → "프로클레임(claim=소리 지르다)" 앞에 pro. 딱 2음절. proclamation=선언이랑 같은 뿌리
+exclaim;외치다/소리치다;ex(밖으로)+claim(소리 지르다) = 밖으로 소리 지르다 = 외치다! exclamation=감탄이랑 같은 뿌리!;ex+claim! ex-claim → "익스클레임(claim=소리 지르다)" 앞에 ex. 딱 2음절. exclamation=감탄이랑 같은 뿌리. proclaim이랑 claim 공통!
+council;협의회/심의회/위원회/의회;coun(함께)+cil(부르다/모임) = 함께 모인 것 = 협의회! councilor=의원이랑 같은 뿌리!;coun+cil! coun-cil → "카운슬(cil=모임)" 앞에 coun. 딱 2음절. councilor=의원이랑 같은 뿌리
+bankrupt;파산한/지급불능의; 파산자/파산하다;bank(은행)+rupt(부수다/터지다) = 은행이 부서진 = 파산한! bankruptcy=파산이랑 같은 뿌리!;bank+rupt! bank-rupt → "뱅크럽트(rupt=부수다)" 앞에 bank. 딱 2음절. bankruptcy=파산이랑 같은 뿌리. corrupt이랑 rupt 공통!
+corrupt;부패한/타락한/부정한; 부패시키다/타락시키다;cor(함께)+rupt(부수다) = 함께 부수다 = 부패한/타락한! corruption=부패이랑 같은 뿌리!;cor+rupt! cor-rupt → "커럽트(rupt=부수다)" 앞에 cor. 딱 2음절. rr 두 개! corruption=부패이랑 같은 뿌리. bankrupt이랑 rupt 공통!
+disrupt;방해하다/붕괴시키다/혼란시키다;dis(떨어져)+rupt(부수다) = 떨어뜨려 부수다 = 방해하다/혼란! disruption=혼란이랑 같은 뿌리!;dis+rupt! dis-rupt → "디스럽트(rupt=부수다)" 앞에 dis. 딱 2음절. disruption=혼란이랑 같은 뿌리. corrupt이랑 rupt 공통!
+erupt;갑자기 발생하다/폭발하다/분출하다;e(밖으로)+rupt(부수다/터지다) = 밖으로 터지다 = 분출하다/폭발! eruption=폭발이랑 같은 뿌리!;e+rupt! e-rupt → "이럽트(rupt=부수다)" 앞에 e. 딱 2음절. eruption=폭발이랑 같은 뿌리. disrupt이랑 rupt 공통!
+interrupt;가로막다/방해하다/중단시키다;inter(사이)+rupt(부수다) = 사이에서 부수다 = 가로막다! interruption=방해이랑 같은 뿌리!;inter+rupt! in-ter-rupt → "인터럽트(rupt=부수다)" 앞에 inter. 딱 3음절. rr 두 개! interruption=방해이랑 같은 뿌리. erupt이랑 rupt 공통!
+route;길/경로/항로; 보내다/운반하다;route(길/경로) = 길 = 경로/항로! router=라우터이랑 같은 뿌리!;r-o-u-t-e. "루트(route=길)" → 딱 5글자. routine이랑 route 공통
+routine;일상적인 일/일과/규칙적인 절차; 판에 박힌/틀에 박힌;route(길)+ine = 항상 가는 길 = 일상적인 일! route이랑 같은 뿌리!;rout+ine! rou-tine → "루틴(rout=길)" + ine. 딱 2음절. route이랑 rout 같음
+alter;달라지다/바뀌다/변하다/바꾸다;alter(바꾸다) = 바꾸다 = 달라지다/변하다! alteration=변경이랑 같은 뿌리!;a-l-t-e-r. "올터(alter=바꾸다)" → 딱 5글자. alteration=변경이랑 같은 뿌리. alternative이랑 alter 공통!
+alternative;대안의/대체할 수 있는; 대안;alter(바꾸다)+native = 바꿔 선택할 수 있는 것 = 대안! alternatively=대안으로이랑 같은 뿌리!;alter+native! al-ter-na-tive → "올터너티브(alter=바꾸다)" + native. 딱 4음절. alternatively=대안으로이랑 같은 뿌리. alter이랑 alter 공통!
+alien;외국의/이질적인/외계의; 외국인/이방인/외계인;ali(다른)+en = 다른 존재 = 외국의/외계의! alienate=멀리하다이랑 같은 뿌리!;ali+en! a-li-en → "에일리언(ali=다른)" + en. 딱 3음절. alienate=멀리하다이랑 같은 뿌리. alter이랑 al 공통 뿌리!
+describe;묘사하다/기술하다/(말로) 설명하다;de(완전히)+scribe(쓰다) = 완전히 쓰다 = 묘사하다/기술하다! description=묘사이랑 같은 뿌리!;de+scribe! de-scribe → "디스크라이브(scribe=쓰다)" 앞에 de. 딱 2음절. description=묘사이랑 같은 뿌리. prescribe이랑 scribe 공통!
+prescribe;처방하다/규정하다;pre(미리)+scribe(쓰다) = 미리 쓰다 = 처방하다! prescription=처방이랑 같은 뿌리!;pre+scribe! pre-scribe → "프리스크라이브(scribe=쓰다)" 앞에 pre. 딱 2음절. prescription=처방이랑 같은 뿌리. describe이랑 scribe 공통!
+subscribe;구독하다/서약하다/기부하다;sub(아래에)+scribe(쓰다) = 아래에 쓰다 = 서명하다/구독하다! subscription=구독이랑 같은 뿌리!;sub+scribe! sub-scribe → "섭스크라이브(scribe=쓰다)" 앞에 sub. 딱 2음절. subscription=구독이랑 같은 뿌리. describe이랑 scribe 공통!

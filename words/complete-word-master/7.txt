@@ -1,0 +1,30 @@
+characteristic;특징/특성;character(성격)+istic = 성격을 나타내는 = 특징!;character 알면 +istic만! char-ac-ter-is-tic
+norm;표준/기준;노름! normal(정상)의 뿌리 = 표준!;n-o-r-m. 딱 4글자! "노(no)+름(rm)" → normal에서 al 빼기
+criterion;기준/척도;crit(판단)+erion = 판단하는 기준!;cri-te-ri-on → "크라이(cri)+테리온(terion)" → 복수형은 criteria
+reproduction;생식/번식/재생;re(다시)+produce(만들다)+ion = 다시 만들어내다 = 번식!;reproduce에서 e→ion! re-pro-duc-tion
+architectural;건축의;architect(건축가)+ural = 건축가와 관련된!;architect 알면 +ural만! ar-chi-tec-tur-al
+axis;축/중심선;액시스! 지구의 축(axis) = 중심선!;ax-is → "액(ax)+시스(is)" → 딱 2음절
+navigate;항해하다/해치고나아가다/조종하다;nav(배)+igate = 배로 나아가다 = 항해!;nav+igate! nav-i-gate → "내브(nav=배)" + igate
+steer;조종하다/키를 잡다/돌리다;스티어! steering wheel(핸들)의 동사 = 조종하다!;s-t-e-e-r. "스티(ste)+어(er)" → ee 두 개! steering에서 ing 빼기
+neural;신경의;neur(신경)+al = 신경과 관련된!;neur+al! neu-ral → "뉴어(neur=신경)" + al. 뉴런(neuron)이랑 뿌리 같음
+fragile;깨지기 쉬운/취약한;frag(부수다)+ile = 부서지기 쉬운!;frag+ile! frag-ile → "프래그(frag=부수다)" + ile. delicate랑 비슷한 뜻
+delicate;부서지기 쉬운/연약한/섬세한;delic(섬세한)+ate = 섬세하고 연약한!;delic+ate! del-i-cate → "델리(deli=섬세)" + cate. fragile이랑 비슷한 뜻
+sweeper;청소부/청소기;sweep(쓸다)+er = 쓸어내는 사람/기계!;sweep 알면 +er만! sweep-er → "스윕(sweep=쓸다)" + er
+decay;부패/부식;de(아래로)+cay = 아래로 무너지다 = 부패!;de+cay! de-cay → "케이(cay)" 앞에 de. 딱 2음절
+thorn;가시/가시나무/고통을 주는 것;손! 가시(thorn)에 찔리면 아파! th는 "ㅅ" 발음!;t-h-o-r-n. "소(tho)+언(rn)" → th는 s 발음. 5글자
+encompass;포함하다/망라하다/둘러싸다;en(안에)+compass(나침반) = 나침반처럼 둘러싸다!;compass 앞에 en! en-com-pass → "컴퍼스(compass)" 앞에 en
+testimony;증거/유언;testify(증언)+mony = 증언하는 것 = 증거!;testify에서 fy→mony! tes-ti-mo-ny → "테스티(testi)" + mony
+destination;목적지/도착지;destin(정해진)+ation = 정해진 곳 = 목적지!;destin+ation! des-ti-na-tion → "데스틴(destin)" + ation. destiny랑 뿌리 같음
+destiny;운명/숙명;destin(정해진)+y = 정해진 것 = 운명!;destin+y! des-ti-ny → "데스틴(destin)" + y. destination이랑 뿌리 같음
+embrace;감싸다/껴안다;em(안으로)+brace(팔) = 팔로 감싸다!;em+brace! em-brace → "브레이스(brace=팔)" 앞에 em
+counteract;대응하다/방지하다;counter(반대)+act(행동) = 반대로 행동하다 = 대응!;counter+act! coun-ter-act → "카운터(counter=반대)" + act
+counterpart;상응자/대응자;counter(반대)+part(부분) = 반대편의 상대!;counter+part! coun-ter-part → "카운터(counter=반대)" + part. counteract랑 counter 같음
+dispense;분배하다/나누어주다;dis(나누어)+pense(달다) = 달아서 나누어주다!;dis+pense! dis-pense → "펜스(pense=달다)" 앞에 dis
+disperse;분산시키다/흩어지다;dis(나누어)+perse(퍼지다) = 나누어 퍼지다 = 분산!;dis+perse! dis-perse → "퍼스(perse=퍼지다)" 앞에 dis. dispense랑 dis 같음
+degree;정도/등급/학위;디그리! 온도 degrees = 정도. 대학 degree = 학위!;de-gree → "디(de)+그리(gree)" → ee 두 개! 딱 2음절
+pay off;결실을 맺다/성공하다;pay(지불)+off = 지불이 끝나다 = 결실을 맺다!;off 하나만! pay [off] → "오프(off=끝)" 기억
+discourage ~ from ~ing;단념시키다/방해하다;dis(반대)+courage(용기) = 용기를 꺾다 = 단념!;courage 앞에 dis! dis-cour-age → "커리지(courage=용기)" 앞에 dis
+be concerned about;신경쓰다/걱정하다;concerned(걱정된)+about = ~에 대해 걱정하다!;concerned 하나만! be [concerned] about → "컨선드(concerned=걱정)" 기억
+come to an end;끝나다/종결되다;end(끝)에 도달하다 = 끝나다!;end 하나만! come to an [end] → "엔드(end=끝)" 기억
+leap to a conclusion;속단하다/성급한 결론을 내리다;leap(뛰다)+conclusion = 결론으로 뛰어들다 = 속단!;conclusion 하나만! leap to a [conclusion] → "컨클루전(conclusion=결론)" 기억
+engage with;관계를 맺다/관여하다;en+gage(참여)+with = ~와 참여하다 = 관여!;gage 앞에 en! en-gage → "게이지(gage=참여)" 앞에 en

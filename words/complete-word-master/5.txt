@@ -1,0 +1,30 @@
+bias;편견/선입견;바이어스! 한쪽으로 기울어진(bias) 편견!;b-i-a-s. 딱 4글자! "바이(bi)+어스(as)"
+atmosphere;대기/공기/분위기;atmo(증기)+sphere(구) = 지구를 감싼 증기 = 대기!;atmo+sphere! at-mo-sphere → "애트모(atmo)" + sphere
+identical;동일한/똑같은;ident(같은)+ical = 완전히 같은!;ident+ical! i-den-ti-cal → "아이덴트(ident=같은)" + ical
+distinct;뚜렷히 다른/별개의;di(따로)+stinct(찌르다) = 따로 구분한 = 뚜렷히 다른!;dis+tinct! dis-tinct → "팅트(tinct=찌르다)" 앞에 dis
+ritual;의식/제식;rite(의식)+ual = 의식과 관련된!;rit+ual! rit-u-al → "리트(rit=의식)" + ual
+mindset;사고방식/태도;mind(생각)+set(틀) = 생각의 틀 = 사고방식!;mind+set! "마인드(mind=생각)" + set
+impair;손상시키다/해치다;im(아닌)+pair(짝) = 짝을 못 맞추게 = 손상!;pair 앞에 im! im-pair → "페어(pair=짝)" 앞에 im
+undermine;기반을 악화시키다/손상시키다;under(아래)+mine(파다) = 아래를 파서 무너뜨리다!;mine 앞에 under! un-der-mine → "마인(mine=파다)" 앞에 under
+scratch;긁다/할퀴다;스크래치! 긁힌 자국(scratch) 그대로!;s-c-r-a-t-c-h. "스크래(scra)+치(tch)" → 7글자
+ape;유인원/흉내내다;에이프! 유인원(ape)이 사람을 흉내내다!;a-p-e. 딱 3글자! "에이(a)+프(pe)"
+stalk;줄기/몰래접근하다/스토킹하다;스토킹(stalking)의 동사 stalk = 몰래 접근!;stalking에서 ing 빼기! s-t-a-l-k → "스토(sta)+크(lk)"
+sprint;전력질주하다/전력 질주;스프린트! 육상 단거리 sprint = 전력질주!;s-p-r-i-n-t. "스프린(sprin)+트(t)" → 6글자
+maximization;극대화;maximize(극대화)+ation = 극대화하는 것!;maximize에서 e→ation! max-i-mi-za-tion
+tease;놀리다/골리다/괴롭히다;티즈! 놀리다(tease) = 장난스럽게 괴롭히다!;t-e-a-s-e. "티(te)+즈(ase)" → ea 조합. 5글자
+rejoice;크게 기뻐하다/축하하다;re(다시)+joice(기쁨) = 기쁨이 다시 솟구치다!;re+joice! re-joice → "조이스(joice=기쁨)" 앞에 re
+mourn;슬퍼하다/애도하다;마운! 슬픔에 잠겨 애도하다(mourn). rejoice 반대!;m-o-u-r-n. "모(mo)+언(urn)" → 5글자. rejoice(기쁨)랑 반대
+appliance;기기/전자제품;apply(적용)+ance = 적용하는 기기 = 전자제품!;apply에서 y→iance! ap-pli-ance → compliance랑 비슷
+compliance;준수/따름;comply(따르다)+ance = 따르는 것 = 준수!;comply에서 y→iance! com-pli-ance → appliance랑 끝이 같음
+deem;여기다/생각하다;딤! "~라고 deem하다" = ~라고 여기다!;d-e-e-m. 딱 4글자! "디(de)+엠(em)" → ee 두 개. doom이랑 달라
+doom;운명/파멸;둠! 게임 "DOOM"처럼 파멸/운명!;d-o-o-m. 딱 4글자! "두(do)+움(om)" → oo 두 개. deem이랑 달라
+deviation;벗어남/일탈;deviate(벗어나다)+ion = 벗어나는 것 = 일탈!;deviate에서 e→ion! de-vi-a-tion
+distress;고통/괴로움;dis+stress(압박) = 스트레스로 고통받다!;stress 앞에 dis! dis-tress → "스트레스(stress)" 앞에 dis
+distrust;불신/의혹;dis+trust(신뢰) = 신뢰의 반대 = 불신!;trust 앞에 dis! dis-trust → "트러스트(trust=신뢰)" 앞에 dis. distress랑 t 다음이 달라
+minute;미세한/아주작은/분/순간;분(minute 미닛)이기도 하고 미세한(minute 마이뉴트)이기도 해!;min-ute → 발음 주의! 분=미닛 미세한=마이뉴트 같은 스펠링
+take over;이어받다/인계받다;over(위로) 넘겨받다 = 인계!;over 하나만! take [over] → "오버(over=넘겨)" 기억
+cast one's eye on;눈길을 주다/바라보다;cast(던지다)+eye = 눈을 던지다 = 눈길을 주다!;eye 하나만! cast one's [eye] on → "아이(eye=눈)" 기억
+put up with;참다/견디다;up(위로) 들어 버티다 = 참다!;up 하나만! put [up] with → "업(up=위로 들어)" 기억
+come down with;(병에) 걸리다;down(아래로) 쓰러지다 = 병에 걸리다!;down 하나만! come [down] with → "다운(down=아래로)" 기억
+last but not least;마지막으로;last이지만 least(덜하지 않게) = 마지막이지만 중요한!;least 하나만! last but not [least] → "리스트(least=덜하지않게)" 기억
+dwell on;곰곰히 생각하다/자세히 설명하다;dwell(머무르다)+on = ~에 머무르다 = 곰곰히 생각하다!;dwell+on! "드웰(dwell=머무르다)" + on

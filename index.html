@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>단어 암기장</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="confetti-container"></div>
+
+  <header>
+    <div class="header-inner">
+      <a href="/" class="ctrl-btn home-btn">← 목록</a>
+      <h1 class="logo">📖 단어 암기장</h1>
+      <div class="controls">
+        <div class="mode-toggle">
+          <button id="btn-en-ko" class="mode-btn active" data-mode="en-ko">영어 → 한국어</button>
+          <button id="btn-ko-en" class="mode-btn" data-mode="ko-en">한국어 → 영어</button>
+        </div>
+        <div class="order-controls">
+          <button id="btn-order" class="ctrl-btn active-order">순서대로</button>
+          <button id="btn-random" class="ctrl-btn">🔀 랜덤</button>
+        </div>
+        <a href="/editor" class="ctrl-btn">✏️ 단어 편집</a>
+        <a id="btn-song" class="ctrl-btn song-link hidden" target="_blank" rel="noopener">🎵 암기송</a>
+        <button id="btn-wrong-review" class="ctrl-btn wrong-review-btn" disabled>
+          오답 복습 <span id="wrong-count-badge" class="wrong-badge">0</span>
+        </button>
+      </div>
+    </div>
+    <div class="game-bar">
+      <div class="game-stat" id="streak-stat">
+        <span class="stat-icon">🔥</span>
+        <span class="stat-val" id="streak-count">0</span>
+        <span>연속</span>
+      </div>
+      <div class="xp-bar-wrap">
+        <span class="xp-label" id="xp-label">0 XP</span>
+        <div class="xp-bar-track">
+          <div id="xp-bar-fill" class="xp-bar-fill" style="width:0%"></div>
+        </div>
+      </div>
+      <div class="game-stat level-stat">
+        Lv.<span class="stat-val" id="level-count">1</span>
+      </div>
+    </div>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar-track">
+        <div id="progress-bar" class="progress-bar-fill"></div>
+      </div>
+      <span id="progress-label" class="progress-label">0 / 0</span>
+    </div>
+  </header>
+
+  <main>
+    <div id="wrong-mode-banner" class="wrong-mode-banner hidden">
+      <span>🔁 오답 복습 모드 — 틀린 단어만 보고 있어요</span>
+      <button id="btn-exit-wrong" class="exit-wrong-btn">전체 목록으로 돌아가기</button>
+    </div>
+
+    <div class="pagination-bar">
+      <button id="btn-prev" class="page-btn">← 이전</button>
+      <div class="page-info">
+        <span id="page-indicator">1 / 1</span>
+        <span id="page-range" class="page-range"></span>
+      </div>
+      <button id="btn-next" class="page-btn">다음 →</button>
+    </div>
+    <div class="reveal-all-bar">
+      <button id="btn-reveal-all" class="reveal-all-btn">👁 이 페이지 전체 정답 보기</button>
+    </div>
+
+    <div id="word-list"></div>
+
+    <div class="pagination-bar bottom">
+      <button id="btn-prev-b" class="page-btn">← 이전</button>
+      <div class="page-info">
+        <span id="page-indicator-b"></span>
+        <span id="page-range-b" class="page-range"></span>
+      </div>
+      <button id="btn-next-b" class="page-btn">다음 →</button>
+    </div>
+
+    <div id="completion-banner" class="completion-banner hidden">
+      <div class="completion-inner">
+        <div class="completion-emoji">🎉</div>
+        <h2>전부 맞혔어요!</h2>
+        <p id="completion-score"></p>
+        <div class="completion-actions">
+          <button id="btn-retry-wrong" class="action-btn secondary hidden">틀린 것만 다시</button>
+          <button id="btn-retry-all" class="action-btn primary">처음부터 다시</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

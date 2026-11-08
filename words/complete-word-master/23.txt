@@ -1,0 +1,31 @@
+# 포맷: 영어;한국어;en_tip(영→한);ko_tip(한→영)
+trample;짓밟다/밟아뭉개다/짓밟음;트램펄린(trampoline) 앞부분 — 트램펄린 위를 밟고 뛰는 이미지;tr+ampl+e 구조. 트램펄린 떠올리면 스펠링 유추 가능
+breathe;숨을쉬다/호흡하다;breath(명사)에 e 붙이면 동사 — 숨 내쉴 때 "브리드" 소리;마지막 e 잊지 말기 — breath(명사) + e = breathe(동사)
+integrate;통합되다;수학 인테그랄(integral) — 여러 조각을 하나로 합치는 것;integral(적분) 기억하면 -grate 어미로 스펠링 유추
+molecule;분자;모래알갱이처럼 아주 작은 단위 — "모래큘";화학 mol 단위로 시작 → mol+ecule. mole처럼 읽다가 -cule 추가
+equip;갖추게하다/장비하다;equipment(장비)와 같은 어근 — 장비를 갖추다;equipment에서 -ment 빼면 equip. 짧은 5글자
+immigration;이민/이주/이민자;i(나) + migration(이동) — 내가 나라를 옮겨가는 것;emigration(출국이민) vs immigration(입국이민) — im(안으로) 들어오는 이민
+tame;길들여진/순한/길들이다;테임즈강 백조 — 사람 손에 길들여진 동물;짧은 4글자 t-a-m-e. 테임즈강 연상하면 스펠링도 자연스럽게
+domesticate;길들이다/가축화하다/재배하다;domestic(가정의) + ate — 집에서 키울 수 있게 만들다;domestic(이미 아는 단어) + ate만 붙이면 완성
+overall;전체의/종합적인/전체적으로/종합적으로;over(위) + all(모두) — 위에서 전부 내려다보면 전체;over + all 그냥 붙인 합성어 — 직관적으로 스펠링 가능
+catastrophic;대이변의/대재앙의/파멸적인;재난 영화 "카타스트로피" — cata(아래로 무너지는) 느낌;catastrophe(재앙) + ic → catastrophic. ph 스펠링 주의
+devastating;파괴적인/황폐시키는;de(완전히) + vast(광대한) — 광대하게 싹 쓸어버리는;devastate + ing. d-e-v-a-s-t-a-t-e-i-n-g — vast(광대한) 덩어리를 중심으로
+alley;골목길/오솔길;앨리(Ally)라는 좁은 이름처럼 — 좁은 골목;bowling alley(볼링 레인)도 alley — 좁고 긴 통로. a-l-l-e-y, l이 두 개
+indefinite;한계가없는/무기한의/분명하지않은;in(부정) + definite(명확한) — 명확하지 않은;definite(명확한) 알면 in만 붙이기. -ite 어미 주의
+accordance;일치/부합/수여/인가;accord(협약·일치) + ance — in accordance with(~에 따라)로 통째로;accord(협약) + ance. "in accordance with" 숙어째로 외우면 스펠링도 자동
+obscure;모호한/분명하지않은/무명의/어두운/흐릿한;ob(앞을 막는) + scure(어두운) — 앞이 어두워서 안 보이는;ob + sc + ure — sc 연속 스펠링 주의. "ob-SCURE" 뒷부분 강조
+blur;흐림/흐릿한형체/흐리게하다/흐려지다;카메라 렌즈 흐릿한 시각적 이미지;짧은 4글자 b-l-u-r. blurry(흐릿한)의 어근으로도 기억
+consensus;일치/합의;한국어에서도 "컨센서스를 이루다"로 이미 쓰임;con(함께) + sens(느끼다) + us → 끝 -sus 두 번 쓰는 것 주의
+conscientious;양심적인/성실한;conscience(양심) + ious — 양심이 있는 사람;conscience(양심) + tious. sci 철자 가장 헷갈리는 부분 — "sci"언스처럼 읽음
+stack;더미/퇴적/많음/다량/쌓다;프로그래밍 스택(stack) 자료구조 — 위로 쌓이는 구조;프로그래밍 stack 그대로. s-t-a-c-k. stock과 a↔o 차이
+stock;재고/주식/가문/혈통/종족/비축하다;stock market(주식시장) — 재고는 "in stock(재고 있음)"으로;stock market 이미 아는 단어. stack과 a↔o 한 글자 차이 주의
+souvenir;기념품/선물;프랑스어 차용 — 여행지에서 "수집"하는 기념품;프랑스어 발음 "수브니르" → souvenir. ou 조합과 끝 -ir 스펠링 주의
+limb;팔/날개;림보(limbo) 댄스 — 몸을 젖힐 때 팔다리(limb)를 쓰는 동작;climb(오르다)에서 c 빼면 limb. 끝 b 묵음 주의
+limp;절뚝거리다/절뚝거림;림프절이 아프면 절뚝거리며 걸음 — limp에 p 있으면 동작;limb(팔다리) + p 하나 더 → limp(절뚝). p 유무로 두 단어 구분
+odd;이상한/특이한/홀수의;홀수는 짝이 없어서 이상한 — 이상한=홀수, 두 뜻이 연결됨;짧은 3글자 o-d-d. d가 두 개인데 홀수처럼 어색한 구조
+attend to;돌보다/주의를기울이다;attendant(승무원) — 승무원이 승객을 돌봄;attend(참석·주의) + to 붙이면 "돌보다"로 뜻이 변함. to 빠뜨리지 않기
+look out for;조심하다/주의하다;밖을(out) 내다보며(look) 위험을 조심하는 이미지;세 단어 구동사. look out(조심해!) + for(~를) 순서대로
+at variance with;상충하는/사이가안좋은;variance(차이·분산) — 차이가 있어 서로 상충;variance(차이) 핵심. at __ with 샌드위치 구조로 기억
+from one's point of view;관점에서보면;point of view = 시점·관점 — 어느 지점(point)에서 보느냐(view);POV(Point Of View) — 유튜브·영상에서 자주 보는 그 약자
+take the place of;대신하다;place(자리) — 누군가의 자리를 차지하다 = 대신하다;take + the place + of 세 덩어리. place(자리)가 핵심 단어
+read between the lines;행간을읽다/속뜻을읽다;줄(lines) 사이(between)를 읽다 — 쓰여있지 않은 속뜻;between the lines — 직역이 그대로 뜻. 단어 순서 외우기 쉬움

@@ -1,0 +1,30 @@
+merge;융합하다/합병하다;머지! 파일 합치기도 merge = 합병하다!;m-e-r-g-e. "머(me)+지(rge)" → 5글자. emerge에서 e 빼기
+separate;분리되다/떼어놓다;sep(따로)+arate = 따로 떼어놓다 = 분리!;sep+arate! sep-a-rate → "세프(sep=따로)" + arate. 3음절
+adolescent;청소년/젊은이;adoles(성장)+cent = 성장 중인 사람 = 청소년!;adoles+cent! a-do-les-cent → "어돌레스(adoles=성장)" + cent
+synthetic;합성한/인조의;syn(함께)+thetic(만들다) = 함께 만들어낸 = 합성!;syn+thetic! syn-thet-ic → "신(syn=함께)" + thetic
+flavor;맛/풍미/멋;플레이버! 맛(flavor) 그대로. 풍미 있는!;fla-vor → "플레(fla)+버(vor)" → 딱 2음절
+transit;운송/통과/횡단;trans(건너)+it = 건너가다 = 통과/운송!;trans+it! tran-sit → "트랜스(trans=건너)" + it. transition이랑 뿌리 같음
+variable;변하기 쉬운/변수;vary(변하다)+iable = 변하기 쉬운!;vary에서 y→iable! var-i-a-ble → "베리(vary=변하다)" 에서 y를 iable로
+spill;엎지르다/흘리다;스필! 음료를 spill = 엎지르다!;s-p-i-l-l. "스필(spi)+l" → ll 두 개! 딱 1음절
+vague;희미한/어렴풋한;베이그! 흐릿하게 보이다 = 어렴풋한!;v-a-g-u-e. "베이(va)+그(gue)" → gue는 g 발음. 5글자
+apparent;분명한/명백한;ap+parent(나타나다) = 나타난 = 분명한!;ap+parent! ap-par-ent → "패런트(parent=나타나다)" 앞에 ap. pp 두 개
+geometry;기하학;geo(땅)+metry(측정) = 땅을 측정하다 = 기하학!;geo+metry! ge-om-e-try → "지오(geo=땅)" + metry
+symbiotic;공생하는/공생의;sym(함께)+bio(생명)+tic = 함께 사는 = 공생!;sym+bio+tic! sym-bi-ot-ic → "심(sym=함께)" + "바이오(bio=생명)" + tic
+overflow;넘치다/범람하다;over(넘어)+flow(흐르다) = 넘어 흘러내리다 = 범람!;over+flow! o-ver-flow → "플로우(flow=흐르다)" 앞에 over
+botanical;식물학의;botan(식물)+ical = 식물과 관련된!;botan+ical! bo-tan-i-cal → "보탄(botan=식물)" + ical
+trim;다듬다/손질하다/잘라내다;트림! 깔끔하게(trim) 다듬다 = 손질하다!;t-r-i-m. 딱 4글자! "트(tr)+림(im)"
+hemisphere;반구/반구체;hemi(반)+sphere(구) = 반쪽 구 = 반구!;hemi+sphere! hem-i-sphere → "헤미(hemi=반)" + sphere
+consciousness;의식/자각;conscious(의식있는)+ness = 의식의 상태!;conscious 알면 +ness만! con-scious-ness → conscience랑 scio vs scie 차이
+conscience;양심/도의심;con(함께)+science(앎) = 함께 아는 것 = 양심!;con+science! con-science → "사이언스(science=앎)" 앞에 con. consciousness랑 헷갈리지 말기
+humiliation;굴욕/수치/창피주기;humili(낮추다)+ation = 낮추는 것 = 굴욕!;humiliate에서 e→ion! hu-mil-i-a-tion → humility랑 humil 같음
+humility;겸손/겸양;humil(낮추다)+ity = 스스로를 낮추는 것 = 겸손!;humil+ity! hu-mil-i-ty → "휴밀(humil=낮추다)" + ity. humiliation이랑 humil 같음
+externalize;외면화하다/객관화하다;extern(외부)+alize = 외부로 만들다 = 외면화!;external 알면 +ize만! ex-ter-nal-ize → "익스터널(external=외부)" + ize
+prosecute;기소하다/공소하다;pro(앞으로)+secute(따르다) = 법으로 따르다 = 기소!;pro+secute! pros-e-cute → "프로(pro=앞)" + secute. persecute랑 pro vs per 차이
+persecute;박해하다/괴롭히다;per(계속)+secute(따르다) = 계속 따라다니며 괴롭히다!;per+secute! per-se-cute → "퍼(per=계속)" + secute. prosecute랑 pro vs per 차이
+patient;참을성있는/끈기있는/병자/환자;pati(참다)+ent = 참는 사람 = 참을성 있는/환자!;pati+ent! pa-tient → "페이션(pati=참다)" + ent
+derive~from;얻다/끌어내다;de+rive(강)+from = 강에서 끌어오다 = 얻다!;derive+from! de-rive → "라이브(rive=강)" 앞에 de
+stem from;비롯되다/유래하다;stem(줄기)+from = 줄기에서 나오다 = 비롯되다!;stem+from! "스템(stem=줄기)" + from → 식물 줄기에서 자라나오는 것처럼
+equip~with;갖추게하다/제공하다;equip(갖추다)+with = ~을 갖추게 하다!;equip+with! e-quip → "이퀴프(equip=갖추다)" + with
+(all) of a sudden;갑자기/느닷없이;sudden(갑자기) = 갑자기!;sudden 하나만! of a [sudden] → "서든(sudden=갑자기)" 기억
+let go of;놓다/버리다/포기하다;let go(보내다)+of = ~을 보내다 = 놓다/포기!;go 하나만! let [go] of → "고(go=보내다)" 기억
+give way to;바뀌다/굽히다/항복하다;give way(길을 내주다)+to = ~에게 길을 내주다 = 굽히다!;way 하나만! give [way] to → "웨이(way=길)" 기억

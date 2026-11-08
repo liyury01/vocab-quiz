@@ -1,0 +1,30 @@
+acquire;얻다/습득하다;ac+quire(구하다) = 구해서 얻다 = 습득! acquisition=습득도 acqui!;ac+quire! ac-quire → "콰이어(quire=구하다)" 앞에 ac. acquisition=습득
+inhabitant;주민/거주자/서식동물;in(안에)+habit(살다)+ant = 안에 사는 사람 = 주민!;in+habit+ant! in-hab-i-tant → "해빗(habit=살다)" 앞에 in + ant. inhabit=거주하다
+dedicate;바치다/전념하다/헌신하다;de+dicate(선언하다) = 선언하여 바치다 = 헌신! dedicated=헌신적인!;de+dicate! ded-i-cate → "디케이트(dicate=선언)" 앞에 de. dedication=헌신
+therapist;치료전문가/치료사;therapy(치료)+ist = 치료하는 사람 = 치료사!;therapy에서 y→ist! ther-a-pist → "테라피(therapy=치료)" 에서 y를 ist로
+envelope;봉투/싸는 것;en+velop(싸다)+e = 싸는 것 = 봉투! envelop=감싸다이고 envelope=봉투!;en+velop+e! en-ve-lope → "벨롭(velop=싸다)" 앞에 en + e. 끝에 e 하나 더!
+envision;마음에 그리다/상상하다;en+vision(시각) = 눈 안에 그리다 = 상상! visualize랑 같은 뜻!;en+vision! en-vi-sion → "비전(vision=시각)" 앞에 en. visualize랑 같은 뜻
+visualize;마음에그리다/상상하다/시각화하다;visual(시각의)+ize = 시각으로 만들다 = 상상! envision이랑 같은 뜻!;visual+ize! vi-su-al-ize → "비주얼(visual=시각)" + ize. envision이랑 같은 뜻
+capital;자본/자산/수도/대문자;캐피털! 나라의 수도(capital), 돈(capital), 대문자(Capital) 모두 capital!;cap-i-tal → "캐피(capi=머리)" + tal. 3음절. 수도/자본/대문자 세 가지!
+alignment;일직선/정돈/정렬;align(일직선)+ment = 줄을 맞춘 것 = 정렬! disorder 반대!;align+ment! a-lign-ment → "얼라인(align=줄맞추다)" + ment. gn 묵음! disorder 반대
+disorder;어수선함/무질서/장애;dis(반대)+order(순서) = 순서가 없는 것 = 무질서! alignment 반대!;dis+order! dis-or-der → "오더(order=순서)" 앞에 dis. alignment 반대
+regime;정권/체제/제도;레짐! 정권(regime) = 나라를 지배하는 체제! gi=지 발음!;re-gime → "레(re)+짐(gime)" → g=지 발음! 딱 2음절. 독재 regime=독재 정권
+impend;임박하다/절박하다;im(위에)+pend(매달리다) = 위에 매달려 곧 떨어질 것 같다 = 임박!;im+pend! im-pend → "펜드(pend=매달리다)" 앞에 im. impending=임박한
+abuse;악용하다/남용하다/학대하다/악용/남용/학대;ab(벗어난)+use(사용) = 올바른 사용에서 벗어나다 = 남용/학대!;ab+use! a-buse → "유즈(use=사용)" 앞에 ab. 잘못된 use=남용
+exemplify;예증하다/예시하다/좋은 예가 되다;example(예)+ify = 예로 만들다 = 예시! example에서 e→ify!;ex+emplify! ex-em-pli-fy → "엠플리(emplify=예)" 앞에 ex. example이랑 ex 같음
+oblige;의무를 지우다/강요하다;ob+lige(묶다) = 묶어 의무를 지우다 = 강요! compel이랑 비슷!;ob+lige! o-blige → "블리지(blige=묶다)" 앞에 ob. compel이랑 비슷한 뜻
+compel;강요하다/강제하다/억지로 시키다;com(함께)+pel(밀다) = 함께 밀어붙이다 = 강요! oblige이랑 비슷!;com+pel! com-pel → "펠(pel=밀다)" 앞에 com. oblige이랑 비슷한 뜻
+landfill;(쓰레기)매립지/매립;land(땅)+fill(채우다) = 땅을 채우다 = 매립! 그대로 외워!;land+fill! "랜드(land=땅)" + fill(채우다) → 땅을 채우는 곳=매립지
+flash;번쩍임/섬광/번쩍이다;플래시! 카메라 플래시(flash) = 번쩍! flush, flesh랑 헷갈리지 말기!;f-l-a-s-h. "플래(fla)+시(sh)" → a! flush이랑 a vs u, flesh이랑 a vs e
+flush;붉어지다/상기되다/(물이)쏟아져나오다;플러시! 물이 왁 쏟아지다(flush) = 변기 물 내리기! flash, flesh이랑 헷갈리지 말기!;f-l-u-s-h. "플러(flu)+시(sh)" → u! flash이랑 u vs a, flesh이랑 u vs e
+flesh;살/고기/육체;플레시! 살(flesh) = 육체! flash, flush랑 헷갈리지 말기!;f-l-e-s-h. "플레(fle)+시(sh)" → e! flash이랑 e vs a, flush이랑 e vs u
+optical;눈의/시각의/광학의;optic(눈)+al = 눈과 관련된 = 시각의! optimal, optimistic이랑 opti 공통!;optic+al! op-ti-cal → "옵틱(optic=눈)" + al. optimal이랑 opti 같고 cal vs mal
+optimal;최선의/최적의;optim(최선)+al = 가장 좋은 = 최적의! optical, optimistic이랑 opti 공통!;optim+al! op-ti-mal → "옵팀(optim=최선)" + al. optical이랑 opti 같고 mal vs cal
+optimistic;낙관적인/낙관하는;optim(최선)+istic = 최선이 올 거라 보는 = 낙관적! optical, optimal이랑 opti 공통!;optim+istic! op-ti-mis-tic → "옵팀(optim=최선)" + istic. optimal이랑 optim 같고 istic 더 있음
+draft;원고/초안/밑그림;드래프트! NBA 드래프트(draft) = 초안처럼 뽑는 것 = 원고/초안!;d-r-a-f-t. "드래(dra)+프트(ft)" → 딱 5글자. NBA draft=선발=원고처럼 초기 선택
+at all cost;어떤 대가를 치르더라도;cost(대가) = 어떤 대가(cost)를 치르더라도!;cost 하나만! at all [cost] → "코스트(cost=대가)" 기억
+little more than;불과한/지나지않은;little more than(조금 더) = 그것보다 조금 더일 뿐 = 불과한!;more 하나만! little [more] than → "모어(more=더)" 기억. no more than이랑 비슷
+at the sight of;~을 보고/보자마자;sight(시야)+of = 시야에 들어오자마자!;sight 하나만! at the [sight] of → "사이트(sight=시야)" 기억
+be armed with;무장하다/갖추고 있다;armed(무장된)+with = ~로 무장되다!;armed 하나만! be [armed] with → "암드(armed=무장된)" 기억
+split up;분리하다/헤어지다;split(쪼개다)+up = 위로 쪼개다 = 분리! 커플이 split up=헤어지다!;up 하나만! split [up] → "업(up=위로쪼개다)" 기억. 커플 split up=헤어짐
+make out;이해하다/작성하다;make(만들다)+out = 밖으로 만들어내다 = 이해/작성!;out 하나만! make [out] → "아웃(out=밖으로)" 기억. 뜻을 끄집어내다=이해

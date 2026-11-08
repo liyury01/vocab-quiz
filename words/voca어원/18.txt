@@ -1,0 +1,25 @@
+pose;(이의,문제,위험 등을) 제기하다/야기하다/포즈를 취하다;pos(놓다)+e = 놓다 = 제기하다/자세! impose/oppose이랑 pos 공통!;p-o-s-e. "포즈(pose)" → 딱 4글자. impose/oppose이랑 pose 같음
+position;위치/자리/자세/입장/처지/일자리/직위;pos(놓다)+ition = 놓여진 것 = 위치/직위! positive이랑 pos 공통!;pos+ition! po-si-tion → "포지션(pos=놓다)" + ition. 딱 3음절. positive이랑 pos 같음
+positive;긍정적인/적극적인/분명한/확실한/확신하는/양성의;pos(놓다)+itive = 놓여 있는 상태 = 긍정적인! negative 반대!;pos+itive! pos-i-tive → "포지(pos=놓다)" + itive. 딱 3음절. negative 반대
+post;우편(물)/직책/기둥/게시글/포스트;post(뒤/우편/기둥) = 여러 뜻의 post! postpone이랑 post 공통!;p-o-s-t. "포스트(post)" → 딱 4글자. postpone이랑 post 같음
+deposit;계약금/예약금/보증금/(은행) 예금/퇴적물/침전물;de(아래)+pos(놓다)+it = 아래에 놓다 = 예금/퇴적물!;de+pos+it! de-pos-it → "포짓(pos=놓다)" 앞에 de. 딱 3음절. deposit=예금
+impose;(의무,세금,벌 등을) 부과하다/강요하다;im(위에)+pose(놓다) = 위에 얹어놓다 = 부과/강요! imposition=부과!;im+pose! im-pose → "포즈(pose=놓다)" 앞에 im. 딱 2음절. imposition=부과
+purpose;목적/의도/의향;pur(앞으로)+pose(놓다) = 앞에 놓은 것 = 목적! on purpose=고의로!;pur+pose! pur-pose → "포즈(pose=놓다)" 앞에 pur. 딱 2음절. on purpose=고의로
+oppose;...에 반대하다/저항하다/대립하다;op(반대)+pose(놓다) = 반대에 놓다 = 반대! opposition=반대!;op+pose! op-pose → "포즈(pose=놓다)" 앞에 op. 딱 2음절. opposition=반대. pp 두 개!
+suppose;추측하다/생각하다/가정하다/상상하다;sup(아래)+pose(놓다) = 아래에 놓다 = 가정하다! supposedly=추정상!;sup+pose! sup-pose → "포즈(pose=놓다)" 앞에 sup. 딱 2음절. supposedly=추정상
+postpone;연기하다/뒤로 미루다;post(뒤)+pone(놓다) = 뒤에 놓다 = 연기! delay이랑 같은 뜻!;post+pone! post-pone → "포운(pone=놓다)" 앞에 post. 딱 2음절. delay이랑 같은 뜻
+component;구성 요소/성분;com(함께)+pon(놓다)+ent = 함께 놓인 것 = 구성 요소!;com+pon+ent! com-po-nent → "포넌트(pon=놓다)" 앞에 com. 딱 3음절
+opponent;(경쟁,논쟁 등의) 상대/적/반대자;op(반대)+pon(놓다)+ent = 반대에 놓인 사람 = 상대/반대자!;op+pon+ent! op-po-nent → "포넌트(pon=놓다)" 앞에 op. 딱 3음절. pp 두 개!
+compound;혼합하다/합성하다/(좋지 않은 일을) 악화시키다;com(함께)+pound(놓다) = 함께 놓다 = 혼합/악화! compound word=합성어!;com+pound! com-pound → "파운드(pound=놓다)" 앞에 com. 딱 2음절. compound word=합성어
+habit;(몸에 밴) 습관/버릇;hab(살다/가지다)+it = 몸에 가진 것 = 습관! inhabit/habitat이랑 hab 공통!;hab+it! hab-it → "해빗(hab=가지다)" + it. 딱 2음절. inhabit이랑 hab 같음
+inhabit;(...에) 살다/서식하다/거주하다;in(안에)+habit(살다) = 안에 살다 = 거주! inhabitant=주민!;in+habit! in-hab-it → "해빗(habit=살다)" 앞에 in. 딱 3음절. inhabitant=주민
+habitat;(동식물의) 서식지/번식지/거주지;habit(살다)+at = 사는 곳 = 서식지! inhabit이랑 habit 공통!;habit+at! hab-i-tat → "해빗(habit=살다)" + at. 딱 3음절. inhabit이랑 habit 같음
+exhibit;전시하다/진열하다/보이다/드러내다;ex(밖으로)+hibit(가지다) = 밖으로 꺼내 보이다 = 전시! exhibition=전시회!;ex+hibit! ex-hib-it → "히빗(hibit=가지다)" 앞에 ex. 딱 3음절. exhibition=전시회
+prohibit;(법,규칙 등으로) 금지하다/제지하다;pro(앞에)+hibit(가지다) = 앞에서 막다 = 금지! prohibition=금지!;pro+hibit! pro-hib-it → "히빗(hibit=가지다)" 앞에 pro. 딱 3음절. prohibition=금지
+inhibit;억제하다/못하게 막다;in(안으로)+hibit(가지다) = 안으로 막다 = 억제! inhibition=억제!;in+hibit! in-hib-it → "히빗(hibit=가지다)" 앞에 in. 딱 3음절. inhibition=억제
+behave;(어떤 방식으로) 행동하다/예의 바르게 행동하다;be(되다)+have(가지다) = 가진 것으로 행동하다 = 행동! behavior=행동!;be+have! be-have → "헤이브(have=가지다)" 앞에 be. 딱 2음절. behavior=행동
+value;가치/유용성/중요성;val(가치)+ue = 가치 있는 것 = 가치! evaluate이랑 val 공통!;val+ue! val-ue → "밸류(val=가치)" + ue. 딱 2음절. evaluate이랑 val 같음
+evaluate;(가치,수량 등을) 평가하다/감정하다/견적을 내다;e+val(가치)+uate = 가치를 매기다 = 평가! evaluation=평가!;e+val+uate! e-val-u-ate → "밸류(val=가치)" 앞에 e + uate. 딱 4음절. evaluation=평가
+valid;(표,문서,계약 등이) 유효한/타당한/논리적인;val(가치/강한)+id = 가치 있는 = 유효한/타당한! invalid=무효의 반대!;val+id! val-id → "밸리(val=가치)" + id. 딱 2음절. invalid=무효의. validity=유효성
+available;이용할 수 있는/쓸모 있는/입수할 수 있는/(사람을 만날) 시간이 있는;a+vail(가치)+able = 가치를 쓸 수 있는 = 이용 가능한! unavailable 반대!;a+vail+able! a-vail-a-ble → "베일(vail=가치)" 앞에 a + able. 딱 4음절. unavailable 반대
+prevail;(생각,관습,현상 등이) 만연하다/유행하다/우세하다/이기다;pre(앞에)+vail(가치/강한) = 앞서서 강하다 = 우세하다/만연하다! prevalent=만연한!;pre+vail! pre-vail → "베일(vail=가치/강한)" 앞에 pre. 딱 2음절. prevalent=만연한이랑 같은 뿌리

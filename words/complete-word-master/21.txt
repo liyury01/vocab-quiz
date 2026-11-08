@@ -1,0 +1,30 @@
+genetic;유전의;gene(유전자)+tic = 유전자와 관련된 = 유전의! DNA, gene에서 바로!;gene+tic! ge-net-ic → "진(gene=유전자)" + tic. genetics=유전학
+minimize;최소화하다/과소평가하다;mini(작은)+mize = 작게 만들다 = 최소화! maximize 반대!;mini+mize! min-i-mize → "미니(mini=작은)" + mize. maximize 반대
+coordinate;조정하다/조직화하다/동격의/동등한;co(함께)+ordinate(순서) = 함께 순서 맞추다 = 조정! arrange랑 비슷한 뜻!;co+ordinate! co-or-di-nate → "오디네이트(ordinate=순서)" 앞에 co
+arrange;정리하다/배열하다/조정하다;ar+range(줄) = 줄을 맞추다 = 배열! coordinate랑 비슷한 뜻!;ar+range! ar-range → "레인지(range=줄)" 앞에 ar. rr 두 개! arrangement=배열
+amplify;증폭시키다/확대하다;ampli(크게)+fy = 크게 만들다 = 증폭! minimize 반대!;ampli+fy! am-pli-fy → "앰플리(ampli=크게)" + fy. amplifier=증폭기
+bud;싹을 틔우다/발아하다/싹;버드! 봄에 나오는 새싹(bud) = 꽃봉오리!;b-u-d. "버(bu)+드(d)" → 딱 3글자. flower bud=꽃봉오리
+intuition;직관/직감;in(안으로)+tuit(보다)+ion = 안으로 보다 = 직관! 느낌으로 아는 것!;in+tuit+ion! in-tu-i-tion → "튜이트(tuit=보다)" 앞에 in + ion. intuitive=직관적인
+dominance;지배/권세/우세;dominant(지배하는)+ce = 지배하는 상태 = 우세!;dominant에서 →ce! dom-i-nance → "도미넌트(dominant=지배)" 에서 t를 ce로. dominate=지배하다
+empirical;경험적인/실증적인;empir(경험)+ical = 경험에 기반한 = 실증적! intuition 반대 개념!;empir+ical! em-pir-i-cal → "엠피리(empir=경험)" + ical. empiricism=경험주의
+cue;신호/단서;큐! 당구 큐대(cue)처럼 방향을 알려주는 것 = 신호!;c-u-e. "큐(cue)" → 딱 3글자. 당구 큐=방향 신호
+obesity;비만/비대;obese(비만한)+ity = 비만한 상태! obese 알면 끝!;obese에서 e→ity! o-be-si-ty → "오비스(obese=비만한)" 에서 e를 ity로
+rationalist;이성주의자/합리주의자;rational(이성적인)+ist = 이성으로 생각하는 사람!;rational+ist! ra-tion-al-ist → "래셔널(rational=이성적인)" + ist
+estimation;판단/평가/의견;estimate(추정)+ion = 추정하는 것! assessment이랑 비슷한 뜻!;estimate에서 e→ion! es-ti-ma-tion → "에스티메이트(estimate=추정)" 에서 e를 ion으로
+assessment;평가/평가액;assess(평가하다)+ment = 평가하는 것! estimation이랑 비슷한 뜻!;assess+ment! as-sess-ment → "어세스(assess=평가)" + ment. ss 두 번! estimation이랑 비슷
+agenda;의제/안건;agen(해야 할)+da = 해야 할 것들 = 안건! 회의 agenda 그대로!;agen+da! a-gen-da → "에이전(agen=할 것)" + da. 회의 아젠다=안건 목록
+immature;미숙한/미완성의/미성년;im(아닌)+mature(성숙한) = 성숙하지 않은 = 미숙한! mature 반대!;im+mature! im-ma-ture → "머처(mature=성숙한)" 앞에 im. mm 두 개! mature 반대
+subsequent;그후의/뒤이은/연속되는;sub(뒤에)+sequent(따르는) = 뒤따르는 = 그 후의! consequent이랑 sequent 공통!;sub+sequent! sub-se-quent → "시퀀트(sequent=따르다)" 앞에 sub. consequent이랑 sequent 같고 sub vs con
+consequent;결과로 일어나는/필연의/결론/결과;con(함께)+sequent(따르는) = 따라 일어나는 = 결과의! subsequent이랑 sequent 공통!;con+sequent! con-se-quent → "시퀀트(sequent=따르다)" 앞에 con. subsequent이랑 sequent 같고 con vs sub
+latitude;위도/지역/지방;lati(가로)+tude = 가로로 그은 선 = 위도! altitude이랑 tude 공통!;lati+tude! lat-i-tude → "라티(lati=가로)" + tude. altitude이랑 tude 같고 lati vs alti
+altitude;고도/높이/높은 곳;alti(높은)+tude = 높은 정도 = 고도! latitude이랑 tude 공통!;alti+tude! al-ti-tude → "알티(alti=높은)" + tude. latitude이랑 tude 같고 alti vs lati
+temper;기질/성질/기분/차분함;템퍼! 날카로운 성질(temper)을 다스리다! temperament=기질도 temper!;tem-per → "템(tem)+퍼(per)" → 딱 2음절. temperament랑 temper 같음
+immense;거대한/막대한/엄청난;im(아닌)+mense(측정) = 측정할 수 없는 = 엄청난! immerse이랑 헷갈리지 말기!;im+mense! im-mense → "멘스(mense=측정)" 앞에 im. mm 두 개! immerse이랑 e vs a 차이
+immerse;몰입하게하다/가라앉히다/잠그다;im(안으로)+merse(잠기다) = 안으로 잠기다 = 몰입! immense이랑 헷갈리지 말기!;im+merse! im-merse → "머스(merse=잠기다)" 앞에 im. mm 두 개! immense이랑 a vs e 차이
+owe;빚지고 있다/덕분이다/신세를 지고있다;오우! I owe you(아이 오 유) = 나 너한테 빚졌어!;o-w-e. "오(o)+위(we)" → 딱 3글자. IOU=I owe you
+an army of;많은(수의)/무리;army(군대)처럼 엄청 많은 수 = 무리!;army 하나만! an [army] of → "아미(army=군대)" 기억. 군대처럼 많은 수
+in stock;비축되어/재고로;stock(재고)+in = 재고에 있는 = 비축된!;stock 하나만! in [stock] → "스탁(stock=재고)" 기억. out of stock 반대
+at stake;성패가 달려있는/위태로운;stake(말뚝/내기) = 내기를 걸다 = 성패가 달리다!;stake 하나만! at [stake] → "스테이크(stake=내기)" 기억. 성패가 걸린 상황
+for one's own sake;제차를 위하여;sake(이익/위함) = 자기 자신을 위하여!;sake 하나만! for one's own [sake] → "세이크(sake=위함)" 기억
+specialize in;전문으로하다/전공하다;special(특별한)+ize = 특별하게 하다 = 전문으로!;in 하나만! specialize [in] → "인(in=안에서)" 기억. 특정 분야 안에서 전문화
+make for;도움이되다/~쪽으로 가다;make(만들다)+for = ~를 향해 만들다 = 도움이 되다!;for 하나만! make [for] → "포(for=위해)" 기억. ~쪽으로 향하거나 도움이 됨

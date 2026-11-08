@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>단어 암기장</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1 class="logo">📖 단어 암기장</h1>
+      <a href="/editor" class="ctrl-btn">✏️ 단어 편집</a>
+    </div>
+  </header>
+
+  <main class="home-main">
+    <div id="file-list"></div>
+  </main>
+
+  <script>
+    function fmtName(slug) {
+      return slug
+        .replace(/[-_]/g, ' ')
+        .replace(/\b\w/g, c => c.toUpperCase());
+    }
+
+    function fmtChapter(name) {
+      // numeric → "N단원", otherwise use as-is
+      return /^\d+$/.test(name) ? `${parseInt(name, 10)}단원` : name;
+    }
+
+    async function init() {
+      const res = await fetch('/words-manifest.json');
+      const files = await res.json();
+      const container = document.getElementById('file-list');
+
+      if (files.length === 0) {
+        container.innerHTML = '<p class="home-empty">단어 파일이 없습니다. 편집기에서 추가해주세요.</p>';
+        return;
+      }
+
+      // group → book → chapters
+      const tree = {};
+      files.forEach(f => {
+        const g = f.group || '';
+        const b = f.folder || '(기타)';
+        if (!tree[g]) tree[g] = {};
+        if (!tree[g][b]) tree[g][b] = [];
+        tree[g][b].push(f);
+      });
+
+      // render: ungrouped books first (g=''), then groups
+      const groupOrder = Object.keys(tree).sort((a, b) => {
+        if (a === '') return -1;
+        if (b === '') return 1;
+        return a.localeCompare(b);
+      });
+
+      groupOrder.forEach(groupKey => {
+        const books = tree[groupKey];
+        const section = document.createElement('div');
+        section.className = 'home-group';
+
+        if (groupKey !== '') {
+          const heading = document.createElement('h2');
+          heading.className = 'group-heading';
+          heading.textContent = fmtName(groupKey);
+          section.appendChild(heading);
+        }
+
+        const booksWrap = document.createElement('div');
+        booksWrap.className = 'books-wrap';
+
+        Object.entries(books).forEach(([bookKey, chapters]) => {
+          const card = document.createElement('div');
+          card.className = 'book-card';
+
+          const header = document.createElement('button');
+          header.className = 'book-card-header';
+          header.type = 'button';
+
+          const icon = document.createElement('span');
+          icon.className = 'book-icon';
+          icon.textContent = '📚';
+
+          const nameEl = document.createElement('span');
+          nameEl.className = 'book-card-name';
+          nameEl.textContent = fmtName(bookKey);
+
+          const badge = document.createElement('span');
+          badge.className = 'book-badge';
+          badge.textContent = `${chapters.length}단원`;
+
+          const chevron = document.createElement('span');
+          chevron.className = 'book-chevron';
+          chevron.textContent = '▼';
+
+          header.appendChild(icon);
+          header.appendChild(nameEl);
+          header.appendChild(badge);
+          header.appendChild(chevron);
+
+          const chapList = document.createElement('div');
+          chapList.className = 'book-chapters';
+
+          chapters
+            .slice()
+            .sort((a, b) => {
+              const na = parseInt(a.name, 10), nb = parseInt(b.name, 10);
+              if (!isNaN(na) && !isNaN(nb)) return na - nb;
+              return a.name.localeCompare(b.name);
+            })
+            .forEach(f => {
+              const link = document.createElement('a');
+              link.className = 'chapter-link';
+              link.href = `/?file=${encodeURIComponent(f.path)}`;
+              link.textContent = fmtChapter(f.name);
+              chapList.appendChild(link);
+            });
+
+          header.addEventListener('click', () => {
+            const open = card.classList.toggle('open');
+            chevron.textContent = open ? '▲' : '▼';
+          });
+
+          card.appendChild(header);
+          card.appendChild(chapList);
+          booksWrap.appendChild(card);
+        });
+
+        section.appendChild(booksWrap);
+        container.appendChild(section);
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>

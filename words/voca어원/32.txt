@@ -1,0 +1,23 @@
+cause;원인/이유; 야기하다/초래하다;caus(원인)+e = 원인 = 야기하다! because이랑 cause 공통!;c-a-u-s-e. "코즈(cause=원인)" → 딱 5글자. because이랑 cause 같음. accuse이랑 cuse 공통!
+accuse;고발하다/기소하다/비난하다;ac(향해)+cuse(원인) = 원인을 향해 가다 = 고발하다! accusation=고발이랑 같은 뿌리!;ac+cuse! ac-cuse → "어큐즈(cuse=원인)" 앞에 ac. 딱 2음절. accusation=고발이랑 같은 뿌리. cause이랑 cuse 공통!
+excuse;용서하다/봐주다/변명하다/양해를 구하다; 변명/구실;ex(밖으로)+cuse(원인) = 원인을 밖으로 빼내다 = 변명하다/용서하다! Excuse me!=실례합니다!;ex+cuse! ex-cuse → "익스큐즈(cuse=원인)" 앞에 ex. 딱 2음절. cause이랑 cuse 공통!
+via;~을 경유하여/~을 통해서;vi(길)+a = 길을 통해서 = 경유하여! obvious이랑 vi 공통!;v-i-a. "바이아(via=길)" → 딱 3글자. obvious이랑 vi 같음. via Seoul=서울을 경유하여
+obvious;분명한/명백한;ob(앞에)+vi(길)+ous = 길 앞에 있는 = 분명한/명백한! obviously=분명히이랑 같은 뿌리!;ob+vi+ous! ob-vi-ous → "오비어스(vi=길)" 앞에 ob. 딱 3음절. obviously=분명히이랑 같은 뿌리. via이랑 vi 공통!
+previous;이전의/앞의/사전의;pre(앞에)+vi(길)+ous = 앞길의 = 이전의! previously=이전에이랑 같은 뿌리!;pre+vi+ous! pre-vi-ous → "프리비어스(vi=길)" 앞에 pre. 딱 3음절. previously=이전에이랑 같은 뿌리. via이랑 vi 공통!
+convey;전하다/나르다/수송하다;con(함께)+vey(길) = 함께 길을 가다 = 전하다/수송하다! conveyance=수송이랑 같은 뿌리!;con+vey! con-vey → "컨베이(vey=길)" 앞에 con. 딱 2음절. conveyance=수송이랑 같은 뿌리. via이랑 v 공통 뿌리!
+voyage;항해/여행;voy(길)+age = 길의 것 = 항해/여행! bon voyage!=잘 가세요!;voy+age! voy-age → "보야지(voy=길)" + age. 딱 2음절. bon voyage!=좋은 여행을! via이랑 v 공통 뿌리!
+range;다양한 것들/범위/산맥; 범위가 ~에 걸치다;rang(줄/열)+e = 줄로 늘어선 것 = 범위/산맥! arrange이랑 같은 뿌리!;r-a-n-g-e. "레인지(range=줄)" → 딱 5글자. arrange이랑 range 공통. a wide range of=다양한
+arrange;계획하다/마련하다/배열하다/편곡하다;ar(향해)+range(줄) = 향해 줄로 세우다 = 배열하다/마련하다! arrangement=배열이랑 같은 뿌리!;ar+range! ar-range → "어레인지(range=줄)" 앞에 ar. 딱 2음절. rr 두 개! arrangement=배열이랑 같은 뿌리
+rank;계급/지위/열/줄; 위치하다/등급을 매기다;rank(줄/열) = 줄의 위치 = 계급/지위! range이랑 같은 뿌리!;r-a-n-k. "랭크(rank=줄)" → 딱 4글자. range이랑 같은 뿌리. rank-and-file=일반 대중
+depend;의지하다/믿다/~에 달려 있다;de(아래로)+pend(매달다) = 아래로 매달리다 = 의지하다/달려 있다! dependent=의존적인이랑 같은 뿌리!;de+pend! de-pend → "펜드(pend=매달다)" 앞에 de. 딱 2음절. dependent=의존적인이랑 같은 뿌리. suspend이랑 pend 공통!
+suspend;일시 중지하다/정직시키다/매달다/연기하다;sus(아래)+pend(매달다) = 아래에 매달다 = 정지하다/연기하다! suspension=정지이랑 같은 뿌리!;sus+pend! sus-pend → "서스펜드(pend=매달다)" 앞에 sus. 딱 2음절. suspension=정지이랑 같은 뿌리. depend이랑 pend 공통!
+expend;쓰다/들이다 (돈·시간·노력 등);ex(밖으로)+pend(매달다/달다) = 밖으로 달아내다 = 쓰다/들이다! expenditure=지출이랑 같은 뿌리!;ex+pend! ex-pend → "익스펜드(pend=달다)" 앞에 ex. 딱 2음절. expenditure=지출이랑 같은 뿌리. depend이랑 pend 공통!
+compensate;보완하다/상쇄하다/보상하다/배상하다;com(함께)+pens(달다)+ate = 함께 달아서 맞추다 = 보상하다/보완하다! compensation=보상이랑 같은 뿌리!;com+pens+ate! com-pen-sate → "컴펜세이트(pens=달다)" 앞에 com. 딱 3음절. compensation=보상이랑 같은 뿌리
+pension;연금;pens(달다/달리다)+ion = 달려있는 돈 = 연금! pensioner=연금 수령자이랑 같은 뿌리!;pens+ion! pen-sion → "펜션(pens=달다)" + ion. 딱 2음절. compensate이랑 pens 공통!
+ponder;깊이 생각하다/심사숙고하다;pond(무게를 달다)+er = 무게를 달듯 생각하다 = 심사숙고하다!ponderous=무거운이랑 같은 뿌리!;pond+er! pon-der → "폰더(pond=무게 달다)" + er. 딱 2음절. ponderous=무거운이랑 같은 뿌리
+apt;~하는 경향이 있는/적절한;apt(적합한) = 적합한 = 경향이 있는/적절한! aptitude=적성이랑 같은 뿌리!;a-p-t. "앱트(apt=적합한)" → 딱 3글자. aptitude=적성이랑 같은 뿌리. adapt이랑 apt 공통!
+adapt;적응시키다/각색하다/개작하다;ad(향해)+apt(적합한) = 향해 적합하게 하다 = 적응시키다! adaptation=적응이랑 같은 뿌리!;ad+apt! a-dapt → "어댑트(apt=적합한)" 앞에 ad. 딱 2음절. adaptation=적응이랑 같은 뿌리. apt이랑 apt 공통!
+attitude;태도/의견/자세;apt(적합한)→attit(향한)+ude = 향한 태도 = 태도/자세! aptitude이랑 같은 뿌리!;attit+ude! at-ti-tude → "애티튜드(attit=향한)" + ude. 딱 3음절. tt 두 개! aptitude이랑 같은 뿌리
+respond;반응하다/대답하다/응답하다;re(다시)+spond(약속하다) = 다시 약속하다 = 반응하다/응답하다! response=반응이랑 같은 뿌리!;re+spond! re-spond → "리스폰드(spond=약속하다)" 앞에 re. 딱 2음절. response=반응이랑 같은 뿌리. sponsor이랑 spons 공통!
+responsible;책임지고 있는/책임이 있는/책임감 있는;re+spons(약속하다)+ible = 약속할 수 있는 = 책임있는! responsibility=책임이랑 같은 뿌리!;re+spons+ible! re-spon-si-ble → "리스판서블(spons=약속하다)" 앞에 re. 딱 4음절. responsibility=책임이랑 같은 뿌리
+sponsor;후원자; 후원하다;spons(약속하다)+or = 약속하는 사람 = 후원자! sponsorship=후원이랑 같은 뿌리!;spons+or! spon-sor → "스폰서(spons=약속하다)" + or. 딱 2음절. sponsorship=후원이랑 같은 뿌리. respond이랑 spon 공통!

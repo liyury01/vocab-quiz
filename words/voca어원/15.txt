@@ -1,0 +1,24 @@
+abstract;추상적인/이론적인/추출하다/요약하다/추상/요약;abs(떨어진)+tract(당기다) = 현실에서 떼어낸 것 = 추상적인!;abs+tract! ab-stract → "스트랙트(tract=당기다)" 앞에 abs. extract/distract/attract이랑 tract 공통
+attract;(주의,흥미 등을) 끌다/끌어당기다/매혹하다;at+tract(당기다) = 당겨 끌다 = 매혹! distract이랑 tract 공통!;at+tract! at-tract → "트랙트(tract=당기다)" 앞에 at. distract 반대느낌
+contract;계약을 맺다/수축하다/줄다/계약(서);con(함께)+tract(당기다) = 함께 당겨 묶다 = 계약! 근육 수축도 contract!;con+tract! con-tract → "트랙트(tract=당기다)" 앞에 con. tract 5형제 중 하나
+distract;(마음,주의 등을) 흐트러뜨리다/산만하게 하다;dis(반대)+tract(당기다) = 반대로 당기다 = 흩뜨리다! attract 반대!;dis+tract! dis-tract → "트랙트(tract=당기다)" 앞에 dis. attract이랑 tract 같고 dis vs at
+extract;뽑아내다/추출하다/발췌하다/추출물/발췌;ex(밖으로)+tract(당기다) = 밖으로 당겨 꺼내다 = 추출!;ex+tract! ex-tract → "트랙트(tract=당기다)" 앞에 ex. tract 5형제: ab/at/con/dis/ex
+treat;대(우)하다/다루다/치료하다/대접하다/특별한것/대접;treat = 다루다! treatment/treaty/retreat이랑 treat 공통!;t-r-e-a-t. "트리(tre)+트(at)" → 딱 5글자. treatment/treaty/retreat이랑 treat 공통
+treaty;(국가 간의) 조약/협정;treat(다루다)+y = 다뤄서 맺은 것 = 조약!;treat+y! trea-ty → "트리티(treat=다루다)" + y. treat이랑 같은 뿌리
+retreat;후퇴하다/물러서다/철회하다/후퇴/퇴각;re(다시/뒤로)+treat(다루다) = 뒤로 물러나 다시 다루다 = 후퇴!;re+treat! re-treat → "트리트(treat=다루다)" 앞에 re. treat이랑 treat 같음
+trace;추적하다/자국을 따라가다/밝혀내다/자국/자취;트레이스! 흔적(trace)을 추적하다! track/trail/trait이랑 tr 공통!;t-r-a-c-e. "트레(tra)+이스(ce)" → 딱 5글자. track/trail/trait이랑 tr 어근 공통
+track;통로/오솔길/자국/흔적/철도/경주로/자취를 따라가다;트랙! 경주 트랙(track) = 자국/경로! trace/trail/trait이랑 tr 공통!;t-r-a-c-k. "트랙(track)" → 딱 5글자. keep track of=기록하다
+trail;질질 끌다/추적하다/오솔길/자국/흔적/실마리;트레일! 등산 트레일(trail) = 오솔길! trace/track/trait이랑 tr 공통!;t-r-a-i-l. "트레(tra)+일(il)" → ai 조합. 딱 5글자. hiking trail=등산로
+trait;특성/특징;트레잇! 성격 특성(trait) = 타고난 특징! trace/track/trail이랑 tr 공통!;t-r-a-i-t. "트레(tra)+잇(it)" → ai 조합. 딱 5글자. personality trait=성격 특성
+portray;묘사하다/표현하다;port(나르다)+ray(빛) = 빛을 담아 그리다 = 묘사! portrait이랑 portr 공통!;port+ray! por-tray → "포트(port=나르다)" + ray. portrait이랑 portr 같음
+generate;생산하다/창출하다/일으키다/(전기 등을) 발생시키다;gen(낳다)+erate = 낳아 만들어내다 = 생산! generation이랑 gen 공통!;gen+erate! gen-er-ate → "젠(gen=낳다)" + erate. generation/generous/general이랑 gen 공통
+generation;세대/일대(一代)/발생;generate(발생시키다)+ion = 발생하는 것/세대!;generate에서 e→ion! gen-er-a-tion → "제너레이트(generate=발생)" 에서 e를 ion으로. gen 어근 공통
+general;일반적인/보편적인/대체적인/전체적인/장군;gen(전체)+eral = 전체에 관한 = 일반적인! 군대 장군도 general!;gen+eral! gen-er-al → "젠(gen=전체)" + eral. generally이랑 같은 뿌리. 장군도 general
+gender;성/성별;gen(태어난)+der = 태어날 때 정해진 것 = 성별! gene/generate이랑 gen 공통!;gen+der! gen-der → "젠(gen=태어나다)" + der. 딱 2음절. he/she 구분하는 것
+gene;유전자;gen(낳다)+e = 유전의 기본 단위 = 유전자! genetic/generation이랑 gen 공통!;g-e-n-e. "진(gene)" → 딱 4글자. genetic이랑 gen 같음. DNA 속 유전자
+genetic;유전의/유전학의;gene(유전자)+tic = 유전자와 관련된 = 유전의! genetics=유전학도 genetic!;gene+tic! ge-net-ic → "지네(gene=유전자)" + tic. genetics=유전학. genetically이랑 같은 뿌리
+genius;천재(적 재능);gen(낳다)+ius = 타고난 것 = 천재! 선천적 재능!;gen+ius! ge-ni-us → "지니(geni=타고난)" + us. 딱 3음절. gentle/genuine이랑 gen 공통
+gentle;온화한/상냥한/친절한/적당한/부드러운/완만한;gen(태어난)+tle = 타고난 품성 = 온화한! gently이랑 같은 뿌리!;gen+tle! gen-tle → "젠(gen=태어난)" + tle. gently이랑 같은 뿌리
+genuine;진짜의/진품의/진실된/진정한;gen(태어난)+uine = 타고난 그대로 = 진짜의! fake 반대!;gen+uine! gen-u-ine → "제뉴(genu=태어난)" + ine. fake 반대. 3음절
+congenital;(병,장애 등이) 선천적인/(기질,특성 등이) 타고난/천성의;con(함께)+gen(낳다)+ital = 태어날 때 함께 온 = 선천적인!;con+gen+ital! con-gen-i-tal → "젠(gen=낳다)" 앞에 con + ital. gen 어근 공통
+pregnant;임신한/(의미,중요성 등을) 품은/내포하고 있는;pre(앞에)+gen(낳다)+ant = 낳기 전 상태 = 임신한!;pre+gn+ant! preg-nant → "프레그(preg=낳기전)" + nant. pregnancy이랑 같은 뿌리

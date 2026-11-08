@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>단어 편집기</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="ac-dropdown" class="ac-dropdown hidden"></div>
+
+  <header>
+    <div class="header-inner">
+      <h1 class="logo">✏️ 단어 편집기</h1>
+      <a href="/" class="ctrl-btn">← 퀴즈로 돌아가기</a>
+    </div>
+  </header>
+
+  <main class="editor-main">
+
+    <!-- 단어 추가 폼 -->
+    <div class="editor-card">
+      <h2>단어 추가</h2>
+      <div class="editor-form">
+        <div class="editor-field">
+          <label for="en-input">영어</label>
+          <input id="en-input" class="editor-input" type="text" placeholder="영어 단어 입력..." autocomplete="off" spellcheck="false" />
+        </div>
+        <div class="editor-field">
+          <label for="ko-input">한국어 뜻 <span class="label-hint">(/ 로 여러 뜻 구분)</span></label>
+          <input id="ko-input" class="editor-input" type="text" placeholder="한국어 뜻 (자동완성 또는 직접 입력)" autocomplete="off" />
+        </div>
+        <button id="btn-add" class="add-btn">+ 단어 추가</button>
+      </div>
+      <div id="no-key-notice" class="no-key-notice hidden">
+        ⚠️ <code>ANTHROPIC_API_KEY</code> 환경변수가 없어 팁 자동생성이 비활성화됩니다. 팁은 직접 입력하거나 나중에 수정하세요.
+      </div>
+    </div>
+
+    <!-- 단어 목록 테이블 -->
+    <div class="editor-card" id="table-card">
+      <div class="table-header-row">
+        <h2>입력된 단어 <span id="word-count" class="word-count-badge">0</span></h2>
+        <button id="btn-batch-tips" class="ctrl-btn batch-btn hidden">✨ 팁 전체 자동생성</button>
+      </div>
+      <div class="table-wrap">
+        <table class="word-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>영어</th>
+              <th>한국어</th>
+              <th>EN Tip</th>
+              <th>KO Tip</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="word-tbody">
+            <tr id="empty-row">
+              <td colspan="6" class="empty-msg">단어를 추가하면 여기에 표시됩니다.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 저장 섹션 -->
+    <div class="editor-card">
+      <h2>파일로 저장</h2>
+      <div class="save-path-row">
+        <div class="editor-field">
+          <label for="group-input">그룹 <span class="label-hint">(선택, 예: middle-school)</span></label>
+          <input id="group-input" class="editor-input" type="text" placeholder="비워두면 그룹 없음" autocomplete="off" />
+        </div>
+        <span class="path-sep">/</span>
+        <div class="editor-field">
+          <label for="book-input">교재 <span class="label-hint">(예: complete-word-master)</span></label>
+          <input id="book-input" class="editor-input" type="text" placeholder="교재 폴더명" autocomplete="off" />
+        </div>
+        <span class="path-sep">/</span>
+        <div class="editor-field save-name-field">
+          <label for="filename-input">단원명 <span class="label-hint">(예: 27)</span></label>
+          <div class="filename-wrap">
+            <input id="filename-input" class="editor-input filename-input" type="text" placeholder="단원명" autocomplete="off" />
+            <span class="filename-ext">.txt</span>
+          </div>
+        </div>
+      </div>
+      <div id="path-preview" class="path-preview"></div>
+      <button id="btn-save" class="action-btn primary save-btn">저장하기</button>
+      <div id="save-status" class="save-status"></div>
+    </div>
+
+  </main>
+
+  <script src="editor.js"></script>
+</body>
+</html>
