@@ -117,7 +117,7 @@
             .forEach(f => {
               const link = document.createElement('a');
               link.className = 'chapter-link';
-              link.href = `/?file=${encodeURIComponent(f.path)}`;
+              link.href = `index.html?file=${encodeURIComponent(f.path)}`;
               link.textContent = fmtChapter(f.name);
               chapList.appendChild(link);
             });
