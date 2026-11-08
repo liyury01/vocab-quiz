@@ -34,7 +34,8 @@
     }
 
     async function init() {
-      const res = await fetch('words-manifest.json');
+      const BASE = location.href.replace(/[^/]*(\?.*)?$/, '');
+      const res = await fetch(BASE + 'words-manifest.json');
       const files = await res.json();
       const container = document.getElementById('file-list');
 
@@ -117,7 +118,7 @@
             .forEach(f => {
               const link = document.createElement('a');
               link.className = 'chapter-link';
-              link.href = `index.html?file=${encodeURIComponent(f.path)}`;
+              link.href = `${BASE}index.html?file=${encodeURIComponent(f.path)}`;
               link.textContent = fmtChapter(f.name);
               chapList.appendChild(link);
             });

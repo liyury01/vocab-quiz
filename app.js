@@ -1,3 +1,6 @@
+/* ─── Base path (works on GitHub Pages subdirectory or root) ────── */
+const BASE = location.href.replace(/[^/]*(\?.*)?$/, '');
+
 /* ─── State ─────────────────────────────────────────────────────── */
 let allWords = [];
 let words = [];
@@ -55,7 +58,7 @@ async function init() {
 
   let allWordsData;
   try {
-    const res = await fetch(`words/${fileParam}.txt`);
+    const res = await fetch(`${BASE}words/${fileParam}.txt`);
     if (!res.ok) throw new Error('단어 파일을 불러올 수 없습니다.');
     const text = await res.text();
     allWordsData = text.split('\n').flatMap(line => {
@@ -77,7 +80,7 @@ async function init() {
   reset();
 
   const pathParts = fileParam.split('/');
-  const songJsonPath = 'words/' + pathParts.slice(0, -1).join('/') + '/_songs.json';
+  const songJsonPath = `${BASE}words/` + pathParts.slice(0, -1).join('/') + '/_songs.json';
   fetch(songJsonPath)
     .then(r => r.ok ? r.json() : {})
     .then(songs => {
